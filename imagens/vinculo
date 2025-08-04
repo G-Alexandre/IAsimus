@@ -1,0 +1,34 @@
+import json
+import re
+from pathlib import Path
+
+# Carregar conteúdo das páginas
+with open("wiki_simus.json", "r", encoding="utf-8") as f:
+    paginas = json.load(f)
+
+# Obter nomes das imagens baixadas
+caminho_imagens = Path("imagens")
+nomes_imagens = {img.name for img in caminho_imagens.glob("*")}
+
+# Criar dicionário {titulo: [imagens_usadas]}
+vinculos = {}
+
+for pagina in paginas:
+    titulo = pagina["titulo"]
+    conteudo = pagina["conteudo"]
+    imagens_usadas = []
+
+    for nome_img in nomes_imagens:
+        # Verifica se o nome aparece em alguma referência do conteúdo
+        padrao = re.compile(re.escape(nome_img), re.IGNORECASE)
+        if padrao.search(conteudo):
+            imagens_usadas.append(nome_img)
+
+    if imagens_usadas:
+        vinculos[titulo] = imagens_usadas
+
+# Salvar o mapeamento
+with open("vinculo_paginas_imagens.json", "w", encoding="utf-8") as f:
+    json.dump(vinculos, f, indent=2, ensure_ascii=False)
+
+print("Vinculação concluída. Salvo em 'vinculo_paginas_imagens.json'")

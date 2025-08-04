@@ -1,0 +1,5816 @@
+{
+  "1- Aplicando Desconto Financeiro": [
+    "Desc_Fin_Negociacao.JPG"
+  ],
+  "1- Cadastro da Operação de Entrada": [
+    "Custo_Composto_operacao.JPG"
+  ],
+  "1- Configurando Sistema para utilização da Rotina": [
+    "Figura_todas_tributacoes.jpg"
+  ],
+  "1- Configurando a Loja para participar do Gerador de Compras por Loja": [
+    "Cad_Loja_Gerador.JPG"
+  ],
+  "1- Configurando a operação para comunicação com a Balança": [
+    "Peso_balanca_operacao.JPG"
+  ],
+  "1- Configurando o cadastro do usuário": [
+    "Cad_usuario_divergencia.jpg"
+  ],
+  "1- Configurando o limite de compras diário para loja": [
+    "Limite02.png",
+    "Limite01.png"
+  ],
+  "1- Configurando permissão do usuário": [
+    "Usuario.JPG",
+    "Nego_fornecedor_usuario.JPG"
+  ],
+  "1- Configurar em Operação de Entrada": [
+    "Utilizaconferenciadenota_1.JPG",
+    "1.JPG"
+  ],
+  "1- Configuração do cadastro do Fornecedor": [
+    "Fornec_cad_devol.jpg.jpg"
+  ],
+  "1- Criando o pedido de Compras": [
+    "Pedido_Compras_Inc_Gerador.JPG"
+  ],
+  "1- Digitação de bonificação em valores para o gerador de compras F7": [
+    "1.JPG"
+  ],
+  "1- Direito de Usuário": [
+    "Permissao_diver_volumes.JPG"
+  ],
+  "1- Forma de Pagamento PADRÃO": [
+    "Forma_pag_padrao.jpg"
+  ],
+  "1- Iniciando o recebimento": [
+    "Carregador01.JPG",
+    "Dados_Carregadores.JPG",
+    "1.JPG",
+    "Carregador02.JPG",
+    "Posicione_carregador.JPG",
+    "Obtendo_peso_balanca.JPG"
+  ],
+  "1- Marcar como Conferida": [
+    "Utilizaconferenciadenota_3.JPG",
+    "Utilizaconferenciadenota_2.JPG"
+  ],
+  "1- Regras para inclusão do produto transformação": [
+    "Regra22.jpg",
+    "1.JPG",
+    "Regra21.jpg",
+    "Regra1.jpg"
+  ],
+  "1. Configuração do Sistema": [
+    "1.JPG",
+    "187086_Imagem01.JPG"
+  ],
+  "1 - Definindo o produto como estratégico": [
+    "Produto_estrategico.JPG"
+  ],
+  "2- Cadastrando as Negociações": [
+    "Necociacao_Inc.JPG"
+  ],
+  "2- Cadastro da Operação de Entrada": [
+    "Operacao_obriga_volumes.JPG"
+  ],
+  "2- Cadastro de Tipo Composto ou Configurações do Composto": [
+    "Custo_Composto_Configuracao.02JPG.JPG",
+    "Custo_Composto_Configuracao.JPG"
+  ],
+  "2- Carregando os produtos no Gerador de Compras por Loja": [
+    "Pedido_Compras_Carrega_Gerador.JPG"
+  ],
+  "2- Configurando Grade Tributária": [
+    "Config.JPG",
+    "Grade_cfop_cst_config.jpg"
+  ],
+  "2- Configurando estoque mínimo para o produto": [
+    "Cadastro_estoque_minimo_maximo.JPG"
+  ],
+  "2- Configurando o limite de compras mensal do comprador": [
+    "Limite03.png"
+  ],
+  "2- Configurando o sistema para o cálculo da Sugestão de Compras": [
+    "1.JPG",
+    "F8_IMAGEM06.JPG",
+    "F8_IMAGEM03.JPG",
+    "F8_IMAGEM08.JPG",
+    "F8_IMAGEM05.JPG",
+    "F8_IMAGEM01.JPG",
+    "F8_IMAGEM02.JPG",
+    "Config_Gerador_Sugestao.JPG",
+    "F8_IMAGEM04.JPG",
+    "F8_IMAGEM07.JPG"
+  ],
+  "2- Forma de Pagamento DIVER. PREÇOS": [
+    "Forma_pag_div_precos.jpg"
+  ],
+  "2- Gerando verba para Devoluções e Contas Receber": [
+    "Nego_Devoluca_gerado.JPG",
+    "Nego_Receber_gerado.JPG"
+  ],
+  "2- Inclusão do produto transformação": [
+    "Composto_transformacao.jpg"
+  ],
+  "2- Permissão no cadastro do usuário para digitação": [
+    "Cadastro_usuario_balanca.JPG"
+  ],
+  "2- Recebendo os produtos": [
+    "Recebimento_balanca01.JPG",
+    "1.JPG",
+    "Posicione_carregador_mercadoria.JPG",
+    "Obtendo_peso_balanca.JPG",
+    "Peso_liquido_produto.JPG"
+  ],
+  "2. Cadastro de Tipo de Movimento": [
+    "Movimentos.png"
+  ],
+  "2. Configuração do Usuário": [
+    "187086_Imagem02.JPG"
+  ],
+  "2. Processamento do Estoque Fiscal": [
+    "Movimentações.png"
+  ],
+  "3- Configurando a permissão de usuário": [
+    "Limite04.png"
+  ],
+  "3- Configuração no arquivo CONEXAO.INI para comunicação com a balança": [
+    "Configuracao_porta_com.JPG"
+  ],
+  "3- Definição Fator do item Composto": [
+    "Fator_Custo_Item_Composto.JPG"
+  ],
+  "3- Forma de Pagamento DEVOL. PARCIAL": [
+    "Forma_pag_div_parcial.jpg"
+  ],
+  "3- Negociação Devolução": [
+    "Nego_cad_devolucao.JPG"
+  ],
+  "3- Realizando a compra com base na quantidade calculada sugerida": [
+    "Pedido_Compras_QtdCompra_Gerador.JPG"
+  ],
+  "3. Cadastro de Vínculos para Contas do Estoque Fiscal": [
+    "vinculo"
+  ],
+  "4- Forma de pagamento DEVOL. TROCA": [
+    "Forma_pag_div_troca.jpg"
+  ],
+  "4- Negociação Contas Receber": [
+    "Nego_cad_contasreceber.JPG"
+  ],
+  "4- Pedidos de compras Gerados pelo Gerador de Compras por Loja": [
+    "Pedido_Compras_Sugestao_Gerado.JPG",
+    "Confirmacao_Gerador.JPG"
+  ],
+  "5- Forma de pagamento NEGOCIAÇÃO": [
+    "Forma_pag_negociacao.jpg"
+  ],
+  "5- Negociação Desconto Financeiro": [
+    "Nego_cad_financeiro.JPG"
+  ],
+  "6- Configurando Operação de Entrada": [
+    "Cad_operacao_negociacao.JPG"
+  ],
+  "ABA CONTABILIDADE": [
+    "EscritFisc_TpMvto1.png"
+  ],
+  "ASSOCIAR AO CLIENTE": [
+    "Cliente.png",
+    "Tipo_cliente.png",
+    "Vincula_Tipo_cliente.png"
+  ],
+  "ATUALIZACAO": [
+    "Extrairversoes.png",
+    "Pastaextraida.png",
+    "Baixarversoes.png",
+    "Localizarlauncher.png",
+    "Executarsimusupdate.png",
+    "Selecionarbanco.png",
+    "Ate.png",
+    "vinculo"
+  ],
+  "Aba Contabilidade": [
+    "EscritFisc_TpMvto1x.png"
+  ],
+  "Aba Convênio do Cadastro de Clientes fica travada para alterações": [
+    "Cad_clientes_aba_conv.png",
+    "Cad_clientes_aba_conv_edit.png",
+    "Cad_clientes_flag_cooperado1.png"
+  ],
+  "Aba Incidências": [
+    "EscritFisc_TpMvto3x.png"
+  ],
+  "Aba SPED": [
+    "EscritFisc_TpMvto4x.png"
+  ],
+  "Aba Tipos Vinculados": [
+    "EscritFisc_TpMvto2x.png"
+  ],
+  "Acerto do Valor de Abertura de Caixa": [
+    "AcertValAbertCx.JPG"
+  ],
+  "Acesso a Central de Solicitações": [
+    "Permissao_usuario_cadastro_solicitacoes1.png"
+  ],
+  "Acesso a rotina de Configurações para Geração de Pedidos CD": [
+    "Permissao_usuario_config_geracao_pedidos_CD.png",
+    "Config_geracao_pedidos_cd.png"
+  ],
+  "Acesso a rotina de Pedidos para CD": [
+    "Permissao_usuario_pedidos_CD.png"
+  ],
+  "Acesso a rotina de Promoção Mix": [
+    "Permissao_usuario_prom_mix.png"
+  ],
+  "Acesso a rotina de Promoção Mix Leve Pague": [
+    "Permissao_usuario_prom_mix_leve_pague.png"
+  ],
+  "Acesso a rotina de Tabloides": [
+    "Permissao_rotina_tabloide.png"
+  ],
+  "Acesso a rotina do Flash de Vendas": [
+    "Permissao_usuario_flash_venda.png"
+  ],
+  "Acesso ao Cadastro de Grupos": [
+    "Premissao_usuario_cad_grupos.png"
+  ],
+  "Acesso ao Cadastro de Tipos de Solicitações": [
+    "Permissao_usuario_cadastro_tipo_solicitacoes.png"
+  ],
+  "Acesso ao Menu Cadastros Financeiros e ao menu Administradoras": [
+    "Permissao_cad_fin_administradoras.png"
+  ],
+  "Acesso ao Menu Controle Produtos": [
+    "Permissao_menu_controle_produtos.png"
+  ],
+  "Acesso ao Menu Faturamento": [
+    "Permissao_menu_faturamento.png"
+  ],
+  "Acesso ao Menu Financeiro": [
+    "Permissao_menu_financeiro.png"
+  ],
+  "Acesso ao Menu Produtos": [
+    "Permissao_usuario_menu_produtos.png"
+  ],
+  "Acesso ao módulo de Contas Cooperados": [
+    "Permissao_menu_financeiro_coope.png"
+  ],
+  "Acesso aos parâmetros da sugestão no Gerador de compras F7": [
+    "Valores_sugestao.JPG",
+    "187635_gerador_f7.png"
+  ],
+  "Acesso aos parâmetros da sugestão no Gerador de compras F8": [
+    "187635_gerador_f8.png",
+    "Valores_sugestao.JPG"
+  ],
+  "Acesso através da rotina de Promoções": [
+    "Permissao_usuario_prod_negociados_atraves_da_promocao.png"
+  ],
+  "Acesso através da rotina de Tabloide": [
+    "Permissao_usuario_prod_negociados_atraves_do_tabloide.png"
+  ],
+  "Acesso através do Menu Controle Produtos": [
+    "Permissao_usuario_prod_negociados.png"
+  ],
+  "Acesso pelo faturamento": [
+    "MonitoramentoServFaturamento.jpg"
+  ],
+  "Acesso pelo módulo de compras": [
+    "MonitoramentoServicosCompras.jpg"
+  ],
+  "Acesso à rotina Fim de Dia": [
+    "Permissao_fimdedia.png"
+  ],
+  "Acesso à rotina Promoção": [
+    "Permissao_rotina_promocao.png"
+  ],
+  "Acesso à rotina de Baixa Receber / Devoluções por CNAB": [
+    "Permissao_baixa_receb.png"
+  ],
+  "Acesso à rotina de Baixar Contas a Pagar de Arquivo Texto de Retorno Pag-For": [
+    "Permissao_baixa_pagar.png"
+  ],
+  "Acesso à rotina de Conciliação de Cartões": [
+    "Permissao_conciliacao_cartoes.png"
+  ],
+  "Acesso à rotina de Controle de Cartões": [
+    "Permissao_controle_cartoes2.png"
+  ],
+  "Acesso à rotina de Controle de Lote Remessa Pag-For": [
+    "Permissao_lote_cnab_pagar.png",
+    "Lote_cnab_pagar.png"
+  ],
+  "Acesso à rotina de Controle de Lotes CNAB": [
+    "Lote_cnab_receb.png",
+    "Permissao_lote_cnab_receb.png"
+  ],
+  "Acesso à rotina de Controle de Lotes de Cartões": [
+    "Permissao_controle_cartoes.png"
+  ],
+  "Acesso à rotina de Geração de Lotes por Data de Conciliação": [
+    "Permissao_lotes_conciliacao.png"
+  ],
+  "Acesso à rotina de Tesouraria - Fechamento PDVs": [
+    "Permissao_financeiro_tesouraria.png"
+  ],
+  "Adiantamento a Fornecedores": [
+    "DevolGeraAdiant.JPG",
+    "DevolGeraAdiantMSG.JPG",
+    "AdiantGeradoPorDevol.jpg"
+  ],
+  "Adiantamento pela divergência negativa de preço Nota X Pedido": [
+    "Img_confirmacao_geracao_adiantamento.png",
+    "Adiantamento_gerado_por_divergencia.png",
+    "Img_exemplo_desmarcar_divergencia_negativa.png",
+    "Img_exemplo_divergencia_negativa.png",
+    "Divergencia.png"
+  ],
+  "Adiantamento pela divergência negativa de preço entre nota e pedido": [
+    "Img_confirmacao_geracao_adiantamento.png",
+    "Adiantamento_gerado_por_divergencia.png",
+    "Img_exemplo_desmarcar_divergencia_negativa.png",
+    "Img_exemplo_divergencia_negativa.png",
+    "Divergencia.png"
+  ],
+  "Adicionar o IIS no Windows 7": [
+    "Win7_iis_aguarde.png",
+    "Win7_painel_controle.png",
+    "Win7_add_iis2.png",
+    "Win7_program_recursos_ativ.png"
+  ],
+  "Adicionar o IIS no Windows Server 2003": [
+    "Wink3_add_iis_opt2.png",
+    "Wink3_add_iis_fim.png",
+    "Wink3_painel_controle_adremov.png",
+    "Wink3_adic_remov_program.png",
+    "Wink3_add_iis.png",
+    "Wink3_add_iis_www.png",
+    "Wink3_add_iis_progress.png",
+    "Wink3_add_iis_opt1.png",
+    "Wink3_add_iis_serv_app.png"
+  ],
+  "Adicionar o IIS no Windows Server 2008": [
+    "Win2k8_add_iis_opt1.png",
+    "Win2k8_programas.png",
+    "Win2k8_painel_controle.png",
+    "Win2k8_add_iis_visao.png",
+    "Win2k8_adic_funcoes.png",
+    "Win2k8_add_iis_fim.png",
+    "Win2k8_add_iis_progress.png",
+    "Win2k8_add_iis_confirm.png",
+    "Win2k8_add_iis_serv.png",
+    "Win2k8_ativ_desat_recursos.png"
+  ],
+  "Adicionar o IIS no Windows Server 2012": [
+    "Win2k12_adicionar_funcoes.png",
+    "Win2k12_add_iis_instalar.png",
+    "Win2k12_programas.png",
+    "Win2k12_add_iis_rec_asp.png",
+    "Win2k12_fechar.png",
+    "Win2k12_add_iis_progress.png",
+    "Win2k12_add_iis_funcoes_des.png",
+    "Win2k12_add_sel_server.png",
+    "Win2k12_programas_recwin.png",
+    "Win2k12_add_iis_funcoes.png",
+    "Win2k12_add_iis_recursos.png",
+    "Win2k12_painel_controle.png",
+    "Win2k12_add_iis.png",
+    "Win2k12_add_rec.png"
+  ],
+  "Adicionar o IIS no Windows XP": [
+    "Winxp_add_iis_progress.png",
+    "Winxp_initi_install.png",
+    "Winxp_add_iis_det.png",
+    "Winxp_add_iis.png",
+    "Winxp_add_remov_component.png",
+    "Winxp_add_remov.png",
+    "Winxp_add_iis_fim.png",
+    "Winxp_painel_controle.png"
+  ],
+  "Adicionar o NLS DATE FORMAT do Oracle": [
+    "Pesquisa_nls_date_format.png",
+    "Regedit.png",
+    "Nls_date_format_alterado.png",
+    "Nls_date_format_errado.png"
+  ],
+  "Administradora Pendente não aparece no filtro por Origem": [
+    "Ticket_import_pos2.png",
+    "Ticket_import_pos.png",
+    "Cad_fin_cartao_offline.png"
+  ],
+  "Agendamento de Carga": [
+    "Agendcarga10.png",
+    "Agendcarga9.png",
+    "Agendcarga2.png",
+    "Agendcarga4.png",
+    "Agendcarga7.png",
+    "Agendcarga1.png",
+    "Agendcarga3.png",
+    "Agendcarga8.png",
+    "Agendcarga11.png",
+    "Agendcarga6.png",
+    "Agendcarga12.png"
+  ],
+  "Agrupar pedidos de Faturamento": [
+    "Tela_Agrupamento.png",
+    "Selecionar_Pedidos.png",
+    "Permissao_1.png",
+    "Permissao_2.png",
+    "Pedido_Gerado.png"
+  ],
+  "Ajustar Saldo de Conta Corrente": [
+    "1.JPG",
+    "Telasaldoerrado1.jpg",
+    "Teladata.jpg",
+    "Telaagendamentoprocesso.jpg"
+  ],
+  "Ajustar informações de Mínimo Dias de Validade": [
+    "Acertar_wms.png"
+  ],
+  "Alerta ao importar XML: Não foi possível alterar o CEST do NCM": [
+    "CestExemploCad.jpg"
+  ],
+  "Algumas colunas não aparecem na pesquisa de produtos": [
+    "Pesq_produtos_arrasta_coluna.png",
+    "Pesq_produtos_sem_coluna.png",
+    "Customize.png",
+    "Pesq_produtos_bt_dir_sel_col.png"
+  ],
+  "Alguns registros aparecem sem o histórico débito/crédito no movimento de conta corrente": [
+    "Cad_formapagto_hist.png",
+    "Conta_corrente_historicodc.png"
+  ],
+  "Alterar data de entrada da nota para data de envio WMS": [
+    "Operacao_entrada_re.png",
+    "Nf_entrada.png"
+  ],
+  "Alterar forma de pagamento ou conta ao reapresentar cheque devolvido": [
+    "Tela_config_chequedev_pagamento.jpg",
+    "Tela_reapresentacao_chequedev.jpg"
+  ],
+  "Alterar o Dia Movimento do Sistema": [
+    "BotaoFimDia.png",
+    "ConfirmacaoAltFimDia.png",
+    "FimDiaAltMoviAtual.png",
+    "AltDataFimDia.png",
+    "ProcessoConcluido.png",
+    "ConfirmacaoRandomica.png"
+  ],
+  "Alterar o NLS Date Format do Oracle": [
+    "Pesquisa_nls_date_format.png",
+    "Regedit.png",
+    "Nls_date_format_alterado.png",
+    "Nls_date_format_errado.png"
+  ],
+  "Alterar o NLS Lang do Oracle": [
+    "Nlg_lang_alteracao.png",
+    "Regedit.png",
+    "Nls_lang_errado.png",
+    "Pesquisa_nls_lang.png"
+  ],
+  "Alterar o nome do arquivo XML enviado por email": [
+    "NomenclaturaXML.JPG"
+  ],
+  "Alterar taxa de Tickets no desmembramento": [
+    "Tela_permissao_config.jpg",
+    "Config.JPG"
+  ],
+  "Alteração de Preço/Margem de Venda": [
+    "Paginainicial.png",
+    "Replicarlojas.png",
+    "Botaoproduto.PNG",
+    "Telasimulacao.PNG",
+    "Alteracaoambos.png",
+    "Botaosimulacao.PNG",
+    "Alteracaopreco.png",
+    "Botaocustos1.PNG",
+    "Botaocustosproduto.png",
+    "Alteracaomargem.png",
+    "Alteracaosegundo.png"
+  ],
+  "Alteração de Promoção Leve Pague": [
+    "Inclusaoitenspromocao_botao_ok.png",
+    "Alteracaoitempromocao.png",
+    "Promocaoprincipal_selecionaregistro.png",
+    "Promocaoalteracaoreplicalojas.png",
+    "Botaoaltera.png",
+    "Selecionaregistro.png"
+  ],
+  "Alteração de Promoção Mix": [
+    "Inc_prom_mix_tela_princ.png"
+  ],
+  "Alteração de Tabloide de Promoções": [
+    "Botaoaltera.png"
+  ],
+  "Ao Criar um Select ocorre a mensagem: A Consulta especificada não pode ser executada": [
+    "Msg_consulta_especificada_nao_exe.png"
+  ],
+  "Ao abrir o Server ocorre a mensagem: Caminho dos arquivos não encontrados para o processamento GZ": [
+    "Server_erro_caminhogz.png"
+  ],
+  "Ao acessar a tela de Pesquisa de Produtos sempre é preciso alterar a Loja": [
+    "Produtos_pesq_salvar.png",
+    "Produtos_pesq_loja.png"
+  ],
+  "Ao acessar o Superus a tela de Digitação da Cotação é aberta diretamente": [
+    "Cad_usuario_digit_cotacao.png",
+    "Tela_digit_cotacao.png"
+  ],
+  "Ao acessar o Superus ocorre a mensagem: \"Conexão Direta não configurada no arquivo conexao.ini. Verifique!\"": [
+    "Conexão_direta_não_configurada.png"
+  ],
+  "Ao acessar o Superus ocorre a mensagem: A configuração ORACLE8 não existe": [
+    "Erro_oracle8.png"
+  ],
+  "Ao acessar o Superus ocorre a mensagem: Este usuário não pode logar nesta loja": [
+    "Usuarios_cad_logon.png",
+    "Usuarios_logon.png"
+  ],
+  "Ao acessar o Superus ocorre o erro: Error loading MIDAS.DLL": [
+    "Erro_midas_dll.png"
+  ],
+  "Ao acessar o Superus ocorre o erro: O programa não pode ser iniciado porque está faltando OCI.dll": [
+    "Oci_dll_erro.png"
+  ],
+  "Ao acessar o Superus ocorre o erro: “Erro: FireDAC Phys Ora-314 Cannot load vendor library C:\\Superus\\oracle\\oci.dll. Não foi possível encontrar o módulo especificado...\"": [
+    "Ocierro1.png",
+    "Ocierro3.png",
+    "Ocierro4.png",
+    "Ocierro2.png",
+    "Ocierro6.png",
+    "Ocierro5.png"
+  ],
+  "Ao acessar o Superus ocorre o erro: “Erro: FireDAC Phys Ora-314 Cannot load vendor library C:\\Superus\\oracle\\oci.dll. Não foi possível encontrar o módulo especificado. Hint: check it is in the PATH or application EXE directories, and has x86 bitness\"": [
+    "Ocierro1.png",
+    "Ocierro3.png",
+    "Ocierro4.png",
+    "Ocierro2.png",
+    "Ocierro6.png",
+    "Ocierro5.png"
+  ],
+  "Ao acessar o Superus ocorre o erro File: SQLORA8.DLL": [
+    "Erro_sqlora8.png"
+  ],
+  "Ao acessar o Superus ocorre o erro ORA-01012: not logged on": [
+    "Faqutilitarioserrologed.JPG"
+  ],
+  "Ao acessar o Superus ocorre o erro ORA-03114: not connected to ORACLE": [
+    "Faqerronotconectedoracle.PNG"
+  ],
+  "Ao atualizar a nota de entrada ocorre o aviso \"Consulta de nota esta com situação diferente de válida. Operação Cancelada.\"": [
+    "Valid.JPG",
+    "Msg_atencao.jpg"
+  ],
+  "Ao atualizar um inventário o estoque não foi movimentado": [
+    "Inventario_estoque_contabil.PNG",
+    "Inventario_estoque_divergencia.PNG",
+    "Atualiza.png",
+    "Inventario_estoque_atualiza.PNG",
+    "Divergencia.png"
+  ],
+  "Ao baixar cheques devolvidos, ocorre a mensagem: O caixa não está aberto na data de hoje, operação cancelada": [
+    "Baixa_cheq_devol2.png",
+    "Baixa_cheq_devol.png",
+    "Config_lanc_cheque_cx_ant.png"
+  ],
+  "Ao cadastrar novas pessoas os códigos não ficam em sequência": [
+    "Inc_pessoas_codigos_seq.png",
+    "Inc_pessoas_codigos.png"
+  ],
+  "Ao clicar no botão 'abrir layout' da impressão de etiqueta o sistema trava": [
+    "Fast_report_apaga_registro.jpeg",
+    "Impressao_botao_trava.jpeg"
+  ],
+  "Ao digitar os preços em uma cotação no Superus, a cada produto é aberta a tela solicitando permissão": [
+    "Config_comp_cotacao.png",
+    "Perm_prod_fora_limite.png"
+  ],
+  "Ao efetuar manutenção de algum cadastro ocorre o erro: 10058 Invalid Time": [
+    "Faqcadastroerroinvalidtime.png"
+  ],
+  "Ao enviar boleto por e-mail ocorre erro mesmo que o usuário logado possua e-mail válido": [
+    "Cad_loja_email_bol_fatura.png",
+    "Email_env_boleto.png",
+    "Correio_superus_validado.png"
+  ],
+  "Ao enviar carga para balança ocorre a mensagem: Arquivo de Semáforo não configurado": [
+    "Exp_balanca_semaforo_nao_config.png",
+    "Cad_loja_balanca_parametros.png"
+  ],
+  "Ao enviar carga para balança ocorre o erro: I/O Error 21": [
+    "Exp_balanca_caminhos.png",
+    "Io_error_21.png"
+  ],
+  "Ao executar o Superus pelo Launcher a tela de logon demora muito para aparecer": [
+    "LauncherIni.png",
+    "LogonSuperus.png"
+  ],
+  "Ao executar select é emitida mensagem para utilizar função Round": [
+    "Mensagem_round.PNG"
+  ],
+  "Ao fazer a Verificação Superus x Frente de Loja, os valores do E-conect aparecem zerados, gerando divergências": [
+    "Verificacaoeconect3.png",
+    "Verificacaoeconect1.png",
+    "Verificacaoeconect2.png"
+  ],
+  "Ao gerar um inventário ocorre o erro: ORA-01476: divisor is equal to zero": [
+    "Divisor_equals_to_zero.png"
+  ],
+  "Ao importar o movimento da tesouraria não aparece o valor da sangria": [
+    "Config_tes_sangria.png",
+    "Tes_fec_pdvs.png",
+    "Config_tes_sangria2.png"
+  ],
+  "Ao importar o movimento da tesouraria o código do operador aparece zerado": [
+    "Fech_tes_oper.png"
+  ],
+  "Ao importar o movimento da tesouraria os operadores não são agrupados": [
+    "Config_tesour_oper.png",
+    "Tesour_fech_pdv.png"
+  ],
+  "Ao imprimir a etiqueta layout windows o código de barras sai com um número a mais": [
+    "Numeroamais.png",
+    "Botao.PNG",
+    "Botaosalvar.PNG",
+    "Abrirlayout.png",
+    "Clicarcodigo.png",
+    "Truefalse.png",
+    "Semnumero.PNG"
+  ],
+  "Ao imprimir cheques é apresentada a mensagem: Não há layout de cheques cadastrado para esta conta": [
+    "Imp_cheq_layout_conta.png",
+    "Layout_cheque_conta.png"
+  ],
+  "Ao imprimir etiquetas térmicas ocorre erro: Error writing dcb (1), Função incorreta": [
+    "Erro_writing_dcb.png",
+    "Impressora_com1.png",
+    "Conexaoini_porta_com1.png"
+  ],
+  "Ao imprimir extrato de contas cooperados, ocorre o erro: I/O error 103": [
+    "Error_imp_extcooper.png"
+  ],
+  "Ao incluir o centro de custos no cadastro do fornecedor não aparece a loja": [
+    "Cad_forn_centrocustos.png",
+    "Cad_loja_cont_finan.png"
+  ],
+  "Ao incluir um produto Similar alguns campos não são replicados": [
+    "Prod_similar_config.png"
+  ],
+  "Ao incluir uma nova embalagem de produto ocorre a mensagem: Já existe este código no banco de dados": [
+    "CamposAPesq.png",
+    "PesquisaF12.png",
+    "FiltrosPesqProd.png",
+    "BtnPesquisa.png",
+    "DadosAPesq.png",
+    "Ja_existe_este_cod_bd.png"
+  ],
+  "Ao minimizar uma tela dentro do Superus, a barra de janelas some": [
+    "Escala3.png",
+    "Barrawikiutilitarios.jpg",
+    "Escala2.png",
+    "Barrawikiutilitarios2.jpg",
+    "Escala1.png"
+  ],
+  "Ao realizar a troca de valores entre caixas, o valor da transferência não é exibido em algumas máquinas": [
+    "Regedit.png",
+    "Mov_caixa_transf.png",
+    "SuperusRegedit.png",
+    "TFormCaixasMovRegedit.png"
+  ],
+  "Ao realizar o fechamento do convênio a loja de pagamento não é exibida": [
+    "Baixa_conv_sem_loja_pagto.png",
+    "Cad_loja_empresa.png"
+  ],
+  "Ao selecionar a loja no lote de tickets o campo conta fica desabilitado": [
+    "Cad_adm_contacorrente.png",
+    "Lote_tickets_conta.png",
+    "Lote_tickets_conta2.png"
+  ],
+  "Ao tentar excluir um lançamento na Conta Corrente, aparece a mensagem: 'Lançamento Conciliado não pode ser alterado...'": [
+    "Exclui.jpg",
+    "Dadosconcili.jpg",
+    "Excluiok.jpg",
+    "Contacorrente.jpg",
+    "Exclusaoconciliacao.jpg"
+  ],
+  "Ao visualizar impressão ocorre erro: There Is No Default Printer Currently Selected": [
+    "Erro_there_is_not_default_printer.png"
+  ],
+  "Apagar um manifesto gerado": [
+    "ExManifesto.jpg"
+  ],
+  "Apresentar apenas valor informado na Tesouraria": [
+    "Tela_tesouraria.jpg",
+    "Tela_config_apura_tesouraria.jpg",
+    "Tesouraria.jpg"
+  ],
+  "Apuração -EFD Contribuições Pis/Cofins": [
+    "1659.jpg",
+    "1138.jpg",
+    "1.JPG",
+    "1701.jpg",
+    "1649.jpg",
+    "1116.jpg",
+    "1706.jpg",
+    "1134.jpg",
+    "1702.jpg",
+    "1707.jpg",
+    "1650.jpg",
+    "1126.jpg",
+    "1209.jpg",
+    "1708.jpg",
+    "1206.jpg"
+  ],
+  "Apuração de PIS e COFINS": [
+    "ApuracaoPISCOFINSTELA.jpg"
+  ],
+  "Após atualização da porcentagem da taxa os tickets continuam subindo com a taxa antiga": [
+    "Cad_admin.png",
+    "Cad_admin_lojas.png",
+    "Tickets1.png"
+  ],
+  "Arredondamento de Preços por Alteração no Cadastro de Produtos": [
+    "6_cadastro_produtos.png"
+  ],
+  "Arredondar ou não impostos por fornecedor": [
+    "DivImpFor.jpg"
+  ],
+  "As formas de pagamentos negociáveis não aparecem na negociação de recebimentos de cooperados": [
+    "Cad_cond_negociacao.png",
+    "Forma_pag_negociaveis.png"
+  ],
+  "Atualizar Nota de Entrada - Fornecedor não enviou o IE ST no arquivo XML": [
+    "IEST.jpg",
+    "22e.jpg"
+  ],
+  "Atualizar a situação de um evento rejeitado por duplicidade": [
+    "ConsultaEventos.jpg"
+  ],
+  "Atualizar os dados importados": [
+    "TelaAtualizacaoFiscalSystax.jpg"
+  ],
+  "Atualização Superus": [
+    "Extrair_versao.png",
+    "Escolha_banco_simus.png",
+    "Simus_update_versao.png",
+    "Localizarlauncher.png",
+    "Faq_versoes.png",
+    "vinculo"
+  ],
+  "Atualização das TABELAS de base comum": [
+    "Pl_sql_command_finish.png",
+    "Pl_sql_menu_command.png",
+    "Pl_sql_command_close.png",
+    "Pl_sql_abrir_tipo_arquivo.png",
+    "Arquivos_base_comum_tabelas_vsr.png",
+    "Arquivos_base_comum_tabelas.png",
+    "Pl_sql_command_execute.png"
+  ],
+  "Atualização do pedido cancela pois não esta marcado para gravar em devolução no cadastro da finalizadora": [
+    "188974_ped2.png"
+  ],
+  "Atualização do pedido cancelada por não estar marcado para gravar em devolução no cadastro da finalizadora": [
+    "188974_ped2.png"
+  ],
+  "Atualização do pedido grava em devolução": [
+    "188974_ped.png",
+    "188974_dev.png"
+  ],
+  "Atualização do preço dos itens de um composto baseado no custo do Produto Principal": [
+    "Fluxo_Dados_Composto.jpg"
+  ],
+  "Atualização dos módulos via Sistema": [
+    "Atualizar2.png"
+  ],
+  "Audicon": [
+    "Fgfloja.png",
+    "Fgfgerencia.png"
+  ],
+  "Baixa Por Convênio": [
+    "TelaFechaConvCoop.JPG.jpg",
+    "BtnBaixContPorConv.jpg"
+  ],
+  "Baixa de Cheques a Receber por Lote": [
+    "BtnExcIndLot.jpg",
+    "Lote.png",
+    "BtnCtrlLote.jpg",
+    "BtnNovoLote.jpg",
+    "Cheque_por_lote.png",
+    "BxLoteChequeRec.jpg",
+    "BtnInsTdsLot.jpg",
+    "BtnCancBxLtChRec.jpg",
+    "BtnExcTdsLot.jpg",
+    "BtnInsIndLot.jpg"
+  ],
+  "Baixa de Contas Cooperados - Erro I/O": [
+    "ERROIO.jpg",
+    "Telaerroio.jpg"
+  ],
+  "Baixa de Contas a Pagar com Arquivo CNAB": [
+    "TelaExpArqRemLotePagar.jpg",
+    "TelaControlLotePagarArqRem.jpg",
+    "BtnLotePagar.jpg"
+  ],
+  "Baixa de devolução com desconto em contas a pagar": [
+    "Cont_lotes_devol_abtmto_contas.png",
+    "Cont_lotes_devol_abtmto1.png",
+    "Cont_lotes_devol_abtmto_baixa.png",
+    "Cad_forma_pagto_abtmto.png"
+  ],
+  "Baixa parcial de Contas Cooperados": [
+    "1.JPG",
+    "Baixaparcial1.jpg"
+  ],
+  "Baixa parcial de Contas Cooperados por data de vencimento": [
+    "Baixaparcialporvencimento.jpg"
+  ],
+  "Baixa por lote": [
+    "BtnExcIndLot.jpg",
+    "BtnCtrlLote.jpg",
+    "CtrlLoteChRec.JPG",
+    "BtnNovoLote.jpg",
+    "BxLoteChequeRec.jpg",
+    "BtnInsTdsLot.jpg",
+    "BtnCancBxLtChRec.jpg",
+    "BtnExcTdsLot.jpg",
+    "BtnInsIndLot.jpg"
+  ],
+  "Bloquear Data de Vencimento menor que a Data Entrada": [
+    "Operacao_bloqueia_data_vencimento.JPG"
+  ],
+  "Bloquear atualização nota entrada por operação": [
+    "Bloqueia_atualizacao_operacao_entrada.JPG"
+  ],
+  "Bloquear divergências de impostos na nota fiscal de entrada": [
+    "DivergenciasEntrada.jpg"
+  ],
+  "Bloquear o envio para WMS ou Coletor com divergências": [
+    "Bloqueia_envio_wms.JPG",
+    "Mensagem_bloqueio_envio_wms.JPG"
+  ],
+  "Bloquear um determinado produto no pedido de compras": [
+    "Prod_bloqueado_compra.jpg",
+    "Bloquear_produto_compras.jpg",
+    "Prod_bloqueado_cotacao.jpg"
+  ],
+  "Bloqueio das movimentações para um determinado período e loja": [
+    "BloqueioFinal.jpeg"
+  ],
+  "Bonificação": [
+    "Devolucao_bonificacao.png"
+  ],
+  "Bonificação pelo CFOP na Nota de Entrada": [
+    "Item_bonificado1.png",
+    "Desconto_bonificacao.png"
+  ],
+  "Botão auditor na geração do Sped": [
+    "Inconsistência.jpg",
+    "Auditor.jpg"
+  ],
+  "Botão para impressão do DANFE fica desabilitado": [
+    "PermissaoDANFE.jpeg",
+    "ImprimeDANFE.jpeg"
+  ],
+  "Botões superiores": [
+    "Cancela_pedido.png",
+    "Pedido.png",
+    "Baixa_pedido.png",
+    "Retorna_pedido_baixado.png",
+    "Atualiza_registros.png",
+    "Imprime_pedido.png",
+    "Emite_pedidos.png",
+    "Altera_pedido.png",
+    "Consulta_pedido.png",
+    "Exclui_pedido_de_compra.png"
+  ],
+  "Busca de arquivos": [
+    "ConfiguracoesImportadorXML2.jpg"
+  ],
+  "Buscar XML": [
+    "BuscarXMLSEFAZ.jpg"
+  ],
+  "CADASTRAR TIPO CLIENTE": [
+    "Cliente.png",
+    "Tipo_cliente.png"
+  ],
+  "Cadastrar Tipo de Promoção": [
+    "BtnCancReaprChAlinea11.jpg",
+    "1.JPG",
+    "BtnSalvar.jpg",
+    "BtnNovoLote.jpg",
+    "Tipopromo1.png",
+    "Tipopromo2.png"
+  ],
+  "Cadastrar automaticamente a referência pelo importador": [
+    "ReferenciaOp.jpg"
+  ],
+  "Cadastrar gênero do NCM": [
+    "SemGenero.jpg",
+    "DadosSalvar.jpg",
+    "ConferirGenero.jpg",
+    "NovoGenero.jpg"
+  ],
+  "Cadastro Tipo de Devolução": [
+    "Cadastro_tipo_dev.png"
+  ],
+  "Cadastro da Carteira de Cobrança": [
+    "CadCartCobrança.JPG"
+  ],
+  "Cadastro da Carteira de Cobrança para a Conta Corrente": [
+    "CadContasCartCobr.JPG",
+    "CadContas.JPG"
+  ],
+  "Cadastro da Condição de negociação de recebimento": [
+    "BtnSalvar.jpg",
+    "BtnNovoLote.jpg",
+    "CadCondNegRec.JPG"
+  ],
+  "Cadastro da Conta Corrente no Layout do Banco": [
+    "CadLayBoletosConta.JPG",
+    "CadLayBoletos.JPG"
+  ],
+  "Cadastro da finalizadora para lançar em devoluções": [
+    "188974_fina.png"
+  ],
+  "Cadastro da operação": [
+    "Operação_movimeto.png"
+  ],
+  "Cadastro da operação de faturamento para Transformar pedido em nota fiscal de cupom": [
+    "188973_opera.png"
+  ],
+  "Cadastro da operação de faturamento para lançar em devoluções": [
+    "188974_opera.png",
+    "188974_config.png"
+  ],
+  "Cadastro de Abastecimento": [
+    "Abastecimentoo3.png",
+    "Abastecimento1.png",
+    "Abastecimento6.png",
+    "Abastecimentoo5.png",
+    "Abastecimentoo2.png",
+    "Abastecimento4.png"
+  ],
+  "Cadastro de Abastecimento.": [
+    "Abastecimentoo3.png",
+    "Abastecimento1.png",
+    "Abastecimento6.png",
+    "Abastecimentoo5.png",
+    "Abastecimentoo2.png",
+    "Abastecimento4.png"
+  ],
+  "Cadastro de Administradora Carteira Digital": [
+    "Cad_administradora_picpay2.png"
+  ],
+  "Cadastro de Alíquota e vínculo com o Frente de Loja através do Cadastro de Tributação": [
+    "Aliquotas_Cad.png"
+  ],
+  "Cadastro de Arredondamento de Preços": [
+    "5_menu_controle_produtos.png",
+    "1_cadastro_arredondamento_precos.png"
+  ],
+  "Cadastro de CFOP": [
+    "CadCFOPTransICMS.jpg"
+  ],
+  "Cadastro de CFOP...": [
+    "CFOPENTRADAS.jpg",
+    "Cfop.jpg"
+  ],
+  "Cadastro de Carteira de Cobrança": [
+    "Cad_carteira_cobrança2.png",
+    "BtnSalvar.jpg",
+    "BtnNovoLote.jpg",
+    "Cad_carteira_cobrança.png"
+  ],
+  "Cadastro de Cliente com informação Cadastro Vencido mesmo sem prazo de validade informado": [
+    "Cad_cli_cad_venc.png"
+  ],
+  "Cadastro de Conta Corrente": [
+    "BtnSalvar.jpg",
+    "BtnNovoLote.jpg",
+    "Cad_conta_corrente2.png",
+    "Cad_conta_corrente1.png"
+  ],
+  "Cadastro de Conta Corrente Pagamento": [
+    "Cad_conta_corrente20_1.png",
+    "BtnSalvar.jpg",
+    "BtnNovoLote.jpg",
+    "Cad_conta_corrente1.png"
+  ],
+  "Cadastro de Empresa": [
+    "CadastroEmp.jpg"
+  ],
+  "Cadastro de Finalidade de Tipo de Promoção": [
+    "Cadastro_tipo_f2.PNG",
+    "Etiqueta_2.PNG",
+    "Tela_promocao.PNG",
+    "Apelido_interno.PNG",
+    "Precos_vigentes.PNG",
+    "Tela_pesquisa.PNG",
+    "Cadastro_tipo_f3.PNG",
+    "Promo_86_inclusao.PNG",
+    "Vinculados.png",
+    "Cadastro_tipo_finalidade.PNG",
+    "Etiqueta_1.PNG",
+    "Tipos_vinculados.PNG",
+    "Inclusao_promo.PNG",
+    "Enviar_frente.PNG"
+  ],
+  "Cadastro de Finalizadora": [
+    "Cad_finalizadora_valor_bruto_tesou.png"
+  ],
+  "Cadastro de Finalizadora Carteira Digital": [
+    "Cad_finalizadora_cart_digital.png"
+  ],
+  "Cadastro de Finalizadora PIX": [
+    "Cdtfinpix6.jpg",
+    "Cdtfinpix1.jpg",
+    "1.JPG",
+    "Cdtfinpix3.jpg",
+    "Cdtfinpix5.jpg",
+    "Cdtfinpix4.jpg",
+    "Cdtfinpix2.jpg"
+  ],
+  "Cadastro de Finalizadoras": [
+    "Inc_cont_corrente_fin_pix.png",
+    "Cad_finalizadora_pix.png"
+  ],
+  "Cadastro de Forma de Pagamento para lançar no Módulo de Adiantamentos": [
+    "CadFormPgtoAdiantForn.jpg",
+    "MenuCadFinFormPgto.JPG"
+  ],
+  "Cadastro de Fornecedor": [
+    "Exclusaoprevisaocontaspagar1.jpg",
+    "1.JPG",
+    "R1.jpg"
+  ],
+  "Cadastro de Fornecedor para gerar Contas a Pagar para Matriz": [
+    "CadFornGerPagarMatriz.JPG"
+  ],
+  "Cadastro de Impostos": [
+    "Cadastro_impostos.jpg"
+  ],
+  "Cadastro de Layout de Boleto": [
+    "Cad_layout_boleto2.png",
+    "BtnSalvar.jpg",
+    "BtnNovoLote.jpg",
+    "Cad_layout_boleto.png"
+  ],
+  "Cadastro de Loja": [
+    "CadLojaReg.jpg"
+  ],
+  "Cadastro de Número Máximo de Dias para Reagendamento de Contas a Pagar": [
+    "AltNumMaxDiasAltVencPagar.JPG"
+  ],
+  "Cadastro de Operador": [
+    "Cad_loja_func_pdv.png"
+  ],
+  "Cadastro de Operações de Entradas": [
+    "FreteOperacoesEntradas.jpg"
+  ],
+  "Cadastro de PDV": [
+    "Cad_loja_pdv.png"
+  ],
+  "Cadastro de Plano de Abastecimento": [
+    "BtnSalvar.jpg",
+    "Pl_abastecimento.jpg"
+  ],
+  "Cadastro de Produtos": [
+    "vinculo"
+  ],
+  "Cadastro de Produtos.": [
+    "vinculo"
+  ],
+  "Cadastro de Rateio de Centro de Custos": [
+    "IncRegistro.jpg",
+    "IncLojaRatCentCustos.jpg",
+    "REGISTRO.jpg",
+    "CadRatCentCustos.JPG"
+  ],
+  "Cadastro de Tipos de Abastecimentos": [
+    "BtnSalvar.jpg",
+    "Tp_abastecimento.jpg"
+  ],
+  "Cadastro de Tipos de Solicitações": [
+    "Cadastro_tipos_solicitacoes.png"
+  ],
+  "Cadastro de Tributação para Alíquota ICMS cheia (pura)": [
+    "CadTributacao2.png",
+    "BtnNovoLote.jpg",
+    "CampoNome.png",
+    "CampoAliquota.png",
+    "CadAliquota12.png",
+    "CampoSoftwareFrentedeLoja.png",
+    "CampoCodigo.png"
+  ],
+  "Cadastro de Tributação para Alíquota ICMS com Redução": [
+    "CadAliquota12Red7.png",
+    "CadTributacao2.png",
+    "BtnNovoLote.jpg",
+    "CampoNome.png",
+    "CampoAliquota.png",
+    "CampoSoftwareFrentedeLoja.png",
+    "Exemplo_cad_trib_12para7.png",
+    "CampoCodigo.png"
+  ],
+  "Cadastro de Usuário": [
+    "1.JPG"
+  ],
+  "Cadastro de Usuário para Rotinas com Cheques Alíneas 11": [
+    "CadUserGrupChDev.JPG"
+  ],
+  "Cadastro de Usuário para acesso ao lote do Contas a Pagar": [
+    "TelaCadUserPermLotPagar.JPG"
+  ],
+  "Cadastro de Usuários no site da Cotação Web": [
+    "Cotacao_web_usuarios.png",
+    "Botao_salvar_site.png",
+    "Botao_adicionar_site.png",
+    "Cotacao_web_nome_email.png",
+    "Cotacao_web_usuarios_superior.png"
+  ],
+  "Cadastro de Vasilhame": [
+    "Vasilhame1.png",
+    "Vasilhame2.png"
+  ],
+  "Cadastro de Vasilhame.": [
+    "Vasilhame1.png",
+    "Vasilhame2.png"
+  ],
+  "Cadastro de administradoras": [
+    "Adm_rede_sorocred.png",
+    "Adm_rede_visa.png",
+    "Adm_cielo_visa_cred.png",
+    "Adm_alelo_ali.png",
+    "Adm_cielo_master_deb.png",
+    "Adm_cielo_elo_deb.png",
+    "Adm_cie_elo_cred.png",
+    "Adm_sodexo_alim.png",
+    "Adm_rede_amex.png",
+    "Adm_rede_visa_electron_deb.png",
+    "Adm_rede_dinner's_club.png",
+    "Adm_VR.png",
+    "Adm_rede_elo_cred.png",
+    "Adm_ticket_alim.png",
+    "Adm_rede_cabal_cred.png",
+    "Adm_redecard_funcao_deb_elo.png",
+    "Adm_rede_mastercard.png",
+    "Adm_rede_maestro_deb.png",
+    "Adm_rede_cabal_deb.png",
+    "Adm_green_card_ali.png",
+    "Adm_cielo_visa_deb.png",
+    "Cielo_am.png",
+    "Adm_alelo_ref.png",
+    "Adm_hiper_card_cred.png",
+    "Adm_mais.png",
+    "Adm_cielo_master_cred.png"
+  ],
+  "Cadastro de comissão de produto para vendedor.": [
+    "Comissao.png",
+    "Comissao4.png",
+    "Comissao1.png",
+    "Comissao3.png",
+    "Comissao6.png",
+    "Comissao5.png",
+    "Comissao2.png"
+  ],
+  "Cadastro de e-mail dos fornecedores no Superus": [
+    "BtnNovoLote.jpg",
+    "Botao_email.png",
+    "Cadastro_email.png"
+  ],
+  "Cadastro de embalagens": [
+    "Utilizando_Fator.png",
+    "Embalagem_em_edicao.png"
+  ],
+  "Cadastro de operação de faturamento": [
+    "OperacaoFatCreditoICMSTipoNOta.jpg",
+    "OperacaoFatCreditoICMS.jpg"
+  ],
+  "Cadastro do layout de importação CNAB": [
+    "Telalayout.jpg"
+  ],
+  "Cadastro do tipo de produto": [
+    "CadTipoPorRegime.jpg"
+  ],
+  "Caixa não aparece na baixa de contas cooperados": [
+    "Baixa_coop_caixa.png",
+    "Cad_caixas_inclui_usuario2png.png"
+  ],
+  "Caixa não fica disponível para usuário": [
+    "Cad_caixas_inclui_usuario.png"
+  ],
+  "Calcula vencedores da Concorrência": [
+    "Ganhadores_concorrencia.png"
+  ],
+  "Calcula vencedores da cotação": [
+    "Calcula_vencedor_cotacao_precos.png",
+    "Alterando_status_vencedor_cotacao.png"
+  ],
+  "Calcular valor da ST em uma NF de entrada através da Figura Fiscal": [
+    "Ent_st_figura_regime_piscofins.png",
+    "Ent_st_figura_fornecedor.png",
+    "Ent_st_figura_tipo_grade.png",
+    "Ent_st_figura_vig_tipo.png",
+    "Fornecedor.png",
+    "Tipo.png",
+    "Ent_st_figura_op.png"
+  ],
+  "Calculo da Margem Bruta e Margem Líquida no cadastro de produtos": [
+    "Cadastro_produtos_margens.png"
+  ],
+  "Calculo de ST no pedido de compra": [
+    "188339_pedcompra.png"
+  ],
+  "Calculo do Preço de Venda": [
+    "Cadastro_loja.png"
+  ],
+  "Campos dinâmicos": [
+    "Campo_dinamico3.png",
+    "Campo_dinamico4.png",
+    "Campo_dinamico7.png",
+    "Campo_dinamico1.png",
+    "Campo_dinamico2.png",
+    "Campo_dinamico5.png",
+    "Campo_dinamico6.png",
+    "Campo_dinamico9.png",
+    "Campo_dinamico8.png"
+  ],
+  "Cancela Baixa de Lotes de Tickets": [
+    "1.JPG",
+    "ControleTickets.jpg",
+    "ControleLotesTickets.jpg",
+    "ConfirmaCancelamento1.jpg",
+    "CancelaBaixas.jpg"
+  ],
+  "Cancelamento de baixa de Cheques Devolvidos": [
+    "Reapresentação.jpg",
+    "X(1).jpg",
+    "BotãoCancelamento.jpg",
+    "ListaNegra.jpg",
+    "CancelamentoChequeDevolvido4.jpg"
+  ],
+  "Cancelamento de baixa de Contas Cooperados": [
+    "FAQControledeUsuários.jpg",
+    "BotaoX.jpg",
+    "FAQHistoricodeRecebimentos.jpg"
+  ],
+  "Cancelamento de baixa de Lotes de Tickets": [
+    "1.JPG",
+    "ControleTickets.jpg",
+    "ControleLotesTickets.jpg",
+    "ConfirmaCancelamento1.jpg",
+    "CancelaBaixas.jpg"
+  ],
+  "Cancelamento de baixa de registro de convênio": [
+    "Coisa_linda.png",
+    "Convenio.png",
+    "Cancela_convenio.png",
+    "Pandinha.png",
+    "Conveniozinho_coop.png",
+    "Pandemia.png",
+    "Final_historia.png",
+    "Foficeconvenio.png"
+  ],
+  "Cancelamento de pedido de nota denegada": [
+    "Cancelamento_pedido_nota_denegada.jpeg"
+  ],
+  "Carga PDV via Banco de dados não aparece no menu vendas": [
+    "Cad_loja_parametros_carga_via_bd_chk.png",
+    "Menu_vendas_carga_pdv.png"
+  ],
+  "Carga de preços de produtos não chega ao frente de loja": [
+    "Cadsetorexemplo.png",
+    "Cadprodsetormercearia.png",
+    "Vendascargapdvnivelprecoprod.png",
+    "Cadprodfiscaisncm.png"
+  ],
+  "Carga de produtos não chega ao frente de loja": [
+    "Vendascargapdvprod2.png",
+    "CadTributacao.png",
+    "Cadsetorexemplo.png",
+    "Vendascargapdvprod.png",
+    "Cadprodsetormercearia.png"
+  ],
+  "Carga para o PDV a partir da última data": [
+    "Cargflag1.png",
+    "Cargflag2.png"
+  ],
+  "Carregando os produtos no Gerador de Compras": [
+    "188312_gerador.png"
+  ],
+  "Carregar CST ICMS da alíquota diferida": [
+    "CstAliquotaDiferida.JPG"
+  ],
+  "Carregar da Operação": [
+    "187087_inc_fin_ope.PNG"
+  ],
+  "Carregar do Fornecedor": [
+    "187087_inc_fin_for.PNG"
+  ],
+  "Carregar o custo bruto ou líquido do produto na nota de devolução": [
+    "Seleção_notas_origem.PNG",
+    "Operação_fat_dev.PNG"
+  ],
+  "Carregar tickets pela Administradora": [
+    "Tela_configuracao_finalizadora.jpg"
+  ],
+  "Carta de correção eletrônica": [
+    "CCe.png",
+    "CCe2.png"
+  ],
+  "Cartão": [
+    "Tamanhopapel.png",
+    "Cria_select.png",
+    "Resultado.png",
+    "Fastreport.png",
+    "Masterdata.png"
+  ],
+  "Cartão Superus": [
+    "Controleclientecontacartao2.png",
+    "Valorrecarganocaixa.png",
+    "Controleclientecontacartao.png",
+    "Cartaoprepago.png",
+    "Cataoprepago2.png",
+    "Cadastroclientecartao.png",
+    "Relatorioderecargaprepago.png",
+    "Printdomenucartao.png"
+  ],
+  "Cartão Superus - Configuração para utilização": [
+    "Fechamento_lancar_juros_ct_rec.jpg",
+    "Utiliza_saldo_reg_reg.jpg",
+    "Calc_auto_lim_renda_familiar.jpg",
+    "Baixa_ct_cliente_inse_ct_receber.jpg",
+    "Fechamento_agrupar_reg_pend_ct_receber.jpg",
+    "Baixa_cartao_parc_dt_venc.jpg",
+    "Data_fecha_dt_vencimento.jpg",
+    "Apos_fecha_bloquear_saldo_cli_venc.jpg",
+    "Conf_cartao_superus.jpg",
+    "Checar_ct_receber.jpg",
+    "Gera_num_ct_ean13.jpg",
+    "Agrupa_tit_ct_rec_empresa.jpg",
+    "Baixa_rec_recarga_cartao_prepago.jpg",
+    "Bloqueia_clientes_reg_pend_mod.jpg",
+    "Habilitar_fechamento_modalidade.jpg",
+    "Conf_liberacao_cartao_superus.jpg",
+    "Baixa_cartao_parc_dt_emissao.jpg",
+    "Consulta_clientecartao.jpg",
+    "Enviar_nome_tit_cartao_pdv.jpg",
+    "Fechamento_69contas_boleto.jpg",
+    "Fechamento_imp_msg_faturas_atrasadas.jpg",
+    "Lib_cad_cartao_veiculos.jpg"
+  ],
+  "Central de Solicitações": [
+    "Central_solicitacoes.png"
+  ],
+  "Centro de custos para venda PDV": [
+    "Config_cc.png",
+    "Cc_financeiro.png",
+    "Config_geral_cc.png"
+  ],
+  "Chamadas Externas": [
+    "Chamadasexternas.png"
+  ],
+  "Coluna Data Último Inventário é preenchida com a data de inclusão do produto": [
+    "Inclusao_data_inventario_config.png",
+    "Inclusao_data_inventario_gera.png"
+  ],
+  "Colunas - Escolhendo quais devem ser apresentadas nos Preços Pendentes": [
+    "Seleciona_Colunas_Pendente.jpg"
+  ],
+  "Colunas não aparecem nos Preços Pendentes": [
+    "Regedit.png",
+    "FormPendentesRegedit.png",
+    "TFormPendentesRegedit.png",
+    "SmartManagerRegedit.png",
+    "SuperusRegedit.png"
+  ],
+  "Comissão para Arquiteto": [
+    "Op_Controla_Comissao_arq.png",
+    "Ped_Comissao_Arq_Vendedores.png",
+    "Op_Grava_Comissao_Vendedores.png",
+    "Fin_Controle_Comissao_Arq.png",
+    "Cad_Arq_Comissao_Vendedores.png"
+  ],
+  "Como Configurar Convênio": [
+    "Testeconv5.jpg",
+    "Testeconv2.jpg",
+    "Testeconv4.jpg",
+    "BtnNovoLote.jpg",
+    "Testeconv.jpg",
+    "Testeconv6.jpg",
+    "Testeconv3.jpg"
+  ],
+  "Como Imprimir dados financeiros na DANFE quando o registro financeiro é Parcelado ou a vista": [
+    "Imprimi_dados_finan.png",
+    "Finalizadora_imprimi_dados.png",
+    "Danfe.png",
+    "Finalizadora1_imprimi_dados.png"
+  ],
+  "Como Inativar/Retirar um produto com plano de abastecimento do mix da loja?": [
+    "Telaconfig.png",
+    "Definicaodomix.png",
+    "Telacadastro.png"
+  ],
+  "Como Saber se houve Troca de lançamento de conta na rotina de Contas Cooperados através da rotina de Log de Usuários?": [
+    "Logusuariotrocaconta.png",
+    "Trocacontalogusuario.png"
+  ],
+  "Como a legislação da RDC 429 está funcionando no Superus": [
+    "Rdc1.png",
+    "Rdc2.png",
+    "C4.png",
+    "Rdc3.png",
+    "Rdc4.png"
+  ],
+  "Como agrupar registros na rotina de Contas a Pagar?": [
+    "Segueagrupa.png",
+    "Confirmagrupa.png",
+    "Registroagrupado.png",
+    "Registrosagrupa.png",
+    "Hashtagagrupa.png",
+    "Selecionagrupa.png",
+    "Agrupamentook.png"
+  ],
+  "Como alterar CST de todos os produtos de uma vez só na rotina Manutenção de mix": [
+    "Recebimentoicms.png",
+    "Macaverde.png",
+    "Produtoscts.png",
+    "Manutencaomix.png",
+    "Infofiscais.png",
+    "Fornecedor.png"
+  ],
+  "Como alterar a porta que o Server usa para as consultas de Cartão Superus?": [
+    "Cadastrolojaconfigserver.png",
+    "Conexaoini_cartao2.png",
+    "Conexaoini_cartao.png"
+  ],
+  "Como alterar a porta que o Server usa para as consultas de clientes?": [
+    "Conexaoini_autorizador.png",
+    "Conexaoini_autorizador2.png"
+  ],
+  "Como alterar algumas informações em NF de Entrada atualizada": [
+    "188149_2.png",
+    "188149_1.png"
+  ],
+  "Como alterar o PREÇO CLARO de todos os produtos de uma vez só?": [
+    "Camposparaalterarprecoclaronamanutencao.png",
+    "Mensagemconcluidoprecoclaro.png",
+    "Confirmasequeralteraroprecoclaro.png",
+    "Manutencao.png",
+    "Alterprecoclaromanutencao.png",
+    "Claromanutencaopreco.png"
+  ],
+  "Como alterar o título da impressão do pedido de faturamento": [
+    "Impressão_pedido.PNG",
+    "Pedido.png",
+    "Cadastro_operação_faturamento.PNG"
+  ],
+  "Como atualizar a tabela IBPT no Superus": [
+    "IBPT.png"
+  ],
+  "Como atualizar o Serviço Superus": [
+    "06-1_InstalacaoServico.jpg",
+    "06-2_InstalacaoServico.jpg",
+    "08-1_Gerenciador.jpg"
+  ],
+  "Como atualizar o cadastro das Tabelas Fiscais através do Cloud": [
+    "Tds.png",
+    "CFOP.png",
+    "Colunas.png",
+    "CFOPPESQUISA.png",
+    "Atualiza.png",
+    "Utilitarios.png",
+    "Divergencia.png"
+  ],
+  "Como atualizar o cadastro de Tabelas Fiscais através do Cloud": [
+    "Config_cloud.png",
+    "Image_atualizacadastro.png"
+  ],
+  "Como atualizar o eDeployer Serviço Superus": [
+    "ServEdeployerIniciado.JPG",
+    "ServEdeployerParar.JPG"
+  ],
+  "Como aumentar os parâmetros de memória do BDE": [
+    "Bde_configuration.png",
+    "Exec_admin.png",
+    "Bde_paradox_blocksize.png",
+    "Bde_system_init.png",
+    "Bde_save_all.png",
+    "Bde_launch.png"
+  ],
+  "Como bloquear a finalizadora após o batimento no caixa?": [
+    "Mov_caixa_bloq_finaliz.png",
+    "Cad_finaliz_bloq_mov_cx.png",
+    "Mov_caixa_finaliz_bati.png"
+  ],
+  "Como bloquear clientes de Cartão Superus com contas vencidas no módulo de Lançamentos Financeiros?": [
+    "Lanc_financeiros.png",
+    "Config_cartao_superus.png"
+  ],
+  "Como bloquear lançamento em movimento de conta corrente por data de confirmação?": [
+    "Mensagem.png",
+    "Lanc_mensagem.png",
+    "Lanc_contacorrente2.png"
+  ],
+  "Como cadastrar Administradora de cartões?": [
+    "Principaisdadsadm.png",
+    "Centrodecustosifood.png",
+    "Administradorabandeira.png",
+    "Lojasifood.png",
+    "Parcelamentoifood.png",
+    "Cadastroadmifood.png",
+    "Detalhesifood.png",
+    "Contacorrenteifood.png"
+  ],
+  "Como cadastrar Administradora para as finalizadoras Ifood e Pic-Pay?": [
+    "Centrodecustosifood.png",
+    "Lojasifood.png",
+    "Parcelamentoifood.png",
+    "Cadastroadmifood.png",
+    "Detalhesifood.png",
+    "Bandeiraifood.png",
+    "Dadosprincipaisifood.png",
+    "Contacorrenteifood.png"
+  ],
+  "Como cadastrar Concorrentes": [
+    "BtnCancReaprChAlinea11.jpg",
+    "1.JPG",
+    "BtnSalvar.jpg",
+    "BtnNovoLote.jpg"
+  ],
+  "Como cadastrar código admin na administradora?": [
+    "Superusconclusao.png",
+    "Sextafeirasuperus.png",
+    "Codigoadministrativo.png",
+    "Lancamento_adm.png",
+    "Cadastrofinanceiro.png",
+    "Administradora_lanca.png",
+    "Cadastrofinaldosuperus.png"
+  ],
+  "Como cadastrar código bin da bandeira na administradora?": [
+    "Codigo_bin.png",
+    "Administradora_cadastrada.png",
+    "Aba_bandeira.png",
+    "Pesquisa_admininistradroa.png",
+    "Bincadastrado.png",
+    "Tipocartao.png"
+  ],
+  "Como cadastrar finalizadora?": [
+    "Caixafinalizadora.png",
+    "Finalizadora.png",
+    "Taxaadmfi.png",
+    "Codigofrentloja.png",
+    "Qualtipofin.png",
+    "Tratafinal.png",
+    "Finalizadoratroco.png",
+    "Modofinalizadora.png",
+    "Finalizadoracad.png",
+    "Registrobati.png",
+    "Finalizadorapagina.png"
+  ],
+  "Como cadastrar finalizadora Ifood e Pic-Pay?": [
+    "Payadministradora.png",
+    "Carteiracobrancaifood.png",
+    "Novaconfigpicpay.png",
+    "Picapayfinalizacaocomo.png",
+    "Movippay.png",
+    "Tratapicpaycard.png",
+    "Batimentocardpicp.png",
+    "Ifoodpagina.png",
+    "Trocofinanpic.png",
+    "Finalizacaocomo.png",
+    "Codigopicbatimento.png",
+    "Adctaxapicpayy.png",
+    "Picpayfrentecodigo.png",
+    "Pputilizaonde.png"
+  ],
+  "Como cadastrar forma de pagamento a prazo com taxa variável na Administradora": [
+    "Aba_loja.png",
+    "Inclui_um_novo_parcelamento.png"
+  ],
+  "Como cadastrar um código CEST": [
+    "NovoCest.JPG"
+  ],
+  "Como calcular divergência do composto no inventário": [
+    "Config_composto.png",
+    "Hint_composto.png",
+    "Produtos_desmembrados.png",
+    "Comp_inventario.png",
+    "Inventario.png",
+    "Config_tipo_inv.png"
+  ],
+  "Como cancelar a devolução de cheques?": [
+    "Receber_cheques.png"
+  ],
+  "Como cancelar desmembramento de registro na rotina de Contas a Pagar?": [
+    "Fornecedordes.png",
+    "Confirmada.png",
+    "Consultaorigemd.png",
+    "Contadesfazendo.png",
+    "Compraspagar.png",
+    "Telapagarprincipal.png"
+  ],
+  "Como cancelar recarga de cartão pré-pago?": [
+    "Cancela_recarga_cartao.png",
+    "Recarga_cartao.png"
+  ],
+  "Como cancelar uma nota de entrada que possui um pedido de faturamento vinculado": [
+    "Operação_faturamento_aba_nota_fiscal.PNG"
+  ],
+  "Como carregar cupons pelo número da fatura no pedido": [
+    "Carrega_cupom_pela_fatura_itens.png",
+    "Carrega_cupom_pela_fatura.png"
+  ],
+  "Como carregar o Custo Líquido nas Notas Devolução": [
+    "Gera_devolucao.png",
+    "Devolucao.png",
+    "Gera_devolucao1.png",
+    "Gera_devolucao_op.png"
+  ],
+  "Como colocar uma logotipo na tela inicial do Superus": [
+    "Logo_teste_superus.jpg",
+    "Parametros_conexao.png",
+    "Logotipo_teste_wiki.jpg"
+  ],
+  "Como compartilhar uma nota fiscal eletrônica.": [
+    "CompartilharNFE2.png"
+  ],
+  "Como configurar CFOP padrão de entrada.": [
+    "Cfop.jpg"
+  ],
+  "Como configurar Cliente Fidelidade?": [
+    "CONTROLAPRECOTIPOCLIENTEFIDEL.PNG",
+    "Detalheclientefidel.png",
+    "Cliente.png",
+    "Fidelidadesegundo.png",
+    "Configuracaobloquearcarga.png",
+    "Cargapdvfidelidade.png",
+    "Tipodecliente.png",
+    "Faturamentoabacliente.png",
+    "Bandeiraclientebin.png"
+  ],
+  "Como configurar a Finalizadora Ifood?": [
+    "Ifoodcartao.png",
+    "Movimcaixaifood.png",
+    "Carteiracobrancaifood.png",
+    "Abatimentoifoodregistro.png",
+    "Finalizadora.png",
+    "Trocoifoodfinalizadora.png",
+    "Codigofrenteifoodcad.png",
+    "Finalizacaoifoodcartao.png",
+    "Ifoodpagina.png",
+    "Admvincifood.png",
+    "Lancaifoodcartao.png",
+    "Utilizarfimifood.png",
+    "Tratarfinaliifood.png",
+    "Caixaifood.png",
+    "Codintbatimentoifood.png",
+    "Adctaxaifoodcad.png",
+    "Ifoodfinalizadora.png"
+  ],
+  "Como configurar as condições de pagamento na operação de faturamento para carregá-las no pedido": [
+    "Pedido_Faturamento_CP.png",
+    "Operacao_faturamento_CP.png"
+  ],
+  "Como configurar o Gerenciador de XML": [
+    "UTILITARIO.png"
+  ],
+  "Como configurar o Serviço Cloud": [
+    "Cloudgeral.png"
+  ],
+  "Como configurar o caminho para impressora no Superus": [
+    "Parametro_porta_conexao_ini_ip.png",
+    "Impressora_prop_compart.png",
+    "Conexao_ini_impressoras.png",
+    "Parametro_porta_conexao_ini_host.png",
+    "Conexao_ini_pasta.png"
+  ],
+  "Como configurar o coletor de recebimento para exigir validade do produto?": [
+    "Flag.jpg",
+    "Permissao.jpg",
+    "Divergente.png",
+    "Parametro_fornecedor.png",
+    "Sem_validade.png",
+    "Notas_coletor.png",
+    "Parametro_produto.png",
+    "Validade_divergente.png",
+    "Parametro_prod_sem_validade.png",
+    "Fornecedor.png",
+    "Logar_coletor.png"
+  ],
+  "Como configurar o motivo de atraso nas consultas de clientes?": [
+    "Motivo_atraso.png",
+    "Bloqueio_limite_pref.png",
+    "Cad_motivo_atraso.png",
+    "Bloqueio_coop_trasado.png"
+  ],
+  "Como configurar o motivo de estouro de limite nas consultas de clientes?": [
+    "Cad_motivo.png",
+    "Bloqueio_limite_coop.png",
+    "Motivo_limite.png",
+    "Bloqueio_limite_pref.png"
+  ],
+  "Como configurar o serviço Cloud": [
+    "Printdateladeconfiguracoesparacloud.png",
+    "Printdaatualizacaodecadastros.png"
+  ],
+  "Como configurar o software para lançar o valor de icms substituição no campo outras.": [
+    "FaturamentoSTDestacada2.png",
+    "FaturamentoSTOutras2.png",
+    "OperacaoFaturamentoStOutras.png",
+    "FaturamentoSTOutras.png"
+  ],
+  "Como configurar o usuário para utilizar apenas a digitação da tabela de preços": [
+    "Permissao_tabela2.png",
+    "Digitacao_tabela2.png"
+  ],
+  "Como configurar para agregar o valor de IPI na base de cálculo de ICMS": [
+    "Operacao_ipi_agrega_base.jpg"
+  ],
+  "Como configurar para carregar produtos de um cupom cancelado em um pedido de faturamento.": [
+    "Carrega_cupom_cancelado.JPG"
+  ],
+  "Como configurar para movimentar os itens de um composto na entrada de notas": [
+    "1.JPG",
+    "ENTRADAS_186924_01.JPG",
+    "ENTRADAS_186924_02.JPG"
+  ],
+  "Como configurar para não carregar o desconto do produto no pedido gravado pelo Gerador de Compras": [
+    "Config_Gerador_Desconto.JPG"
+  ],
+  "Como configurar para obrigar a geração do contas a pagar do valor da ST não destacado na nota de entrada": [
+    "Obriga_Pagar_ST.JPG"
+  ],
+  "Como configurar para que a observação do cadastro do cliente seja carregada no pedido de faturamento": [
+    "Pedido_obs.png",
+    "Cliente.png",
+    "Operacao.png",
+    "Pedido_linhas_obs.png"
+  ],
+  "Como configurar para que apareça o valor de desconto na capa do pedido de faturamento.": [
+    "Faturamento_186925_02.JPG",
+    "1.JPG",
+    "Faturamento_186925_01.JPG"
+  ],
+  "Como configurar para que o número da fatura no contas a receber seja o mesmo número do pedido.": [
+    "Pedido_cr_num.png",
+    "Fatura_num_ped.png",
+    "Operacao_cr_num_ped.png"
+  ],
+  "Como configurar para receber e-mail caso a nota seja cancelada na SEFAZ": [
+    "Agenda_consulta.png",
+    "Email_loja.png",
+    "Dias_Consulta.png",
+    "Gerenciador.png",
+    "Nota_cancelada_gerenciador.png",
+    "Exemplo_consulta.png"
+  ],
+  "Como configurar para receber nota de entrada sem pedido de compra": [
+    "Operação_Entrada.JPG"
+  ],
+  "Como configurar para verificar o desconto máximo permitido do produto e setorização.": [
+    "Operacao_desconto_produto_setorizacao.jpg"
+  ],
+  "Como configurar um produto para integrar com o E-conect Restaurante?": [
+    "Cad_prod_comanda_facil.png"
+  ],
+  "Como configurar uma conta corrente padrão, para que a mesma seja selecionada automaticamente ao enviar tickets?": [
+    "Tickets.png",
+    "Env_tickets.png",
+    "Env_tickets2.png",
+    "Cad_adm_ccorrente.png"
+  ],
+  "Como configurar uma nova operação de entrada de notas fiscais": [
+    "1.JPG",
+    "2551.JPG"
+  ],
+  "Como considerar o centro de custo do imposto a partir da NF de entrada?": [
+    "Imagem_1.png",
+    "I_imagem_3.png",
+    "Imagem_3.png",
+    "I_imagem_1.png",
+    "I_imagem_2.png"
+  ],
+  "Como considerar o centro de custo do imposto a partir de entrada?": [
+    "Imagem_1.png",
+    "I_imagem_3.png",
+    "Imagem_3.png",
+    "I_imagem_1.png",
+    "I_imagem_2.png"
+  ],
+  "Como consultar valor do módulo da finalizadora no movimento do caixa?": [
+    "Mov_caixa_valor_modulo0.png",
+    "Mov_caixa_consulta_valor_modulo0.png"
+  ],
+  "Como controlar pedido de compra por comprador": [
+    "1.JPG",
+    "R1.jpg"
+  ],
+  "Como criar lote de envio para o banco(CNAB)": [
+    "BtnExcIndLot.jpg",
+    "TelaLoteCnabContRec.jpg",
+    "BtnNovoLote.jpg",
+    "BxLoteChequeRec.jpg",
+    "BtnInsTdsLot.jpg",
+    "BtnRecConLotCnab.jpg",
+    "BtnCancBxLtChRec.jpg",
+    "BtnExcTdsLot.jpg",
+    "BtnInsIndLot.jpg"
+  ],
+  "Como criar um inventario contábil fim de período para ser enviado ao Sistema Fiscal/Contábil (bloco H)": [
+    "Inventario.png"
+  ],
+  "Como criar um inventario contábil fim de período para ser enviado ao linner (bloco H)": [
+    "Inventario.png"
+  ],
+  "Como criar um layout para exportação de texto utilizando select por posição": [
+    "Wikiposicao4.jpg",
+    "Wikiposicao8.jpg",
+    "1.JPG",
+    "Wikiposicao6.jpg",
+    "Wikiposicao5.jpg",
+    "Wikiposicao10.jpg",
+    "Wikiposicao9.jpg",
+    "Wikiposicao1.jpg",
+    "Wikiposicao3.jpg",
+    "Wikiposicao2.jpg",
+    "Wikiposicao7.jpg"
+  ],
+  "Como criar um layout para exportação de texto utilizando select por tamanho": [
+    "Exportatexto2.png",
+    "Exportatexto_4.jpg",
+    "Exportatexto3.png",
+    "Exportatexto8.png",
+    "Exportatexto6.png",
+    "Exportatexto5.png",
+    "Exportatexto1.png",
+    "Exportatexto7.png",
+    "Exportatexto0.png"
+  ],
+  "Como criar um layout para exportação de texto utilizando select por tamanho.": [
+    "Exportatexto2.png",
+    "Exportatexto_4.jpg",
+    "Exportatexto3.png",
+    "Exportatexto8.png",
+    "Exportatexto6.png",
+    "Exportatexto5.png",
+    "Exportatexto1.png",
+    "Exportatexto7.png",
+    "Exportatexto0.png"
+  ],
+  "Como criar uma nova embalagem utilizando um código EAN já existente": [
+    "vinculo"
+  ],
+  "Como definir uma finalizadora padrão para pedidos de faturamento": [
+    "Finalizadora_carregada_operacao.JPG",
+    "Finalizadora_padrao_operacao.JPG"
+  ],
+  "Como desagrupar contas a pagar agrupadas?": [
+    "Cont_pagar_agrup_cons.png",
+    "Cont_pagar_agrup.png",
+    "Desag_contas_pagar.png",
+    "Cont_pagar_desag.png"
+  ],
+  "Como desativar ou diminuir a frequência das notificações de novas mensagens do Correio Superus": [
+    "1.JPG",
+    "Notcorreio2.jpg",
+    "Notcorreio1.jpg"
+  ],
+  "Como emitir nota fiscal de estorno de crédito de ICMS": [
+    "Est_cre_par2.png",
+    "Est_cre_par1.png",
+    "Est_cre_item.png",
+    "Est_cre_geral.png"
+  ],
+  "Como emitir uma NFe em contingência (SVC)": [
+    "JustConting.jpg",
+    "BotConting.jpg"
+  ],
+  "Como enviar teclas de atalhos para balanças TOLEDO": [
+    "Produto_balanca.png",
+    "Loja_balanca.png"
+  ],
+  "Como fazer a Geração da Curva ABC?": [
+    "Curva_abc.png",
+    "Parametros_curva_abc.png"
+  ],
+  "Como fazer para que determinado produto não seja carregado no inventário?": [
+    "Naoparticipa2.png",
+    "Naoparticipa1.png"
+  ],
+  "Como fazer para que todos os clientes tenham o mesmo prazo do convênio?": [
+    "Convenio.png",
+    "Cad_convenio.png",
+    "Cad_cliente_conv.png",
+    "Cad_cliente_conv2.png"
+  ],
+  "Como fazer para todos os clientes tenham o mesmo prazo do convênio?": [
+    "Convenio.png",
+    "Cad_convenio.png",
+    "Cad_cliente_conv.png",
+    "Cad_cliente_conv2.png"
+  ],
+  "Como filtrar os produtos por Marca na rotina de Manutenção de Mix?": [
+    "Manutencaomix1.png",
+    "Manutencaomix2.png"
+  ],
+  "Como gerar Pedido Faturamento a partir da Trocas do fornecedor": [
+    "Criacao_gera_ped_troca_fornecedor.jpg",
+    "Gera_nov_ped_troca_fornecedor.jpg",
+    "Gera_ped_troca_fornecedor.jpg",
+    "Troca_forn_gera_ped.jpg",
+    "Alerta_gera_ped_troca_fornecedor.jpg"
+  ],
+  "Como gerar conta de cooperado para a operadora que teve quebra na tesouraria?": [
+    "Atualiza_tesou_quebra_operador.png",
+    "Config_lanca_quebra_coop.png",
+    "Cad_loja_funcpdv_coop.png",
+    "Conta_coop_quebra_tesouraria.png",
+    "Tesou_quebra_operador.png"
+  ],
+  "Como gerar inventário com estoque retroativo?": [
+    "Inventario_inc.png",
+    "Geração_inv.png",
+    "Geração_estoque_anterior.png",
+    "Confirma_geração.png"
+  ],
+  "Como gerar nota fiscal de forma automática pelo cupom não fiscal do pdv": [
+    "Exemplo_config_frente.png",
+    "Exemplo_operacao_nota_cupom.png",
+    "Componentes_necessarios.png",
+    "Ativar_nota_cupom.png"
+  ],
+  "Como gerar número de fatura automaticamente na baixa de cooperado?": [
+    "Fatura_man_rec.png",
+    "Fatura_cad_loja2.png"
+  ],
+  "Como gerar número de fatura automaticamente na transferência do caixa para o contas a receber?": [
+    "Transf_caixa_cont_rec.png",
+    "Fatura_cad_loja2.png"
+  ],
+  "Como gerar número do nosso número igual ao número da fatura, na inclusão de contas a receber?": [
+    "Config_crec_boleto.png",
+    "Inc_contas_receber.png"
+  ],
+  "Como gerar o SPED -EFD ICMS/IPI": [
+    "ICMS1.jpg",
+    "Excluirescrituracao.jpg",
+    "Confirmar.jpg",
+    "1.JPG",
+    "Reprocesso.jpg",
+    "Escrituracao.jpg",
+    "1753.jpg",
+    "Processador.jpg",
+    "Logsussarios.jpg",
+    "SPED.jpg",
+    "Confirmacao.jpg",
+    "Concluiescrt.jpg",
+    "Reabreap.jpg",
+    "E116.jpg",
+    "Spedmes2.jpg",
+    "Alterarescrituracao.jpg",
+    "Localarq.jpg",
+    "Historicos.jpg",
+    "Incluirsped.jpg",
+    "Gerarlancamento.jpg"
+  ],
+  "Como gerar o SPED - EFD Contribuições Pis/Cofins": [
+    "0929.jpg",
+    "1034.jpg",
+    "1023.jpg",
+    "0956.jpg",
+    "1114.jpg",
+    "1026.jpg",
+    "10.06.jpg",
+    "0933.jpg",
+    "1109.jpg",
+    "1119.jpg",
+    "1104.jpg"
+  ],
+  "Como gerar um inventário pelo plano de abastecimento": [
+    "Cadproduto.PNG",
+    "Inventarioo.PNG",
+    "Cadernorequisicao.png"
+  ],
+  "Como gerar um inventário que não considera produtos não inventariados e também produtos cadastrados nos últimos dias?": [
+    "Inventario.png",
+    "Geracaoinventario.png"
+  ],
+  "Como gerar uma NF de Entrada pelo Pedido de Faturamento": [
+    "Gera_NF_Entrada.png",
+    "Nf_entrada.png"
+  ],
+  "Como habilitar para determinado usuário receber as solicitações de liberação de permissão remota?": [
+    "Cad_usuario_tempo_lib_remota.png",
+    "Solicitacao_lib_perm.png"
+  ],
+  "Como imprimir uma DANFE em formato de segurança.": [
+    "Formatoseguranca.png"
+  ],
+  "Como inativar Cadastro de Tipos de Promoção?": [
+    "Telacadastrotipo1.png",
+    "Telabotaotipo1.png",
+    "Telamensagem2.png"
+  ],
+  "Como informar a versão do emissor de NFe da Sefaz": [
+    "VersaoEmissor.jpg"
+  ],
+  "Como informar margem de sugestão para vários produtos simultaneamente utilizando a Manutenção Mix": [
+    "Manutencao_mix_margem.png"
+  ],
+  "Como inserir logotipo nos relatórios e NF-e?": [
+    "LogotipoLoja.jpg",
+    "Config.JPG",
+    "LogotipoConfig.jpg"
+  ],
+  "Como instalar o Gerenciador de XML": [
+    "Certi.png",
+    "Conexaobanco.png",
+    "Iniciarservico.png",
+    "Gerenciador.png",
+    "Instaladorgerenciador.png"
+  ],
+  "Como instalar o Serviço Cloud": [
+    "InstaladorCloud5.png",
+    "InstaladorCloud3.png",
+    "InstaladorCloud4.png",
+    "InstaladorCloud2.png",
+    "ConfiguradorSuperus.jpg",
+    "InstaladorCloud1.png"
+  ],
+  "Como instalar o Serviço Superus": [
+    "Gerenciador.png",
+    "Instaladorgerenciador.png"
+  ],
+  "Como instalar o eDeployer Serviço Superus": [
+    "ServInstallEdeployer.JPG",
+    "ServicoAdminLogon.JPG",
+    "ServIniciarEdeployer.JPG"
+  ],
+  "Como instalar o eDeployer Serviço Superus com certificados da empresa VALID": [
+    "ServInstallEdeployer.JPG",
+    "ServIniciarEdeployer.JPG"
+  ],
+  "Como inutilizar a numeração de uma NFe": [
+    "Inutilizar8.png",
+    "Inutilizar3.png",
+    "Inutilizar2.png",
+    "Inutilizar4.png",
+    "Inutilizar1.png",
+    "Inutilizar5.png",
+    "Inutilizar9.jpg",
+    "Inutilizar7.jpg"
+  ],
+  "Como liberar a digitação de caracteres alfanuméricos na série da nota fiscal de entrada": [
+    "Operacoes_Caracteres_serie.JPG",
+    "Serie_nota_caracter.JPG"
+  ],
+  "Como limpar os registros do Superus no Windows": [
+    "Telasuperu2.png"
+  ],
+  "Como o sistema ajusta o estoque na atualização do inventário": [
+    "INVENTARIO_DIVERGENCIA_QUANTIDADES.png",
+    "MOVIMENTO_ESTOQUE_DIV_INVENTARIO.png",
+    "Inventario.png"
+  ],
+  "Como o sistema calcula a Geração Curva ABC?": [
+    "Geração_Curva_ABC.png",
+    "Curva_abc.png"
+  ],
+  "Como o sistema calcula o Lucro nos Relatórios de Vendas?": [
+    "Rel_vendas_lucros_margens.png"
+  ],
+  "Como o sistema calcula o preço de venda": [
+    "Custo_operacional_loja_imagem.JPG",
+    "Custo_operacional_setor.JPG",
+    "Aba_precos_produtos.JPG",
+    "Pis_cofins_loja.JPG",
+    "Preco_venda_ctrl_k.JPG",
+    "Pis_cofins_tipo_produto.JPG",
+    "TIPO_CALCULO_VENDA.JPG",
+    "Ctrl_K.JPG"
+  ],
+  "Como parametrizar REGIME ESPECIAL PRODUTO ALIMENTAÇÃO (ESTADO SP) DECRETO 51.597/2007": [
+    "Utilizar.png",
+    "Regime.png",
+    "Naoutiliza.png"
+  ],
+  "Como parametrizar o E-conect para gerar cupom não fiscal": [
+    "Propriedades_sistema_econect.jpg",
+    "Certificado_digital.jpg",
+    "1.JPG",
+    "Parametro_erro.png",
+    "Econect.jpg",
+    "Config_nfce04.jpg",
+    "Config_nfce02.jpg",
+    "Config_nfce03.jpg",
+    "Config_nfce01.jpg"
+  ],
+  "Como parametrizar o serial do certificado digital": [
+    "LojaSerial.jpg"
+  ],
+  "Como pesquisar contas a pagar agrupadas?": [
+    "Consulta_origem_agrupad_pagar2.png",
+    "Pesq_pagar_agrupadas.png"
+  ],
+  "Como preencher os valores dos impostos da devolução buscando-os diretamente da NF de entrada": [
+    "Dados_devolucao.JPG"
+  ],
+  "Como realizar a Conciliação de registros de Cartões na rotina de Cartões?": [
+    "Telaconciliacaocartao.png",
+    "Lancamentoautomatic.png",
+    "Importarquivos.png",
+    "Campoadmensu.png",
+    "Controlcartao.png",
+    "Erroconciliacaoticket.png",
+    "Escolhaconcilicacao.png",
+    "Mesmocampodata.png",
+    "Confirmaconciliacaoticket.png",
+    "Periodototaldata.png",
+    "Sucessoconciliacao.png",
+    "Registroconciliadotick.png",
+    "Getnet.png",
+    "Arquivotextoconc.png"
+  ],
+  "Como realizar a Conciliação de registros de Cartões na rotina de Cartões de forma manual?": [
+    "Telaconciliacaocartao.png",
+    "Conciliacaomanual.png",
+    "Filtroconciliados.png",
+    "Importarquivos.png",
+    "Campoadmensu.png",
+    "Manualconfirma.png",
+    "Controlcartao.png",
+    "Mesmocampodata.png",
+    "Periodototaldata.png",
+    "Getnet.png",
+    "Arquivotextoconc.png",
+    "Selecionaregistro.png"
+  ],
+  "Como realizar a configuração de Família de produto pelo Manutenção de Mix": [
+    "Configfamilia5.png",
+    "Configfamilia4.png",
+    "Configfamilia7.png",
+    "Configfamilia6.png"
+  ],
+  "Como realizar a troca de administradora na rotina de cartão?": [
+    "Troca_cartao.png",
+    "Finalzinho.png",
+    "Pendente.png",
+    "Troca_3.png",
+    "Troca_adm.png"
+  ],
+  "Como realizar a troca de administradora na rotina de cartão (Ticket)?": [
+    "Troca_cartao.png",
+    "Finalzinho.png",
+    "Pendente.png",
+    "Troca_3.png",
+    "Troca_adm.png"
+  ],
+  "Como realizar a troca de convênio no cadastro de cliente?": [
+    "Convenio.png",
+    "Teladeconvenio.png",
+    "Gravaconvenio.png",
+    "Convenioalterado.png",
+    "Cadastrosuperuscon.png"
+  ],
+  "Como realizar a troca de setorização dos produtos pelo Manutenção de Mix": [
+    "Trocasetor3.png",
+    "Trocasetor2.png",
+    "Trocasetor4.png",
+    "Trocasetor1.png",
+    "Trocasetor5.png",
+    "Trocasetorsimb.png"
+  ],
+  "Como realizar o acerto de setorização para vendas já realizadas": [
+    "Acertosetor4.png",
+    "Trocasetor3.png",
+    "Acertosetor3.png",
+    "Acertosetor2.png",
+    "Acertosetor1.png",
+    "Trocasetorsimb.png",
+    "Acertosetor5.png"
+  ],
+  "Como realizar o desmembramento de registro na rotina de Contas a Receber?": [
+    "Primeiraopcaodesmembra.png",
+    "Desmembrafim.png",
+    "Contaareceber1.png",
+    "Seguncaopcaodesmembramenu.png"
+  ],
+  "Como realizar troca de adquirente no cadastro de administradoras?": [
+    "Imagem_4_lojas.png",
+    "Imagem_3_roteadores.png",
+    "Imagem_2_detalhes.png",
+    "Imagem_5_formadepagamento.png"
+  ],
+  "Como realizar vendas de produtos individual por embalagem (EAN)?": [
+    "Habilitaprecoindividual.png",
+    "Precovendadoprodutoindividual.png",
+    "Produtoanamaria.png",
+    "Precoembalagemvendasozinha.png"
+  ],
+  "Como realizar vendas de produtos por atacado?": [
+    "Inclusaodembalagemfechada.png",
+    "Embalagemfechada.png",
+    "7atacado7.png",
+    "6atacado6.png",
+    "1atacado1.png",
+    "Atacado1.png",
+    "Atacado5.png",
+    "5atacado5.png",
+    "Atacado6.png",
+    "Configurandovendaembalagem.png",
+    "Atacado7.png",
+    "Umaimagem.png"
+  ],
+  "Como retirar do mix ou inativar produtos sem movimentação pelo Superus?": [
+    "Tutorialmanumix4.png",
+    "Tutorialmanumix3.png",
+    "Tutorialmanumix2.png",
+    "Tutorialmanumix1.png"
+  ],
+  "Como saber se o E-conect terminou de importar a carga": [
+    "Situacao_carga_econect_status.png",
+    "Situacao_carga_econect.png",
+    "Situacao_carga_econect_info.png"
+  ],
+  "Como tornar obrigatório a inclusão de uma imagem no cadastro do produto": [
+    "Imgobrigatorio2.png",
+    "Imgobrigatorio3.png",
+    "Imgobrigatorio1.png",
+    "Imgobrigatorio4.png",
+    "Imgobrigatorio5.png"
+  ],
+  "Como utilizar Segundo preço para clientes fidelidade?": [
+    "Segundo_preco_novo.png",
+    "Cliente.png",
+    "Tipo_cliente.png",
+    "Vincula_Tipo_cliente.png",
+    "Novo.png"
+  ],
+  "Como utilizar Tabela de Preços no Faturamento": [
+    "Cliente.png",
+    "Opcao_tabela_forn.png",
+    "Preco_venda_tabela.png",
+    "Opcao_tabela_cliente.png",
+    "Opcao_utiliza_tabela.png",
+    "Exemplo_tabela_vinculada.png"
+  ],
+  "Como utilizar a opção de impressão de etiquetas Vindos do Coletor?": [
+    "Imp_etiq_vindos_coletor.png",
+    "Col_ipc_prod_etiq1.png"
+  ],
+  "Como utilizar tela inicial de entradas": [
+    "TelaInicialEntradas.jpg"
+  ],
+  "Como verificar a validade do cadastro ao baixar contas de cooperados?": [
+    "Baixa_coop_verif_valid.png",
+    "Config_verif_cad_valid_coop.png"
+  ],
+  "Como verificar se o Superus está atualizado em relação ao banco de dados?": [
+    "Inf_sobre_versao_ok.png",
+    "Inf_sobre.png",
+    "Inf_sobre_versão_nok.png"
+  ],
+  "Como visualizar as promoções de um produto no Gerador de Compras": [
+    "Promocao_gerador_compras.JPG"
+  ],
+  "Como visualizar o cálculo e os parâmetros utilizados da Sugestão de Compras": [
+    "Valores_sugestao.JPG",
+    "Parametros_sugestao.JPG"
+  ],
+  "Como visualizar os valores utilizados no cálculo do preço de venda do produto": [
+    "Cadastro_produto_calcula.JPG",
+    "Ctrl_K.JPG"
+  ],
+  "Como é feito o cálculo do campo Contribuição do relatório de vendas por setorização?": [
+    "Rel_vendas_contribuicao.png"
+  ],
+  "Como é feito o cálculo do campo Participação dos relatórios de vendas?": [
+    "Ordenacao_rel_vendas.png",
+    "Rel_vendas_participacao.png"
+  ],
+  "Como é feito o cálculo do fator para o composto": [
+    "Printfator.png"
+  ],
+  "Compartilhar XML pelo sistema Superus": [
+    "NFE.jpg",
+    "CompartilhaNFE.jpg"
+  ],
+  "Conciliação bancária com arquivos CNAB": [
+    "Botaoautomatico.jpg",
+    "1.JPG",
+    "Botaoimportacao1.jpg",
+    "Telaconciliacao.jpg",
+    "Botaoimportacao.jpg",
+    "Importamovimento.jpg"
+  ],
+  "Conciliação bancária manual": [
+    "Botaomultiploslancamentos.jpg",
+    "Telacc.jpg"
+  ],
+  "Conciliação de Cartões": [
+    "Telaconciliacaocartao.png",
+    "Lancamentoautomatic.png",
+    "Importarquivos.png",
+    "Campoadmensu.png",
+    "Controlcartao.png",
+    "Erroconciliacaoticket.png",
+    "Escolhaconcilicacao.png",
+    "Mesmocampodata.png",
+    "Confirmaconciliacaoticket.png",
+    "Periodototaldata.png",
+    "Sucessoconciliacao.png",
+    "Registroconciliadotick.png",
+    "Getnet.png",
+    "Arquivotextoconc.png"
+  ],
+  "Conciliação de Cartões - Sistema Concilia": [
+    "Retorno.png",
+    "Lote.png",
+    "Busca.png",
+    "Menu_pagamentos.png",
+    "Menu_comparativo.png",
+    "Enviar.png",
+    "Concilia_menu_legendas_2.png",
+    "Manutencao.png",
+    "Conciliacao_manual_concilia.png",
+    "Menu_concilia.png",
+    "Aceite.png"
+  ],
+  "Conclui Recebimento no Coletor": [
+    "Status_wms_finalizado.JPG",
+    "Conclui_recebimento_coletor_recebimento.JPG",
+    "Observacao_conclui_recebimento.JPG"
+  ],
+  "Concorrentes": [
+    "Concorrentes_concorrencia.png"
+  ],
+  "Conferência do fechamento no Superus por parte do responsável pelo fechamento": [
+    "Convenio.png",
+    "Fatura_fech_aut_convenio.png",
+    "Conta_coop_fech_aut_convenio.png"
+  ],
+  "Conferência do fechamento no e-mail parte do responsável pelo fechamento": [
+    "Email_extrato_fechauto_conv.png",
+    "Email_extrato_fechauto_conv2.png"
+  ],
+  "Conferência do fechamento no e-mail por parte do cliente cooperado": [
+    "Email_fatura_fechauto_conv.png",
+    "Email_fatura_fechauto_conv2.png"
+  ],
+  "Configurando % desconto financeiro padrão para Fornecedor na entrada de notas": [
+    "Desconto_Duplicata_Entrada.JPG"
+  ],
+  "Configurando CFOP de entrada": [
+    "CfopentradaTela2.jpg"
+  ],
+  "Configurando a Loja para participar do Gerador de Compras por Loja": [
+    "Cad_Loja_Gerador.JPG"
+  ],
+  "Configurando a quantidade de dias para recebimento do pedido de compras": [
+    "1.JPG",
+    "187086_Imagem01.JPG"
+  ],
+  "Configurando o Cadastro do Fornecedor": [
+    "Desconto_Duplicata_Fornecedor.JPG"
+  ],
+  "Configurando o sistema para o cálculo da Sugestão de Compras": [
+    "1.JPG",
+    "F8_IMAGEM06.JPG",
+    "F8_IMAGEM03.JPG",
+    "F8_IMAGEM08.JPG",
+    "F8_IMAGEM05.JPG",
+    "F8_IMAGEM01.JPG",
+    "F8_IMAGEM02.JPG",
+    "Config_Gerador_Sugestao.JPG",
+    "F8_IMAGEM04.JPG",
+    "F8_IMAGEM07.JPG"
+  ],
+  "Configurando o usuário para liberar a alteração da data de entrega": [
+    "187086_Imagem02.JPG"
+  ],
+  "Configurar Operaçôes de Faturamento": [
+    "Instrucoesparautilizacaodeoperacoesdefaturamento.JPG"
+  ],
+  "Configurar campo Preço automático no Layout de Etiquetas Windows": [
+    "Layout_etiq_win_insert_exp.png",
+    "Layout_etiq_win_edtexp_promo.png",
+    "Btn_text_oject.png",
+    "Layout_etiq_win_memo.png",
+    "Fast_report_btnsave.png",
+    "Layout_etiq_win_precoauto.png",
+    "Layout_etiq_win_textpag.png"
+  ],
+  "Configurar conexão direta ao banco de dados": [
+    "Tnsname.png",
+    "Conexão.ini_banco.png",
+    "Pesquisar_tnsname_no_windows.png"
+  ],
+  "Configurar conferência das notas em Operação de Entrada": [
+    "Utilizaconferenciadenota_1.JPG",
+    "1.JPG"
+  ],
+  "Configurar no pedido de compra permitir receber sem Pedido de Bonificação": [
+    "1.JPG"
+  ],
+  "Configurar o IIS no Windows 7 ou Windows Server 2008 ou Windows Server 2012": [
+    "Win7_iis_inc_alias.png",
+    "Win7_iis_map_manip_desab.png",
+    "Win7_iis_mapeamentos_manipulador.png",
+    "Win7_iis_poocoletor_confav.png",
+    "Win7_iis_inc_fat.png",
+    "Win7_iis_map_manip_edit_perm.png",
+    "Win7_iis_app_pool_inc.png",
+    "Win7_iis_app_caminho_preenc.png",
+    "Win7_iis_menuiniciar.png",
+    "Coletor_browser_teste_ent.png",
+    "Win7_addapp.png",
+    "Coletor_browser_teste_ipc.png",
+    "Coletor_browser_teste_fat.png",
+    "Win7_iis_pooledit.png",
+    "Win7_iis_map_manip_perm_rec.png",
+    "Win7_iis_princ.png",
+    "Win7_app_caminho_inc.png",
+    "Win7_iis_app_caminho.png",
+    "Win7_iis_inc_ipc.png",
+    "Win7_iis_poolinc.png",
+    "Win7_iis_addpool.png"
+  ],
+  "Configurar o IIS no Windows XP ou Windows Server 2003": [
+    "Wink3_iis_launch.png",
+    "Winxp_iis_prop_asp.PNG",
+    "Winxp_iis_inc_ipc.png",
+    "Winxp_iis_assist_fim.PNG",
+    "Winxp_iis_launch.png",
+    "Winxp_iis_prop.PNG",
+    "Winxp_iis_assist_alias.PNG",
+    "Winxp_iis_assist_confirm.PNG",
+    "Winxp_iis_assist_caminho_ok.PNG",
+    "Winxp_iis_site_padrao.PNG",
+    "Winxp_iis_assist_opcoes.PNG",
+    "Coletor_browser_teste_ent.png",
+    "Winxp_iis_new_dir_virt.PNG",
+    "Coletor_browser_teste_ipc.png",
+    "Coletor_browser_teste_fat.png",
+    "Winxp_iis_assist_caminho.PNG",
+    "Winxp_iis_prop_dir.PNG",
+    "Winxp_iis_assist_criacao.PNG",
+    "Winxp_iis_princ.png",
+    "Winxp_iis_inc_fat.png"
+  ],
+  "Configurar usuário": [
+    "Geracao_Registro_devolucao_33.jpg"
+  ],
+  "Configurar usuário para variação máxima de divergência": [
+    "1.JPG"
+  ],
+  "Configurar utilização de recebimento na operação de entrada": [
+    "Erro_recebimento.jpg",
+    "Cadastro_operção_entrada.jpg"
+  ],
+  "Configuração GS1": [
+    "Cad_Prod_GS1_Simus.png",
+    "Config_GS1_Simus.png"
+  ],
+  "Configuração Operação de Faturamento": [
+    "Operacao_faturamento_novo.jpg"
+  ],
+  "Configuração da Forma de Pagamento": [
+    "FlagCheqRec.JPG",
+    "FormPagtoTipMovCx.JPG",
+    "CadFormPagto.JPG",
+    "Contacorrente.jpg",
+    "TipoBxFormPgto.JPG",
+    "FormPagtoHistContaCorrente.JPG"
+  ],
+  "Configuração da Forma de Pagamento para baixa de Cheques a Receber por Lote": [
+    "FlagCheqRec.JPG",
+    "FormPagtoTipMovCx.JPG",
+    "CadFormPagto.JPG",
+    "Contacorrente.jpg",
+    "TipoBxFormPgto.JPG",
+    "FormPagtoHistContaCorrente.JPG"
+  ],
+  "Configuração das Colunas do Grid": [
+    "CamposGrid8.png",
+    "CamposGrid1.png",
+    "CamposGrid6.png",
+    "CamposGrid5.png",
+    "CamposGrid7.png",
+    "CamposGrid2.png",
+    "CamposGrid4.png",
+    "CamposGrid3.png"
+  ],
+  "Configuração de Administradoras": [
+    "Produtos_concilia.png",
+    "Administradora_produto_concilia.png",
+    "vinculo"
+  ],
+  "Configuração de Boletos": [
+    "1.JPG",
+    "TelaCadLayoutBoletos.JPG",
+    "BtnSalvar.jpg",
+    "BtnNovoLote.jpg",
+    "TelaCadLayoutBoletos1.jpg",
+    "TelaCadLayoutBoletos2.jpg"
+  ],
+  "Configuração de Família de produto na rotina de cadastro de produto": [
+    "Configfamilia1.png",
+    "Configfamilia3.png",
+    "Configfamilia2.png"
+  ],
+  "Configuração de Imagem e Vídeo": [
+    "188311_config.png"
+  ],
+  "Configuração de Imagem e Vídeo na emissão de notas fiscais": [
+    "Config_logo.png"
+  ],
+  "Configuração de Preço Claro do produto por divisão": [
+    "Cadprodparametrosprecoclarooperacaodiv.PNG",
+    "Cadprodparametrosprecoclaromedidaun.PNG",
+    "Cadprodparametrosprecoclarofatordez.PNG",
+    "Cadprodparprecoclaro.PNG"
+  ],
+  "Configuração de Preço Claro do produto por multiplicação": [
+    "Cadprodparametrosprecoclaro.PNG",
+    "Cadprodparametrosprecoclaromedidakg.PNG",
+    "Cadprodparametrosprecoclarofatordois.PNG",
+    "Cadprodparametrosprecoclarooperacaomult.PNG"
+  ],
+  "Configuração de Usuário": [
+    "ChequeDevCadUser.JPG"
+  ],
+  "Configuração de Usuário para baixa de Cheques a Receber por Lote": [
+    "CadUserBxLoteChRec.JPG"
+  ],
+  "Configuração de Usuário para baixa por lote": [
+    "CadUserBxLoteChRec.JPG"
+  ],
+  "Configuração de Usuário para envio para Cheques Devolvidos": [
+    "Usuario.dev.cheque.png"
+  ],
+  "Configuração de alteração de NCM": [
+    "NcmOperacaoEntrada.jpg"
+  ],
+  "Configuração de arredondamento de preços para todos produtos": [
+    "4_configuracao_todos_produtos.png"
+  ],
+  "Configuração de arredondamento de preços por categoria": [
+    "3_configuracao_categoria.png",
+    "2_cadastro_categoria1.png"
+  ],
+  "Configuração de instruções do tipo de composto": [
+    "Instrucoesparatipodecomposto.jpg"
+  ],
+  "Configuração de obrigatoriedade do centro de custos na entrada de nota": [
+    "187087_op_ent_fin.PNG",
+    "187087_cad_for_cc.PNG"
+  ],
+  "Configuração de permissão CNAB para usuário": [
+    "1.JPG",
+    "Telapermissao1.jpg"
+  ],
+  "Configuração de permissão de usuário para baixa de contas por Convênio": [
+    "CadUserBaixaCoopConv.JPG"
+  ],
+  "Configuração de permissão de usuário para geração de negociação de recebimento": [
+    "CadUserPermNegRec1.JPG",
+    "1.JPG",
+    "C1.jpg"
+  ],
+  "Configuração de permissão para usuário": [
+    "Usuario.JPG",
+    "Permissaousuario.jpg"
+  ],
+  "Configuração de usuário para lote de custódia de cheques": [
+    "CadUserLoteCheqCustodia.JPG"
+  ],
+  "Configuração de venda presencial, e local de retirada": [
+    "Cliente.png",
+    "Pedido.png",
+    "Entregacliente.png"
+  ],
+  "Configuração de venda presencial, e local de retirada/entrega": [
+    "Clienteend.png",
+    "Operacional.png"
+  ],
+  "Configuração do Cadastro de Finalizadora": [
+    "Trocacheques.jpg"
+  ],
+  "Configuração do Launcher do Superus": [
+    "Launcher_mensagem.png",
+    "Wiki.png",
+    "Launcher_wiki.png",
+    "Mensagem.png",
+    "Launcher_progress.png"
+  ],
+  "Configuração do Preço Claro no Layout de Etiqueta Matricial": [
+    "Layoutetiqmatrprecoclaro.PNG"
+  ],
+  "Configuração do Preço Claro no Layout de Etiqueta Térmica": [
+    "Layoutetiqtermbotaolegendas.PNG",
+    "Layoutetiqetermprecoclaroref.png",
+    "Layoutetiqtermprecoclaro1.PNG"
+  ],
+  "Configuração do Preço Claro no Layout de Etiqueta Windows": [
+    "Layoutetiqwinprecoclarosalvar.png",
+    "Abrirlayout.png",
+    "Layoutetiqwinprclaro.png",
+    "Cadetiquetaswindowsabrirlayout.png",
+    "Layoutetiqwinprclaroref.png"
+  ],
+  "Configuração do Texto Padrão para preço claro": [
+    "Config_texto_padrao_precoclaro.png"
+  ],
+  "Configuração do aplicativo Cotação Web para conexão à base de dados Superus": [
+    "Cotacaoweb_exe_pasta.png",
+    "Cotacaoweb_config_senha.png",
+    "Cotacaoweb_config.png",
+    "Cotacaoweb_config_usubanco.png",
+    "Cotacaoweb_pricipal_sem_erro.png",
+    "Cotacaoweb_principal_nao_conectado.png"
+  ],
+  "Configuração do arquivo de conexão CotacaoWeb.ini": [
+    "Cotacaoweb_pasta.png",
+    "Cotacaoweb_tns.png",
+    "Cotacaoweb_caminho.png"
+  ],
+  "Configuração do diretório para importação automática de arquivos XML contidos na máquina": [
+    "Wikiconfig.png",
+    "Wikidiretorio.png",
+    "Wikiconfig4.png",
+    "Wikidiretorio2.png",
+    "Wikiconfig2.png",
+    "Wikiconfig3.png"
+  ],
+  "Configuração do emissor da SEFAZ": [
+    "EmissorSEFAZConfig.jpg",
+    "Config.JPG"
+  ],
+  "Configuração do sistema para tratamento de negociação de recebimento": [
+    "ConfRecNegRecebimento.JPG"
+  ],
+  "Configuração dos Coletores Web para acesso ao banco de dados Superus": [
+    "Coletor_webconfig_userpass.png",
+    "Coletor_config_webconf.png",
+    "Coletor_webconfig_tns.png",
+    "Coletor_webconfig_loja.png",
+    "Coletor_webconfig_campos.png"
+  ],
+  "Configuração dos Totalizadores de Colunas": [
+    "Prod_comp_skSum.png",
+    "Prod_comp_conf_grid.png",
+    "Prod_comp_salvar_alteracoes.png",
+    "Prod_comp_personalizar_controle.png",
+    "Prod_comp_conf_coluna.png",
+    "Prod_comp_total_coluna.png",
+    "Prod_comp_rodape.png"
+  ],
+  "Configuração incorreta de filtros na Pesquisa de Produtos": [
+    "Pesquisaprodutosfiltros.png"
+  ],
+  "Configuração na operação de entrada": [
+    "RetencaoOperacaoEntrada.jpg"
+  ],
+  "Configuração na operação de saída": [
+    "RetencaoOperacaoSaída.jpg"
+  ],
+  "Configuração para alteração de conta do registro de estorno de cheque": [
+    "1.JPG",
+    "ChequeDevConfig1.JPG"
+  ],
+  "Configuração para controle de permissão para divergência de Ped x NF": [
+    "188288_config.png"
+  ],
+  "Configuração para inclusão automática do código de integração": [
+    "ChequeDevConfig.JPG",
+    "Config.JPG"
+  ],
+  "Configuração para lançamento do histórico na conta corrente": [
+    "ChequeDevCadForPgto.JPG"
+  ],
+  "Configuração para lançamento neutro no caixa ao enviar cheques para custódia": [
+    "ConfigEnvLotCustCheParaCaixa.JPG"
+  ],
+  "Configuração para obrigar usuário informar data e mensagem de confirmação do lançamento": [
+    "Conciliacaobancaria.jpg"
+  ],
+  "Configuração para promoção com quantidade máxima de produtos": [
+    "Qtdemax5.png",
+    "Itensnapromocao.png",
+    "Qtdemax3.png",
+    "Qtdemax1.png",
+    "Qtdemax6.png"
+  ],
+  "Configuração para utilização por usuários": [
+    "Tipos_inventario_usuarios.png",
+    "BtnNovoLote.jpg",
+    "Inventario_usuarios.png",
+    "Inventario_usuarios_all.png"
+  ],
+  "Configurações Utiliza Regime Especial Rio Log Lei Estadual 4.173/03 (RJ)": [
+    "Manutencaomixriolog.png",
+    "Fcpriolog.png",
+    "Riolog.png",
+    "Diferencaicms.png"
+  ],
+  "Configurações da Tesouraria": [
+    "Config_tesouraria.png"
+  ],
+  "Configurações de fornecedores": [
+    "Fornecedor_DDA_2_1.png"
+  ],
+  "Configurações do Filtro 'Selecione os repositores' da Impressão de Etiquetas": [
+    "Cad_grupo_repositor.png",
+    "Prod_min_max.png",
+    "Cad_estqminmax_repositor.png",
+    "Imp_etq_repositor.png",
+    "Conf_estq_min_max.png",
+    "Cad_estq_min_max.png",
+    "Cad_grupo_repositor2.png",
+    "Rep_imp_etiqueta.png",
+    "Man_mix_rep.png",
+    "Cad_repositores.png"
+  ],
+  "Configurações do Sistema": [
+    "ChequeDevConfig.JPG",
+    "Config.JPG",
+    "1.JPG",
+    "ChequeDevConfig1.JPG"
+  ],
+  "Configurações do Sistema para envio para Cheques Devolvidos": [
+    "ChequeDevConfig.JPG",
+    "Config.JPG",
+    "1.JPG",
+    "ChequeDevConfig1.JPG"
+  ],
+  "Configurações gerais no Tipo de Inventário": [
+    "Lotes_mult_tipos_inventarios.png",
+    "BtnCancReaprChAlinea11.jpg",
+    "1.JPG",
+    "BtnSalvar.jpg"
+  ],
+  "Configurações para calcular substituição tributária com MVA Ajustada": [
+    "TipoFornecedor.jpg",
+    "UtilizaMVAajustada.jpg"
+  ],
+  "Configurações para geração de Pedidos CD": [
+    "BtnNovoLote.jpg",
+    "Btnexcluir.png",
+    "Botaoaltera.png",
+    "Config_geracao_pedidos_cd.png"
+  ],
+  "Configurações para importação de arquivos XML emitidos par CPF": [
+    "XMLCPF.jpg",
+    "XMLTIPOPESSOA.jpg",
+    "OPERACAOXMLCPF.jpg"
+  ],
+  "Consulta Preço": [
+    "Banco23.jpg",
+    "Consultapreco.jpg",
+    "1.JPG",
+    "Consultapreco12.jpg",
+    "Econect.jpg",
+    "Banco1.jpg",
+    "ConfiguradorSuperus.jpg"
+  ],
+  "Consulta de Logs": [
+    "Logs.png"
+  ],
+  "Consulta pelo webservice": [
+    "WebserviceIntegracaoRIO.jpg"
+  ],
+  "Consultar NCM pelo webservice": [
+    "WebserviceIntegracaoRIO.jpg"
+  ],
+  "Consultar regra de validação de uma NFe rejeitada": [
+    "HistoricosNFe.jpeg",
+    "MensagemValidacao.jpeg",
+    "RegraValidacao2.jpeg"
+  ],
+  "Consultar status da Sefaz dentro do Superus": [
+    "JanStatusSVC.jpeg",
+    "BotStatusSVC.jpeg",
+    "EmiteNFeSVC.jpeg"
+  ],
+  "Conta Corrente - Como são calculados os campos dos saldos": [
+    "TelaSaldosContCorrente.jpg"
+  ],
+  "Conta Corrente não liberada para o usuário": [
+    "Cad_conta_corrente_user.png",
+    "Conta_corrente.png"
+  ],
+  "Contas a Pagar - Baixa com abatimento de Devolução": [
+    "Tela_devolucao.jpg",
+    "Escolhercontas.jpg"
+  ],
+  "Contas a Pagar - Gerar cheque limpa número do documento": [
+    "BtnGeraNumCheque.jpg",
+    "TelaBaixaPgGeraCheque.JPG"
+  ],
+  "Contas de Cooperados - Invalid Time": [
+    "CooperadoInvalidTime.JPG"
+  ],
+  "Contas do Plano de Contas": [
+    "1.JPG",
+    "C2.jpg",
+    "C1.jpg"
+  ],
+  "Contratos: Tipo de Acordo Desconto Financeiro": [
+    "Contrato_desconto_financeiro.jpg"
+  ],
+  "Contratos: Tipo de Acordo Desconto Financeiro - Vinculado as Áreas de Negócios": [
+    "Area_negociacao1.png",
+    "Area_negociacao2.png",
+    "Area_negociacao3.png",
+    "Area_negociacao5.png",
+    "Area_negociacao6.png"
+  ],
+  "Contratos: Tipo de Acordo Sell In - Custo Negociado": [
+    "Contrato_custo_negociado_tipo_calculo.jpg",
+    "Contrato_custo_negociado_op_entrada.jpg",
+    "Contrato_custo_negociado.jpg"
+  ],
+  "Contratos: Tipo de Acordo Sell Out": [
+    "Contrato_sell_out.jpg"
+  ],
+  "Controlar divergência de valores no envio de lotes de Tickets": [
+    "Mensagem_variacao.jpg",
+    "Tela_envio.jpg",
+    "Recebiveis_tickets.jpg"
+  ],
+  "Controlar numeração de cheques emitidos": [
+    "Controlacheques.jpg",
+    "Baixapagar.jpg"
+  ],
+  "Controlar recebimento de nota com divergência com pedido em quantidade": [
+    "Alerta_atualizacao_divergencia.JPG",
+    "Confirma_conferencia.JPG",
+    "Entradas_div_alterta.JPG"
+  ],
+  "Controle de Cartões - Carteira Digital": [
+    "Cartao_picpay.png"
+  ],
+  "Controle de Cheques Devolvidos Alínea 11": [
+    "BtnBaixChAlinea11.jpg",
+    "BtnTrocaAlineaChDev.jpg",
+    "BtnCancReaprChAlinea11.jpg",
+    "1.JPG",
+    "TelaBaixaCheReapreAlinea11.JPG",
+    "TelaReapresentChAlinea11.JPG",
+    "TelaContCorCancReapreChAlinea11.jpg",
+    "TelaContaCorChReapreAlinea11.JPG",
+    "TrocaAlineaChReapre.JPG",
+    "BtnReaprChAlinea11.jpg"
+  ],
+  "Controle de Comissões": [
+    "1.JPG"
+  ],
+  "Controle de Entrega": [
+    "Iconentr5.png",
+    "Iconentr4.png",
+    "Contrentr12.png",
+    "Contrentr4.png",
+    "Contrentr1.png",
+    "Valegas2.png",
+    "Iconentr6.png",
+    "Contrentr10.png",
+    "Contrentr6.png",
+    "Contrentr14.png",
+    "Iconentr2.png",
+    "Contrentr13.png",
+    "Iconentr3.png",
+    "Contrentr5.png",
+    "Contrentr11.png",
+    "Contrentr2.png",
+    "Contrentr7.png",
+    "Contrentr9.png",
+    "Contrentr3.png",
+    "Contrentr8.png"
+  ],
+  "Controle de Expedição": [
+    "Controle_expedicao_item.png",
+    "Controle_expedicao_quantidade.png",
+    "Controle_expedicao_op2.png",
+    "Controle_expedicao.png",
+    "Controle_expedicao_digitacao.png",
+    "Controle_expedicao_digitacao1.png"
+  ],
+  "Controle de Lotes de Vendas e Recebimentos": [
+    "Permissoes_envio_recebimento_lote_cartoes.png",
+    "Envio_Baixa_Lotes_cartoes2.png",
+    "Envio_Baixa_Lotes_cartoes.png"
+  ],
+  "Conversor (SimusConverter)": [
+    "Iniciando_importacao.png",
+    "Arquivos_conversor.png",
+    "Exemplo_perfil.png",
+    "Planilha_e_banco.png",
+    "Importado_sucesso.png",
+    "Configurando_conversor.png",
+    "Importacao.png"
+  ],
+  "Converter embalagem na importação do XML": [
+    "Converte_embalagem.JPG",
+    "Embalagem.jpg",
+    "Converte.jpg"
+  ],
+  "Cooperados com limite excedido sem bloqueio no PDV": [
+    "Config_bloq_coop_limite.png",
+    "Cad_conv_lib_saldo.png"
+  ],
+  "Correlação das operações de entrada com o CFOP do XML": [
+    "NFE.jpg",
+    "OperacaoImportadorCadFornecedor.jpg",
+    "OperacoesImportadorNFe.jpg"
+  ],
+  "Correção de notas fiscais eletrônicas com situação 4 devido a \"Duplicidade na SEFAZ\"": [
+    "NFE.jpg",
+    "CancConsultaNFe.jpg",
+    "ControleNfeConsulta.png"
+  ],
+  "Cotação não é enviada à Web": [
+    "Cotacao_web.png"
+  ],
+  "Cotação é enviada para a web, mas fornecedor não aparece": [
+    "Cotacao_forn.png",
+    "Publica_cotacao.png",
+    "Cotacao_web_forn.png"
+  ],
+  "Criar Caixa": [
+    "Caixa_parametro.png",
+    "Caixa_usuario.png"
+  ],
+  "Criar figura fiscal e grades tributárias para produtos do tipo substituição": [
+    "Figura_selec_grade.jpg",
+    "Figura_incluir_grade.jpg",
+    "Gradecadastro.jpg",
+    "Produto_figura.jpg"
+  ],
+  "Criar pauta/margem para produtos do tipo substituição": [
+    "Pauta_vigencia.jpg"
+  ],
+  "Criar vigências a partir do dia 1º do próximo mês na integração fiscal": [
+    "1.JPG",
+    "VigenciaDia01.jpg"
+  ],
+  "Criação da grade tributária": [
+    "Botao_ajustar_grade.png",
+    "Salva_grade.png",
+    "Z_figura_todas.png",
+    "Z_figura_todas_NCM.png",
+    "Z_figura_ST.png",
+    "Nova_grade.png"
+  ],
+  "Criação da pauta/margem": [
+    "Pauta_vigencia.jpg"
+  ],
+  "Criação da pauta/margem (produtos do tipo substituição)": [
+    "Pauta_vigencia.jpg"
+  ],
+  "Criação das pastas dos Coletores Web no Servidor": [
+    "Coletor_pasta_copia.png",
+    "Coletor_pasta.png",
+    "Coletor_pasta_colar.png"
+  ],
+  "Criação de usuário": [
+    "Usuario.JPG"
+  ],
+  "Custo Líquido na impressão do pedido de compras": [
+    "Custo_liquido_pedido.jpg"
+  ],
+  "Cálculo Estoque Mínimo e Máximo": [
+    "Wiki_print.png"
+  ],
+  "Cálculo da ST em nota de devolução pela Figura Fiscal": [
+    "Ent_st_figura_regime_piscofins.png",
+    "Dev_figura_fiscal.png",
+    "Ent_st_figura_tipo_grade.png",
+    "Dev_fornecedor_222.png",
+    "Dev_figura_fiscal_forn_1.png",
+    "Ent_st_figura_vig_tipo.png",
+    "Dev_figura_fiscal_naodest.png",
+    "Tipo.png"
+  ],
+  "Cálculo da ST em nota de devolução pelos valores importados na nota de entrada": [
+    "Ent_st_figura_regime_piscofins.png",
+    "Dev_nf_entrada_op_2.png",
+    "Ent_st_figura_vig_tipo.png",
+    "Tipo.png"
+  ],
+  "Cálculo da base de ICMS de acordo com a portaria CAT 153": [
+    "LomboCAT153.jpg"
+  ],
+  "Cálculo dos estoques mínimo e máximo pela média de vendas": [
+    "Wiki_print.png"
+  ],
+  "DANFE": [
+    "ImprimirDANFENFEControle.jpg"
+  ],
+  "Definir o valor mínimo da nota para retenção de impostos": [
+    "ValorMinRetencao2.JPG"
+  ],
+  "Definir operação de entrada para fornecedor específico": [
+    "Printt2.png",
+    "Printt1.png"
+  ],
+  "Definição de Permissões às pastas dos Coletores Web": [
+    "Propriedades_pasta_seg_add_todos.png",
+    "Coletor_pasta_prop_seg.png",
+    "Coletor_pasta.png",
+    "Coletor_seg_permitir.png",
+    "Propriedades_pasta.png",
+    "Todos.png",
+    "Coletor_pasta_seg_add.png"
+  ],
+  "Definição de permissão à pasta PRINTERS do Windows": [
+    "Propriedades_pasta_seg_add_todos.png",
+    "Pasta_sys32_spool_printers.png",
+    "Propriedades_pasta.png",
+    "Pasta_printers_seg_permitir.png",
+    "Todos.png",
+    "Pasta_printers_seguranca_add.png",
+    "Pasta_printers_seguranca.png"
+  ],
+  "Definição de permissões às pastas Superus, Oracle e BDE": [
+    "Propriedades_pasta_seguranca_add.png",
+    "Superus_pasta_unidC.png",
+    "Propriedades_pasta_seg_add_todos.png",
+    "Superus_seg_permitir.png",
+    "Propriedades_pasta.png",
+    "Propriedades_pasta_seguranca.png",
+    "Todos.png"
+  ],
+  "Definição do lançamento contábil da entrada por centro de custos": [
+    "Centro_custo3.png",
+    "Operacao_entrada.png"
+  ],
+  "Departamento": [
+    "Departamento_deve_ser_informado.jpg",
+    "Permissao_usario_dpto.jpg",
+    "Cadastro_departamentos.jpg",
+    "Filtro_por_departamento.jpg",
+    "Obriga_departamento_centro_custo.jpg",
+    "Selecionar_dpto_centrocusto.jpg"
+  ],
+  "Desabilitando o botão Gera Nota dentro do Pedido de Faturamento": [
+    "Desabilita_Gera_Nota.JPG",
+    "Operacao_Desab_Gera_nota.JPG"
+  ],
+  "Descontar imposto no cálculo da comissão": [
+    "Comissão_operação.png"
+  ],
+  "Desconto nos produtos do pedido de faturamento": [
+    "Desconto.png",
+    "Desconto_finall.png",
+    "Desconto_tela.png"
+  ],
+  "Desconto por Faixa para Clientes Conveniados": [
+    "Desconto.png",
+    "Faixa_desconto_convenio_oper.png",
+    "Pedido_faixa_desconto.png",
+    "Faixa_desconto.png",
+    "Faixa_desconto_convenio_clien.png",
+    "vinculo"
+  ],
+  "Detalhes de Produtos exibe estoque zerado mesmo que o produto possua estoque": [
+    "Relacionamento_loja_acumula_est.png",
+    "Movimento_estoque_prod3_lj1.png",
+    "Detalhes_prod_3_sem_estoque.png",
+    "Config_estoque_lojas_unificados.png"
+  ],
+  "Determinados tipos de inventário não aparecem para usuário": [
+    "Inventario_inc_tipos.png",
+    "Inventario_princ_tipos.png"
+  ],
+  "Determinar a loja que poderá movimentar o estoque": [
+    "Inc_loja_movimenta_estoque_cad_grupo.png",
+    "Cad_grupos_atualiza_estoque_lojas.png"
+  ],
+  "Devoluções - Consulta Observação de Fornecedor": [
+    "TelaDevObsFornecedor.jpg",
+    "TelaDevClickFornObser.jpg"
+  ],
+  "Diferença de centavos na aba impostos dentro da NF": [
+    "ArredondamentoImp.jpg"
+  ],
+  "Diferença entre os Saldos na tela de Conta Corrente": [
+    "Contacorrente.jpg",
+    "DifEntreSaldosContaCorrente.JPG"
+  ],
+  "Diferença entre pendentes 1 e pendentes 2": [
+    "Tela_pendente.JPG"
+  ],
+  "Digitalização na NF de Entrada": [
+    "188311_entradas.png",
+    "188311_scanner_arq.png"
+  ],
+  "Digitalização na emissão de NF": [
+    "188311_pedidos.png",
+    "188311_scanner_arq.png"
+  ],
+  "Digitação da Cotação": [
+    "Inclusaoitenspromocao_botao_ok.png",
+    "Fornecedor.png",
+    "Digitacao_precos_cotacao.png",
+    "Digitacao_cotacao_fornecedor.png"
+  ],
+  "Digitação da Cotação Web": [
+    "Cotacao_web_cotacoes.png",
+    "Botao_editar_site.png",
+    "Cotacoes_site.png",
+    "Botao_ok_site.png",
+    "Cotacoes_preco.png"
+  ],
+  "Digitação de Volumes na rotina de recebimento": [
+    "Recebimento_digita_volumes.JPG",
+    "Romaneio_volumes_alerta.JPG",
+    "Pede_permissao_volume.JPG"
+  ],
+  "Digitação de bonificação por item nos geradores de compra": [
+    "Item_bonificacao.png",
+    "Bonificacao_sobre_custo.png",
+    "1.JPG",
+    "Pedido.png",
+    "Botao_carrega_prod.png",
+    "Abrindo_gerador_F8.png",
+    "Vinculando_pedido.png",
+    "Bonificacao_e_desconto_todos_os_produtos.png",
+    "Carregando_os_produtos_bonificados.png"
+  ],
+  "Digitação individual de preços do concorrente": [
+    "Digitação_preços_Concorrente.png"
+  ],
+  "Digitação manual do valor da ST em uma nota de devolução": [
+    "Ent_st_figura_regime_piscofins.png",
+    "Ent_st_figura_vig_tipo.png",
+    "Dev_manual_produto_2.png",
+    "Tipo.png",
+    "Dev_manual_op.png"
+  ],
+  "Divergência Valor Pedido x Nota Fiscal": [
+    "Devoluçao_atualizacao1.jpg",
+    "1.JPG"
+  ],
+  "Divergência Valor Tabela x Nota Fiscal": [
+    "Devoluçao_atualizacao3.jpg"
+  ],
+  "Divergência de preços entre nota fiscal e pedido de compra": [
+    "1.JPG",
+    "Geracao_Registro_devolucao_11.jpg"
+  ],
+  "Divergência de preços entre nota fiscal e pedido de compra por usuário": [
+    "1.JPG",
+    "Geracao_Registro_devolucao_11.jpg"
+  ],
+  "Divergência de preços entre nota fiscal e tabela de preço": [
+    "Geracao_Registro_devolucao_2.jpg"
+  ],
+  "Divergência negativa entre nota de entrada e pedido vinculado": [
+    "Img_confirmacao_geracao_adiantamento.png",
+    "Adiantamento_gerado_por_divergencia.png",
+    "Img_exemplo_desmarcar_divergencia_negativa.png",
+    "Img_exemplo_divergencia_negativa.png",
+    "Divergencia.png"
+  ],
+  "Divisão de fornecedor": [
+    "Ped_Compra_Forn4.jpg",
+    "Prod_divisao2.jpg",
+    "Forn_divisao3.jpg"
+  ],
+  "Efetua lançamento Neutro no caixa na baixa por Convênio": [
+    "CfgBxConvLancNeutroCx.JPG.JPG"
+  ],
+  "Efetuar download dos scripts de criação da base comum Superus x E-conect": [
+    "Site_chamados_base_comum_down.png"
+  ],
+  "Em Detalhes de Produtos não são exibidas notas antigas": [
+    "Config_det_prod_notas.png",
+    "Detalhes_prod_meses.png",
+    "Config_det_prod_meses.png"
+  ],
+  "Em baixa parcial de contas de cooperados manter a data de emissão": [
+    "Tela_manter_emissao_cooperados.jpg"
+  ],
+  "Emissão de Devoluções para fornecedores Simples Nacional": [
+    "Excecao31.jpg",
+    "1.JPG",
+    "SIMPLESSEMBASE.jpg",
+    "222291.jpg"
+  ],
+  "Encerramento de Promoção com Estoque Mínimo": [
+    "Mov_est_prod3_lj1.png",
+    "Fim_de_dia_prom_est_min.png",
+    "Est_min_promocao.png",
+    "Prom_encerrada_prod3_lj1.png"
+  ],
+  "Encerrar promoções pelo Fim de Dia": [
+    "Config_encerra_prom_fimdedia.png"
+  ],
+  "Entrada da Nota Fiscal": [
+    "187086_Imagem04.JPG"
+  ],
+  "Entrada de nota fiscal com conhecimento de frete": [
+    "vinculo"
+  ],
+  "Entrada de nota fiscal com exclusão de previsão": [
+    "Exclusaoprevisaocontaspagar2.jpg"
+  ],
+  "Entrada de nota fiscal com exclusão de previsão e selecionada uma previsão que esteja fora da variação": [
+    "Exclusaoprevisaocontaspagar3.jpg"
+  ],
+  "Enviar E-mail do XML e Danfe/PDF para o destinatário (Configurações completas)": [
+    "Cliente.png",
+    "EnvioDanfeCadCliente.png",
+    "CadastroLoja_EmailXML.png",
+    "EnvioDanfeCadOperac.png",
+    "EnvioDanfeCadFor.png"
+  ],
+  "Enviar Pré-venda para captura PDV": [
+    "Pedido.png",
+    "Pedidos_Principal.png",
+    "Operacao_aba_geral.png",
+    "Configuracao_Pedido.png",
+    "Pedido_Inclusao.png",
+    "Cadastro_loja_2.png"
+  ],
+  "Enviar para coletor ou recebimento eletrônico com exigência da nota de bonificação digitada e atualizada": [
+    "vinculo"
+  ],
+  "Envio Produto Composto para Preços Pendentes": [
+    "Envio_composto_pendente.JPG",
+    "Envio_composto_pendente_tipo.JPG"
+  ],
+  "Envio da Cotação para Web": [
+    "Botao_sincroniza_cotacao.png",
+    "Cotacao_botao_sincroniza.png"
+  ],
+  "Envio de Cheques a Receber para Cheques Devolvidos": [
+    "Btn_Env.jpg"
+  ],
+  "Envio de E-mail do XML e DANFE, realizando configurações necessárias e operacional": [
+    "Usuario.JPG",
+    "Cadastrousuariocorreio.jpg",
+    "Configoperacaoemail.jpg",
+    "Emailcliente.jpg",
+    "Emailgerenciador.jpg",
+    "Cadastrolojausuario.jpg"
+  ],
+  "Envio de Solicitações": [
+    "Envio_solicitacao_inventario_estoque.png"
+  ],
+  "Envio de desconto, cancelamento e inutilizado no arquivo Sped": [
+    "Cancelados.jpg"
+  ],
+  "Erro: (FireDAC)(Phys)(Ora)(OCI) . Cannot initialize OCI environment": [
+    "Cannot_initialize_oci_environment.png"
+  ],
+  "Erro: Insufficient memory for this operation": [
+    "Insufficient_memory.png"
+  ],
+  "Erro: Unable to write to Superus.INI": [
+    "Propriedades_pasta_seguranca_add.png",
+    "Arquivo_superusini.png",
+    "Propriedades_pasta_seg_add_todos.png",
+    "Superus_seg_permitir.png",
+    "Propriedades_pasta.png",
+    "Propriedades_pasta_seguranca.png",
+    "Err_unable_to_write_superusini.png",
+    "Todos.png"
+  ],
+  "Erro BOF ou EOF, registros C590, D190 ou D590": [
+    "C590.png"
+  ],
+  "Erro Importador: Operação do Importador-NFe não possui o CFOP de Entrada do fornecedor": [
+    "NFE.jpg",
+    "FornecOpImpNFe.jpg",
+    "CfopOpImpNF.jpg"
+  ],
+  "Erro ORA-01843: not a valid month (ou não é um mês válido)": [
+    "Erro_not_a_valid_month.png"
+  ],
+  "Erro Operação não permitida para este fornecedor no importador XML": [
+    "ErroOpNaoPermitida2.jpg"
+  ],
+  "Erro Produtos: Field 'IMPTOTAL' not found na impressão de Etiquetas Térmicas": [
+    "Erro_prod_imptotal.png",
+    "Layout_etiq_parametros_aliq.png"
+  ],
+  "Erro ao Importar Finalizadora: Não foi encontrado um Histórico Bancário de Crédito com a opção \"Crédito PIX\" selecionado": [
+    "Log_import_hist_bancario_pix.png"
+  ],
+  "Erro ao abrir arquivos no Conversor Genérico": [
+    "Conversor_abrir_arquivos.png",
+    "Microsoft_access_db_engine_install.png",
+    "Conversor_erro_abrir_arquivos.png",
+    "Download_microsoft_access_db_engine.png"
+  ],
+  "Erro ao gerar a carta de correção eletrônica": [
+    "CceTela.jpg",
+    "ConfigVersaoCCE.jpg"
+  ],
+  "Erro de I/O ao tentar imprimir Cheques": [
+    "Imp_cheques.png"
+  ],
+  "Erro de I/O ao tentar imprimir Etiquetas Térmicas de Produtos": [
+    "Faq_erro_etiqueta.png"
+  ],
+  "Erro de I/O na impressão de boleto - Contas a Receber": [
+    "ContRecErroIOImpBoleto.JPG"
+  ],
+  "Erro de mês inválido ao incluir ou alterar o limite de um cliente preferencial": [
+    "Erro_nao_mes_valido.png"
+  ],
+  "Erro de mês inválido ao incluir ou alterar o limite de um cooperado": [
+    "Erro_nao_mes_valido.png"
+  ],
+  "Erro frxDataSetEtiquetasIMPTOTAL: Field not found na rotina Impressão de Etiquetas": [
+    "ERRO_ETIQ_WINDOWS_IMPTOTAL.png",
+    "Layout_etiqwin_parametros_aliq2.png"
+  ],
+  "Erro na Atualização Pedido Faturamento - At end of table": [
+    "Erro_at_end_of_table.jpg",
+    "Tela_sincronizacao_produtos.JPG"
+  ],
+  "Erro operação não permitida para este fornecedor no importador XML": [
+    "FlagOpEntrada.jpg",
+    "ErroOpNaoPermitida2.jpg",
+    "FlagFornecedor.jpg"
+  ],
+  "Escolhendo layout de impressão de pedidos": [
+    "Tipo_impressao_pedido.JPG"
+  ],
+  "Escolher campos que serão atualizados na integração fiscal": [
+    "EscCampoAtualizaDadosFiscais02.jpg",
+    "EscCampoAtualizaDadosFiscais.jpg",
+    "Dadosfiscais.jpg"
+  ],
+  "Etiquetas Térmicas não aparece no menu Controle Produtos": [
+    "Menu_ctrl_prod_imp_etiq.png",
+    "Nova_impressao_etiquetas.png",
+    "Menu_ctrl_prod_etiq_term.png",
+    "Imp_etiq_layout_vazio.png",
+    "Impressao_etiquetas.PNG"
+  ],
+  "Etiquetas coletadas por usuário": [
+    "Etiqcoletor4.png",
+    "Etiqcoletor8.png",
+    "Etiqcoletor7.png",
+    "Etiqcoletor333.png",
+    "Etiqcoletor9.png",
+    "Etiqcoletor2.png",
+    "Etiqcoletor6.png",
+    "Etiqcoletor5.png",
+    "Etiqcoletor10.png",
+    "Etiqcoletor.png"
+  ],
+  "Excluir Caixa": [
+    "C3.jpg",
+    "1.JPG",
+    "C4.png",
+    "C2.jpg",
+    "C1.jpg",
+    "C6.jpg",
+    "C5.png"
+  ],
+  "Excluir promoção de loja selecionada": [
+    "Mensagem_confirma_exclusao_das_promocoeslistadas.png"
+  ],
+  "Excluir promoção de todas as lojas": [
+    "Mensagem_confirma_exclusao.png"
+  ],
+  "Exclusão ICMS da base de Cálculo": [
+    "Exclusao_ICMS_Base_Calculo.png"
+  ],
+  "Exclusão de Promoção Leve Pague": [
+    "Promocaoprincipal_selecionaregistro.png",
+    "Selecionaregistro.png"
+  ],
+  "Exclusão de Promoção Mix": [
+    "Inc_prom_mix_tela_princ.png",
+    "Exc_item_prom_mix.png"
+  ],
+  "Exclusão de Tabloide de Promoções": [
+    "BotaoExclui.png"
+  ],
+  "Exclusão de Tesouraria do Caixa": [
+    "BtnCancTesouraria.JPG",
+    "CxExcTesouraria.JPG",
+    "Tesouraria.jpg"
+  ],
+  "Executar scripts de atualização da base comum Superus x E-conect": [
+    "Arquivos_base_comum_zip.png",
+    "Pl_sql_compile_sucess.png",
+    "Pl_sql_compile_invalid.png",
+    "Pl_sql_menu_tools_compile.png",
+    "Pl_sql_icon.png",
+    "Pl_sql_compile_progress.png"
+  ],
+  "Existe algum relatório de contas a pagar por centro custo no Superus?": [
+    "Pagar_rel_analit_ccusto.png"
+  ],
+  "Existe algum relatório de cupons cancelados no Superus?": [
+    "Cupons_canc_rel.png"
+  ],
+  "Existe algum relatório no Superus para apurar vendas de Promoções?": [
+    "Vendas_rel_promocoes.png"
+  ],
+  "Existe algum relatório no Superus para apurar vendas de Promoções Mix?": [
+    "Vendas_rel_prom_mix.png",
+    "Vendas_rel_promx_mix_tipo_preview.png",
+    "Vendas_rel_promx_mix_tipo.png",
+    "Vendas_rel_prom_mix_preview.png",
+    "Tipo.png"
+  ],
+  "Exportação Frente": [
+    "Exptxt5.png",
+    "Exptxt3.png",
+    "Exptxt1.png",
+    "Exptxt6.png",
+    "Exptxt2.png",
+    "Exptxt4.png"
+  ],
+  "Exportação de Arquivo para Confecção do Cartão Superus": [
+    "CartaoRelExpCarTxt.jpg"
+  ],
+  "Exportação do arquivo de remessa de pagamento ao banco": [
+    "Contas_pagar_cnab1_1.png",
+    "Lote_cnab_pagar_1.png"
+  ],
+  "Exportação do arquivo de remessa de recebimento ao banco": [
+    "Lote_cnab_receb.png",
+    "Contas_receber_cnab2.png"
+  ],
+  "FGF": [
+    "Fgf_loja_2.png",
+    "Fgfgerencia_2.png"
+  ],
+  "Faixa de Desconto": [
+    "Operacao_faixa_desconto.png",
+    "Desconto.png",
+    "Pedido_faixa_desconto.png",
+    "Faixa_desconto.png"
+  ],
+  "Faturamento - Versão 8.01.13": [
+    "vinculo"
+  ],
+  "Fechamento Automático de Convênio": [
+    "1.JPG",
+    "Cadastro_convenios.jpg",
+    "Cadastro_email1.jpg"
+  ],
+  "Fechamento Diário de Produção": [
+    "Participa_fechamento_diario.png",
+    "Cancela_producao.png",
+    "Lojas_setor.png",
+    "Atualizar_para_gerar.png",
+    "Operacao_necessaria.png",
+    "Botao_fechamento.png",
+    "Tipo_producao_propria.png",
+    "Executa_fechamento.png",
+    "Atualiza_fechamento.png"
+  ],
+  "Fechamento Fiscal": [
+    "FechamentoFiscal.jpg"
+  ],
+  "Fechamento de Caixa não permite saldo na Finalizadora": [
+    "CadFinNPermiteSaldoCx.jpg",
+    "MsgFinComSaldoFechCaixa.JPG"
+  ],
+  "Fechamento de Caixa não permite valor de finalizadora": [
+    "CadFinNPermiteSaldoCx.jpg",
+    "MsgFinComSaldoFechCaixa.JPG"
+  ],
+  "Fechamento de Convênio com batimento realizado": [
+    "Configconvenio.jpg"
+  ],
+  "Fechamento manual da cotação": [
+    "Fechamento_manual_cotacao_precos.png"
+  ],
+  "Figura Fiscal no Superus": [
+    "Gradeentrada.png",
+    "306.png",
+    "Produtoscofing.png",
+    "305.png",
+    "Vrf.png",
+    "6001.png",
+    "Inclui.png",
+    "Produtosdiverg.png",
+    "Ate.png",
+    "8749.png",
+    "Mva.png"
+  ],
+  "Figura Fiscal para produtos de qualquer tipo de tributação": [
+    "Utiliza_figura_todas.png",
+    "Produto_todas.png"
+  ],
+  "Figura Fiscal para produtos de qualquer tipo de tributação vinculada por NCM": [
+    "NCM_escolha_figura_salva.png",
+    "Utiliza_figura_NCM.png",
+    "NCM_escolha_figura.png",
+    "NCM_ajusta_cadastro_produtos.png",
+    "Produto_ncm.png"
+  ],
+  "Figura Fiscal para produtos do tipo substituição tributária": [
+    "Produto_ST_2.png",
+    "Utiliza_figura_ST.png"
+  ],
+  "Filtrar no gerenciador de manifestações as notas que já foram importadas ou não para o Superus": [
+    "OrigemNFe_2.jpeg"
+  ],
+  "Filtro de Setor vazio no Cadastro de Produtos Compostos": [
+    "Prod_compostos_filtro_setor_vazio.png",
+    "Setor_usuarios.png"
+  ],
+  "Filtros das notas denegadas": [
+    "1.JPG",
+    "FiltroNovo2.jpg",
+    "FiltroNovo1.1.jpg"
+  ],
+  "Filtros de setorização no Tipo de Inventário": [
+    "BtnCancReaprChAlinea11.jpg",
+    "1.JPG",
+    "BtnSalvar.jpg",
+    "Filtros_setor_tipos_inventarios.png"
+  ],
+  "Finalizadora": [
+    "Finalizadora.png"
+  ],
+  "Flash de Vendas por Hora apresenta horário incorreto": [
+    "Flash_vendas_hora_incorreta.png"
+  ],
+  "Flash por Finalizadora": [
+    "Flashpdv3.png",
+    "Flashpdv2.png",
+    "Flashpdv1.png"
+  ],
+  "Fluxo entrada de nota fiscal com conhecimento": [
+    "FluxoEntradaCConhecimentoFrete.jpg"
+  ],
+  "Forma de Pagamento Lote": [
+    "Forma_pag_abatimento_cadastro.png"
+  ],
+  "Formas de pagamento não aparecem para o usuário": [
+    "Cad_forma_pagto.png",
+    "Lote_dev_formapagto2.png",
+    "Lote_dev_formapagto.png",
+    "Cad_forma_pagto_2.png"
+  ],
+  "Fornecedor": [
+    "Parametro_fornecedor.png",
+    "Sem_validade.png",
+    "Parametro_prod_sem_validade.png",
+    "Fornecedor.png"
+  ],
+  "Fornecedores da Cotação": [
+    "Fornecedores_cotacao_precos.png"
+  ],
+  "Gera Arquivo de Custódia de Cheques - CMC7": [
+    "TelaCheRecGeraCMC7.JPG",
+    "BtnGeraArqCMC7.jpg"
+  ],
+  "Gera Pedido de Venda através do arquivo E-commerce": [
+    "Modelo_Layout_Menor.png",
+    "Importador_Pedidos_Faturamento.png",
+    "Modelo_Layout.png",
+    "Flag_importa_pedidos.png"
+  ],
+  "Gerador de Compras - Carrega produtos estratégicos abaixo estoque mínimo": [
+    "Carrega_produtos_estratégicos.JPG",
+    "Produtos_estrategicos_carregados.JPG"
+  ],
+  "Gerador de Compras por Loja F8 - Alterando o custo do produto": [
+    "Altera_preco_gerador_f8.JPG"
+  ],
+  "Gerador de Relatório DMPL": [
+    "Linner_dmpl_btn_emiterel.png",
+    "Linner_dmpl_btn_design.png",
+    "Linner_dmpl_btn_refresh.png"
+  ],
+  "Gerador de compras por loja - F8": [
+    "Grupo_giro_gera_ped_lj.jpg",
+    "Geracao_ped_compras_lj.jpg",
+    "BtnNovoLote.jpg",
+    "Grid_loja_gera_ped_lj.jpg",
+    "Geracao_ped_compras_loja.jpg",
+    "Grid_prod_gera_ped_lj.jpg",
+    "Conf_geracao_ped_lj.jpg"
+  ],
+  "Gerar Nota Fiscal Retorno de Devolução": [
+    "Notafiscalpar1.jpg",
+    "Finan.jpg",
+    "Botdireitoretorno.jpg",
+    "Itens.jpg",
+    "1.JPG",
+    "Notafiscalpar2.jpg",
+    "Visualizacao.jpg",
+    "Cadfaturamento.jpg",
+    "Estq.jpg",
+    "R1.jpg",
+    "Operretdev.jpg",
+    "Faturpedidos.jpg"
+  ],
+  "Gerar Pedido de Faturamento com Origem e Destino fixo da operação na atualização da nota de entrada": [
+    "Operacao_entrada_origem_dest_fixo.jpg"
+  ],
+  "Gerar XML pela atualização do pedido.": [
+    "GerarNFEAtualizacaoPedidoOP.jpg"
+  ],
+  "Gerar número da nota fiscal com NF-e pendente ou rejeitada pela SEFAZ.": [
+    "NFE.jpg",
+    "PEDIDOSEMNUMERONOTA.jpg"
+  ],
+  "Gerar o manifesto \"Confirmada Operação\" automaticamente na atualização de uma NF": [
+    "Recalc_contratos.png"
+  ],
+  "Geração de Arquivo de Custódia de Cheques - CMC7": [
+    "TelaCheRecGeraCMC7.JPG",
+    "BtnGeraArqCMC7.jpg"
+  ],
+  "Geração de Divergências do Inventário": [
+    "Atualizacao.png",
+    "Motivos.png",
+    "Inventario.png",
+    "Tipo.png",
+    "Divergencia.png"
+  ],
+  "Geração de Inventário através da Importação de arquivo coletor": [
+    "Invet_de_estoque7.png",
+    "Invet_de_estoque5.png",
+    "Invet_de_estoque3.png",
+    "Invet_de_estoque1.png",
+    "Invet_de_estoque.png",
+    "Invet_de_estoque6.png",
+    "Invet_de_estoque4.png",
+    "Invet_de_estoque2.png"
+  ],
+  "Geração de Inventário através dos Pontos de Venda (PDV’s)": [
+    "Invent_gerado_imp_pdv.png",
+    "Cont_pdv_invent_import.png",
+    "Ivent_princ_gera_pdv.png"
+  ],
+  "Geração de Lote Individual": [
+    "Controle_lotes_cartoes2.png",
+    "Lote.png",
+    "BtnSalvar.jpg",
+    "BtnNovoLote.jpg",
+    "Transfere_todos_cartoes_lote.png",
+    "Envio_lote_cartoes.png",
+    "Controle_cartoes_adm.png",
+    "Conta_corrente.png",
+    "Lote_cartoes_conta_corrente.png",
+    "Envio_lote_adm.png",
+    "Baixa_lote_cartoes2.png",
+    "Transfere_cartoes_sel_lote.png"
+  ],
+  "Geração de Lotes por Data de Conciliação": [
+    "Lote.png",
+    "Data_concilicao_cartoes_lote.png",
+    "Btngera_lotes_cartoes_conciliacao.png",
+    "Lote_registros_cartoes.png",
+    "Lotes_cartoes_conciliacao_gerados.png",
+    "Lotes_conciliacao_gerados_sucesso.png",
+    "Gera_lotes_cartoes_conciliacao.png"
+  ],
+  "Geração de Lotes por Data de Concilição": [
+    "Lote.png",
+    "Data_concilicao_cartoes_lote.png",
+    "Btngera_lotes_cartoes_conciliacao.png",
+    "Lote_registros_cartoes.png",
+    "Lotes_cartoes_conciliacao_gerados.png",
+    "Lotes_conciliacao_gerados_sucesso.png",
+    "Gera_lotes_cartoes_conciliacao.png"
+  ],
+  "Geração de Nota de Devolução para divergência de preços com pedido de compra": [
+    "Simus_figura_1.jpg",
+    "Simus_figura_3.jpg",
+    "1.JPG",
+    "Simus_figura_4.jpg",
+    "Simus_figura_5.jpg",
+    "Simus_figura_2.jpg",
+    "Simus_figura_6.jpg"
+  ],
+  "Geração de Registro de Devolução para divergência de preços entre nota fiscal com pedido de compra e com tabela de preço": [
+    "Geracao_Registro_devolucao_55.jpg",
+    "Geracao_Registro_devolucao_66.jpg",
+    "Geracao_Registro_devolucao_4.jpg",
+    "vinculo"
+  ],
+  "Geração de arquivo para validação pelo Systax por data de cadastro": [
+    "DataCadSystax.jpeg"
+  ],
+  "Geração de arquivos para coletor": [
+    "Geracao.PNG",
+    "Geracao3.PNG",
+    "Geracao1.PNG",
+    "Geracao2.PNG"
+  ],
+  "Geração de devolução para divergência de preços entre \"NF de Entrada x Pedido de Compra\" ou \"NF de Entrada x Tabela de Preço\"": [
+    "vinculo"
+  ],
+  "Geração de devolução para divergência de preços entre \"NF de Entrada x Pedido de Compra\" ou \"NF de Entrada x Tabela de Preço\" na atualização da nota": [
+    "vinculo"
+  ],
+  "Geração de inventário de estoque": [
+    "Geracao_inventario_opcoes.png",
+    "Geracao_inventarios.png",
+    "Btn_raio.png"
+  ],
+  "Geração de pedidos bonificados automaticamente": [
+    "1.JPG"
+  ],
+  "Geração de registo de devolução": [
+    "Geracao_Registro_devolucao_66.jpg"
+  ],
+  "Geração de registro de devolução": [
+    "Devoluçao_atualizacao5.jpg"
+  ],
+  "Geração de registro de devolução ou adiantamento": [
+    "Devoluçao_atualizacao5.jpg"
+  ],
+  "Geração do arquivo XML dentro do pedido.": [
+    "GerarNFEAtualizaNF.jpg"
+  ],
+  "Geração do arquivo XML pela atualização do pedido.": [
+    "GerarNFEAtualizaNF.jpg"
+  ],
+  "Geração do arquivo XML pela tela de controle de NF-e.": [
+    "GeraNfeControle.jpg"
+  ],
+  "Geração do arquivo XML pela tela de pesquisa de pedidos.": [
+    "GerarNFETelaPesquisa.jpg"
+  ],
+  "Geração do arquivo em excel": [
+    "IntegracaoFiscalRIO2.jpg"
+  ],
+  "Gerenciar verbas de fornecedor por entrada de nota fiscal": [
+    "Label_negociacao.JPG"
+  ],
+  "Grupo de Usuários Financeiro": [
+    "2v.jpg",
+    "4V.jpg",
+    "1.JPG",
+    "7V.jpg"
+  ],
+  "Guia Informação e Apuração do ICMS - GIA": [
+    "PERMISSAOGIA.jpg",
+    "GIARPA.jpg",
+    "APURAGIA.jpg",
+    "BOTAOGIA.jpg"
+  ],
+  "Histórico não aparece para usuário em inclusão de lançamento em conta corrente": [
+    "Conta_corrente_historicos_nil.png",
+    "Cad_historicos_usuarios.png"
+  ],
+  "INSTALAR SUPERUS NOVA ESTAÇÃO": [
+    "InstalacLauncher.png",
+    "Instalac8.png",
+    "Instalac1.png",
+    "Instalac5.png",
+    "C4.png",
+    "Instalac9.png",
+    "Instalac6.png",
+    "Instalac4.png",
+    "Instalac7.png",
+    "C5.png",
+    "Instalac2.png"
+  ],
+  "Identificando divergência de impostos na entrada de nota fiscal": [
+    "DivImpostos.jpg"
+  ],
+  "Identificar cupons divergentes": [
+    "Cupons_divergentes_verificacao_econect.png"
+  ],
+  "Identificar divergência de Vendas entre Superus X E-Conect": [
+    "Solicitar_reprocesso.png",
+    "Botao.PNG",
+    "Telaverificacaobotao.png",
+    "Telaverificacao.png",
+    "Abamovimentosdivergentes.png"
+  ],
+  "Importador XML - Não importar Dados Financeiros": [
+    "Importador_dados_financeiros.JPG"
+  ],
+  "Importando automaticamente em sua determinada Operação através da correlação CFOP XML": [
+    "Wiki.png",
+    "CFOP.png",
+    "Fornecedor.png"
+  ],
+  "Importar CSTs ICMS 010 e 070 de uma nota fiscal de entrada como 060": [
+    "AlteraCSTentradaXML.jpg"
+  ],
+  "Importar Pedido de Compra": [
+    "Importador_pedido.jpg",
+    "Importador_pedido3.jpg"
+  ],
+  "Importar o arquivo XML": [
+    "ImpXMLRio.jpg"
+  ],
+  "Importar o arquivo XML no software da SEFAZ": [
+    "LocalizarNFESEFAZ.jpg"
+  ],
+  "Importar valores de ST dos produtos do XML de uma NFe de entrada": [
+    "Ent_xml_operacao2.png",
+    "Ent_st_figura_regime_piscofins.png",
+    "Ent_st_figura_vig_tipo.png",
+    "Fornecedor.png",
+    "Ent_xml_produto.png",
+    "Tipo.png",
+    "Ent_xml_fornecedor.png"
+  ],
+  "Importar xml no Danfe View": [
+    "TelaDanfeView.jpg",
+    "DanfeView.jpg"
+  ],
+  "Importação de arquivo coletor": [
+    "Botao2.PNG",
+    "Botao1.PNG",
+    "Importacao.png"
+  ],
+  "Importação de arquivo de Preço": [
+    "Botao_importa_arquivo_precos.png"
+  ],
+  "Importação do arquivo de retorno de pagamento do banco": [
+    "Baixa_pagar_cnab_1.png",
+    "Baixa_pagar_cnab.png",
+    "Cont_corrente_baixa_pagar_cnab.png"
+  ],
+  "Importação do arquivo de retorno de recebimento do banco": [
+    "Cont_corrente_baixa_cnab.png",
+    "Baixa_receb_cnab.png"
+  ],
+  "Importação do inventário e geração do Cat-44": [
+    "Inventario.png"
+  ],
+  "Impressão da DANFE": [
+    "ImprimirNFESEFAZ.jpg"
+  ],
+  "Impressão da DANFE em formato paisagem": [
+    "DanfePaisagem.jpg"
+  ],
+  "Impressão de Etiqueta do Tipo Cliente para Windows": [
+    "Imp_etiqueta_tipo_win.png",
+    "Cliente.png",
+    "Tela_padrao_win_imp_etiqueta.png",
+    "Imp_etiqueta_tipo_win_preview_cli.png",
+    "Imp_etiqueta_tipo_win_cliente.png"
+  ],
+  "Impressão de Etiqueta do Tipo Produto para Windows": [
+    "Cad_eti.png",
+    "Exemplo_eti.png",
+    "Cadastro_layout.png",
+    "Preview_im.png",
+    "Tela_padrao_win_imp_etiqueta.png",
+    "Impri_prod.png",
+    "Edicaolayout.png",
+    "Imp_etiquetao.png"
+  ],
+  "Impressão de etiqueta com layout Windows separado por páginas": [
+    "Imagem_1.png",
+    "Imagem_4.png",
+    "Imagem_3.png",
+    "Imagme_2.png",
+    "Imagem_7.png",
+    "Imagem_5.png",
+    "Imagem_6.png"
+  ],
+  "Impressão de etiquetas com layout Windows corta casas decimais zeradas": [
+    "Impressao_etique_zero_corta_decimais.png",
+    "Layout_etiq_windows_display_format.png",
+    "Botao_reticencias.png",
+    "Layout_etiq_windows_sel_campo.png",
+    "Impressao_etique_zero_decimais.png",
+    "Layout_etiq_windows_display_format_opcoes.png",
+    "Layout_etiq_abrir_layout_windows1.png"
+  ],
+  "Impressão de etiquetas com layout Windows não imprime o preço promocional": [
+    "Pesq_prod_1595_precos.png",
+    "Imp_etiq_prod_1595_precos.png"
+  ],
+  "Impressão de etiquetas com layout Windows separado por coluna": [
+    "Layout_06.png",
+    "Layout03.png",
+    "Layout_01.png",
+    "Layout_04.png",
+    "Layout_02.png",
+    "Layout_05.png"
+  ],
+  "Imprimir Danfe com dados financeiros": [
+    "Tela_cadastro_operacoes.jpg"
+  ],
+  "Imprimir Nota gerada a partir do Faturamento com dados financeiros": [
+    "Tela_cadastro_operacoes.jpg"
+  ],
+  "Imprimir código EAN dos produtos no DANFE": [
+    "Config.JPG",
+    "ImprimeEANconfig.JPG"
+  ],
+  "Imprimir resumo de alíquotas no DANFE da NFe": [
+    "AliquotasOperacao.jpg",
+    "ValorTributos.jpg"
+  ],
+  "Inativar Condição de Pagamento": [
+    "Cdp2.jpg",
+    "Cdp5.jpg",
+    "Cdp3.jpg",
+    "Cdp6.jpg",
+    "vinculo"
+  ],
+  "Incidir ICMS antecipado no custo líquido do produto": [
+    "Calculoicmsantecipado.png",
+    "Image_prodcustoliq.png",
+    "Guiafinanceiro.png",
+    "Pagargareantecipado.png",
+    "Vencimentogare.png",
+    "Image_custoliq.png",
+    "Ctrlk.png",
+    "Botaozinho.png"
+  ],
+  "Inclui produtos com preços por concorrente": [
+    "Inclui_produtos_preços_concorrente.png"
+  ],
+  "Incluindo o pedido de Compras": [
+    "188312_ped.png"
+  ],
+  "Inclusão Produto no pedido não aparece todas as embalagens": [
+    "Embalagem.jpg",
+    "Operacao_Tip_Embalagem.JPG",
+    "Faturamento_Item_Embalagem.JPG"
+  ],
+  "Inclusão de Produtos Negociados": [
+    "Inclusaoitenspromocao_botao_ok.png",
+    "BtnNovoLote.jpg",
+    "Inclusao_produtos_negociados.png"
+  ],
+  "Inclusão de Promoção Leve Pague": [
+    "Inclusaoitenspromocao_levepague_econect.png",
+    "Inclusaoitenspromocao_levepague_arius.png",
+    "Inclusaoitenspromocao_botao_ok.png",
+    "Inclusaoitenspromocao.png",
+    "BtnNovoLote.jpg",
+    "Inclusaoitenspromocao_todaslojas.png",
+    "Promocaoprincipal_sel_loja.png",
+    "Inclusaoitenspromocao_produto.png",
+    "Inclusaoitenspromocao_tipo_levpague.png",
+    "Inclusaoitenspromocao_algumaslojas.png"
+  ],
+  "Inclusão de Promoção Mix": [
+    "Inclusao-itens.png",
+    "BtnNovoLote.jpg",
+    "Tela-promocao-inclusao.png"
+  ],
+  "Inclusão de Promoção Mix Leve Pague": [
+    "Desconto.png"
+  ],
+  "Inclusão de Promoção com Estoque Mínimo": [
+    "Inclusaoitenspromocao_botao_ok.png",
+    "Inclusaoitenspromocao.png",
+    "BtnNovoLote.jpg",
+    "Tipo_promocao_individual.png",
+    "Inclusaoitenspromocao_todaslojas.png",
+    "Promocaoprincipal_sel_loja.png",
+    "Est_min_promocao.png",
+    "Inclusaoitenspromocao_produto.png",
+    "Inclusaoitenspromocao_algumaslojas.png"
+  ],
+  "Inclusão de Solicitações": [
+    "Inclusao_item_solcitacoes.png"
+  ],
+  "Inclusão de Tabloide de Promoções": [
+    "BtnCancReaprChAlinea11.jpg",
+    "Tabloide_inc_totaliza.png",
+    "Tabloide_inc_datas.png",
+    "1.JPG",
+    "Tabloide_aba_ordem_produtos.png",
+    "BtnSalvar.jpg",
+    "BtnNovoLote.jpg",
+    "BtnConfirma.png",
+    "Tabloide_inc_tipo.png",
+    "Tabloide_grid_produtos.png",
+    "Tabloide_princ_bot_inc.png",
+    "Tipo.png",
+    "Tabloide_inc.png",
+    "Tabloide_inc_nome.png"
+  ],
+  "Inclusão de diversos produtos na Promoção Mix Leve e Pague": [
+    "Mixx3.png",
+    "Mixx2.png",
+    "Mixx6.png",
+    "Mixx5.png",
+    "Mixx4.png",
+    "Mixx1.png"
+  ],
+  "Inclusão de inventário de estoque": [
+    "Inclusao_inventario_nome.png",
+    "BtnCancReaprChAlinea11.jpg",
+    "1.JPG",
+    "Inclusao_inventario_multi.png",
+    "BtnSalvar.jpg",
+    "BtnNovoLote.jpg",
+    "Inclusao_inventario_data.png",
+    "Inclusao_inventario_loja.png",
+    "Inclusao_inventario_texto.png",
+    "Inclusao_inventario_tipo1.png",
+    "Inclusao_inventario.png",
+    "Inventario.png"
+  ],
+  "Inclusão de produto no tabloide": [
+    "Inclusaoitenspromocao_botao_ok.png",
+    "Campo_venda_estimada.png",
+    "BtnNovoLote.jpg",
+    "Campo_preco_promocao.png",
+    "Inclusaoitenspromocao_produto.png",
+    "Tabloide_pagina_ordem.png",
+    "Tabloide_prod_inc.png"
+  ],
+  "Inclusão de produto no tabloide a partir dos Produtos Negociados": [
+    "Prod_negoc_sel_registro.png",
+    "Inclusaoitenspromocao_botao_ok.png",
+    "Tabloide_produtos_negociados.png",
+    "Tabloide_prod_inc_negociados.png",
+    "Produtos_negociados_princ.png",
+    "Tabloide_pagina_ordem.png",
+    "Prod_negoc_bt_direito.png"
+  ],
+  "Inclusão de um Tipo de Inventário": [
+    "Preench_inclusao_tipos_inventario.png",
+    "BtnCancReaprChAlinea11.jpg",
+    "1.JPG",
+    "BtnSalvar.jpg",
+    "BtnNovoLote.jpg",
+    "Inclusao_tipos_inventario.png",
+    "Inventario.png"
+  ],
+  "Inclusão de uma Concorrência de Preços": [
+    "Inclusao_nova_concorrencia.png"
+  ],
+  "Inclusão de uma Cotação de Preços": [
+    "Inclusao_nova_cotacao.png"
+  ],
+  "Inclusão dos Códigos De/Para no cadastro da Administradora": [
+    "Cad_adm.png",
+    "BtnNovoLote.jpg",
+    "Cad_adm_de_para_cartoes.png",
+    "Cad_adm_inc_de_para_cartoes.png"
+  ],
+  "Inclusão dos Produtos Negociados em Promoção": [
+    "Tela_inclusao_promocao_produtos_negociados.png",
+    "Inclusaoitenspromocao_botao_ok.png",
+    "Prod_negociados_inclusao_na_promocao.png"
+  ],
+  "Indicar que o fornecedor utiliza regime especial para operações com carne": [
+    "FornRegimeCarne.jpg"
+  ],
+  "Informar URL": [
+    "Url_concilia.png"
+  ],
+  "Informar os dados da Declaração de Importação em um pedido": [
+    "DiIncluirAdicao002.jpg",
+    "DiIncluir.jpg",
+    "DiDentroProduto.jpg",
+    "DiIncluir002.jpg",
+    "DiIncluirAdicao.jpg"
+  ],
+  "Informações do Inventário não são enviadas para o arquivo Sped Fiscal": [
+    "Inventario.png"
+  ],
+  "Informações faltantes no Cadastro do Produto": [
+    "Botao_pesquisa_lanterna.png",
+    "BtnSalvar.jpg",
+    "Botao_efetua_pesquisa.png"
+  ],
+  "Inserir impostos do produto de forma manual na devolução": [
+    "ImpostosManual.jpeg",
+    "DevolucaoManual.jpeg"
+  ],
+  "Inserção das Colunas no Gerador DMPL": [
+    "Linner_dmpl_coluna_desc.png",
+    "Linner_dmpl_btn_remover.png",
+    "Colunas.png",
+    "Linner_dmpl_coluna_nro.png",
+    "Linner_dmpl_btn_intercalar.png",
+    "Linner_dmpl_coluna.png",
+    "Linner_dmpl_btn_incluir.png",
+    "Linner_dmpl_colunas.png"
+  ],
+  "Inserção das Contas no Gerador DMPL": [
+    "Linner_dmpl_contas.png",
+    "Busca.png",
+    "Linner_dmpl_conta_lin_col.png",
+    "Linner_dmpl_conta_busca.png",
+    "Linner_dmpl_conta_cont.png",
+    "Ima3.png",
+    "Ima2.png",
+    "Linner_dmpl_conta.png",
+    "Linner_dmpl_btn_incluir.png"
+  ],
+  "Inserção das Linhas no Gerador DMPL": [
+    "Linner_dmpl_linhas.png",
+    "Linner_dmpl_btn_remover.png",
+    "Linner_dmpl_linha_nro.png",
+    "Linner_dmpl_linha.png",
+    "Linner_dmpl_linha_desc.png",
+    "Linner_dmpl_btn_intercalar.png",
+    "Linner_dmpl_btn_incluir.png"
+  ],
+  "Instalação do BDE": [
+    "BDE_pass.png",
+    "Install_BDE_cursor.png",
+    "BDE_sql_msg1.png",
+    "BDE_extract.png",
+    "BDE_sql_msg2.png",
+    "Exec_admin.png",
+    "BDE_caminho_ok.png",
+    "BDE_sql.png",
+    "BDE_reinstall.png",
+    "BDE_logar.png",
+    "BDE_resumo2.png",
+    "BDE_caminho_confirma_YES.png",
+    "BDE_progress.PNG",
+    "BDE_INST_PRINC.png",
+    "BDE_caminho_confirma.png",
+    "BDE_rar.png",
+    "Bde_flsm_pasta.png",
+    "BDE_caminho_inc.png",
+    "BDE_sql_cmd.png"
+  ],
+  "Instalação do Client Oracle versão 11g": [
+    "Oracle11_fim.png",
+    "Exec_admin.png",
+    "Oracle11_caminho.png",
+    "Oracle11_cmd.png",
+    "Oracle11_setup_pasta.png",
+    "Oracle11_idioma.png",
+    "Oracle11_progress.png",
+    "Oracle11_finalizar.png",
+    "Oracle11_admin.png"
+  ],
+  "Instalação do Client Oracle versão 12c": [
+    "Oracle12_instalar.png",
+    "Oracle12_admin.png",
+    "Exec_admin.png",
+    "Oracle12_conta.png",
+    "Oracle12_progress.png",
+    "Oracle12_fim.png",
+    "Oracle12_idioma.png",
+    "Oracle12_cmd.png",
+    "Oracle12_caminho.png",
+    "Oracle12_setup_pasta.png"
+  ],
+  "Instalação do Client do Oracle": [
+    "Oracle_tns.png",
+    "Tnsping.png"
+  ],
+  "Instalação do DANFE View": [
+    "DanfeView.jpg"
+  ],
+  "Instalação do Instant Client do Oracle": [
+    "Exec_admin.png",
+    "Oracle_tns.png"
+  ],
+  "Instalação do Microsoft .NET Framework 4": [
+    "Dotnet4_extract.png",
+    "Dotnet4_acc_termos.png",
+    "Exec_admin.png",
+    "Dotnet4_pasta.png",
+    "Dotnet4_progress.png",
+    "Dotnet4_versao_superior.png",
+    "Dotnet4_concluido.png"
+  ],
+  "Instalação do Oracle Data Access Components (ODAC)": [
+    "Odac_install_odp.png",
+    "Odac_install_asp.png",
+    "Odac_prompt_caminho2.png",
+    "Exec_admin.png",
+    "Odac_extrair.png",
+    "Oracle_connector_pasta.png",
+    "Odac_prompt_caminho.png",
+    "Oracle_pasta.png",
+    "Odac_prompt_caminho3.png"
+  ],
+  "Instrução para utilização do Termo de Garantia": [
+    "Termodegarantia.png"
+  ],
+  "Instruções de envio de e-mail e configurar conta Google para envio pelo Correio Superus": [
+    "Screenshot_6000.png",
+    "Screenshot_300.png",
+    "Envia.png",
+    "Screenshot_100.png",
+    "Screenshot_400.png",
+    "Screenshot_900.png",
+    "Screenshot_500.png",
+    "Recebe.png",
+    "Screenshot_700.png",
+    "Screenshot_10.png",
+    "Screenshot_800.png",
+    "Screenshot_2000.png",
+    "Screenshot_200.png"
+  ],
+  "Instruções para configuração da data de vencimento da administradora de cartão": [
+    "Tipo_prazo_venc_administradora.png"
+  ],
+  "Instruções para integração Scantech": [
+    "Configuracoes_login.png",
+    "Tela_carga.png",
+    "Conf_usuario.png",
+    "Conf_cad_produto.png",
+    "Conf_login_loja.png",
+    "Menu_carga_scasntech.png",
+    "Conf_subgrupo.png"
+  ],
+  "Instruções para utilizar a rotina DDA - Débito Direto Autorizado": [
+    "Botão_confirmacao_dda.png",
+    "Importação_arquivo_DDA2_1.png",
+    "Campos_alterados_dda.png",
+    "Conciliado_dda_pagar.png",
+    "Botões_DDA.png",
+    "Tela_dda_detalhada.png"
+  ],
+  "Instruções para utilizar finalizadora Débito": [
+    "1.JPG",
+    "C2.jpg",
+    "C1.jpg"
+  ],
+  "Instruções para utilizar finalizadora PIX": [
+    "Cdtfinpix6.jpg",
+    "Cdtfinpix1.jpg",
+    "1.JPG",
+    "Cdtfinpix3.jpg",
+    "Cdtfinpix4.jpg",
+    "Adm_carteira.png",
+    "Tratar_carteira.png",
+    "Tratar_pix.png"
+  ],
+  "Instruções para utilização da Múltiplas Contagens de Inventário": [
+    "Inventario_multiplas_contagens.png",
+    "Contagem_finalizada.png",
+    "Digitação_qtde_contada.png",
+    "Utiliza_inventario.png",
+    "Contagem2.png",
+    "Contagem_certa.png",
+    "Inventario.png",
+    "Contagem1.png"
+  ],
+  "Instruções para utilização da Promoção": [
+    "Inclusaoitenspromocao_levepague_econect.png",
+    "Inclusaoitenspromocao_levepague_arius.png",
+    "Inclusaoitenspromocao_botao_ok.png",
+    "Inclusaoitenspromocao.png",
+    "BtnNovoLote.jpg",
+    "Inclusaoitenspromocao_todaslojas.png",
+    "Promocaoprincipal_sel_loja.png",
+    "Inclusaoitenspromocao_produto.png",
+    "Inclusaoitenspromocao_tipo_levpague.png",
+    "Inclusaoitenspromocao_algumaslojas.png"
+  ],
+  "Instruções para utilização da Promoção Mix": [
+    "Tipos_descontos.png",
+    "Novo.png",
+    "Filtro.png",
+    "Selecionar_lojas.png",
+    "Desconto_cupom.png",
+    "Tela-cadastro-usuario1.png",
+    "Tela-cadastro-usuario2.png"
+  ],
+  "Instruções para utilização da Promoção Mix Leve Pague": [
+    "Permissao_menu_controle_produtos.png",
+    "Permissao_usuario_prom_mix_leve_pague.png"
+  ],
+  "Instruções para utilização da rotina de Consulta Cupom": [
+    "Consultacupom5.png",
+    "Botaolimpa.PNG",
+    "Consultacupom4.png",
+    "Consultacupom1.png",
+    "Consultacupom6.png",
+    "Consultacupom7.png",
+    "Botaofiltra.PNG",
+    "Consultacupom2.png"
+  ],
+  "Instruções para utilização da rotina de Log Importação": [
+    "Logimportacao3.png",
+    "Logimportacao2.png",
+    "Capturar4.PNG",
+    "Logimportacao1.png"
+  ],
+  "Instruções para utilização da rotina de tesouraria - fechamento PDVs": [
+    "Processo_tesoura_fech_pdvs.png"
+  ],
+  "Instruções para utilização de Cadastro de Tipos de Inventário": [
+    "Cadastro_tipos_inventario.png",
+    "Inventario.png"
+  ],
+  "Instruções para utilização de Controle de estoque por grupo de produtos": [
+    "Cad_grupos_nao_atualiza_estoque.png"
+  ],
+  "Instruções para utilização do Agrupamento de Inventários": [
+    "Inv_agrp_agrupa_dest.png",
+    "Inv_agrp_origem2.png",
+    "Btn_agrupa_inventarios.png",
+    "Inv_agrp_agrupa.png",
+    "Inv_agrp_agrupa_dest1.png",
+    "Filtro.png",
+    "Inv_agrp_vazio.png",
+    "Inv_agrp_filtro.png",
+    "Inv_agrp_origem1.png",
+    "Btn_ok.png"
+  ],
+  "Instruções para utilização do Cancelamento de Inventário": [
+    "Movi_estoque_cancel_atualizacao_inventario.png",
+    "Rotina_cancel_atualizacao_inventário_estoque.png",
+    "Inventario.png"
+  ],
+  "Instruções para utilização do Produto Composto no Inventário": [
+    "1.JPG",
+    "Composto1.jpg"
+  ],
+  "Instruções para utilização do Relacionamento de Lojas": [
+    "Lojas_relacionadas.png",
+    "Inclusao_relacionamento_lojas.png",
+    "Inclusao_relacionamento.png"
+  ],
+  "Instruções para utilização do sistema de trocas": [
+    "Inclusão_troca5.png",
+    "Tela_nova_troca1.png",
+    "Inclusão_troca4.png",
+    "Inclusão_troca1.png"
+  ],
+  "Instruções para utilização dos Pedidos para CD": [
+    "Pedido.png",
+    "BtnEnviarPedido.png",
+    "Pedido_para_centro_de_distribuição.png"
+  ],
+  "Integracao Ecommerce": [
+    "Integracao_Ecommerce.png",
+    "Integra_pedidos.png",
+    "Dicionario.png",
+    "Integra_pedidos_itens.png"
+  ],
+  "Integracao Fiscal Online": [
+    "Primeira.png",
+    "Quinta.png",
+    "Quarta.png",
+    "Fiscal_fig.png",
+    "Segunda.png"
+  ],
+  "Integração Linner onLine": [
+    "IntegracaoOnLineLinner.jpg"
+  ],
+  "Integração Neogrid": [
+    "Neogrid_utili.png",
+    "Neogrid_config2.png",
+    "Neogrid_config1.png"
+  ],
+  "Introdução ao cadastro de empresa": [
+    "Dadosfiscais.jpg",
+    "Cadastrobasico.jpg",
+    "vinculo"
+  ],
+  "Lançamento de NF que não deve constar no SPED fiscal": [
+    "CfopInterno.jpg"
+  ],
+  "Lançamentos contábeis gerados na atualização de nota de entrada": [
+    "Operacao_entrada.png"
+  ],
+  "Layout Pedido Letra A": [
+    "Layout_Pedido_A.jpg"
+  ],
+  "Layout Pedido Letra B": [
+    "Layout_Pedido_B.jpg"
+  ],
+  "Layout Pedido Letra C": [
+    "Layout_Pedido_C.jpg"
+  ],
+  "Layout Pedido Letra D": [
+    "Layout_Pedido_D.jpg"
+  ],
+  "Layout Pedido Letra F": [
+    "Layout_Pedido_FF.jpg"
+  ],
+  "Layout Pedido Letra G": [
+    "Layout_Pedido_G.jpg"
+  ],
+  "Layout Pedido Letra H": [
+    "Layout_Pedido_H.jpg"
+  ],
+  "Layout Pedido Letra I": [
+    "Layout_Pedido_I.jpg"
+  ],
+  "Layout Pedido Letra J": [
+    "Layout_Pedido_J.jpg"
+  ],
+  "Layout Pedido Letra K": [
+    "Layout_Pedido_K.jpg"
+  ],
+  "Layout Pedido Letra L": [
+    "Layout_Pedido_L.jpg"
+  ],
+  "Layout Pedido Letra M": [
+    "Layout_Pedido_M.jpg"
+  ],
+  "Layout Pedido Letra N": [
+    "Layout_Pedido_N.jpg"
+  ],
+  "Layout Pedido Letra O": [
+    "Layout_Pedido_O.jpg"
+  ],
+  "Layout Pedido Letra P": [
+    "Layout_Pedido_P.jpg"
+  ],
+  "Layout Pedido Letra Q": [
+    "Layout_Pedido_Q.jpg"
+  ],
+  "Layout Pedido Letra R": [
+    "Layout_Pedido_R.jpg"
+  ],
+  "Layout Pedido Letra S": [
+    "Layout_Pedido_S.jpg"
+  ],
+  "Layout Pedido Letra T": [
+    "Layout_Pedido_T.jpg"
+  ],
+  "Layout Pedido Letra U": [
+    "Layout_Pedido_U.jpg"
+  ],
+  "Layout Pedido Letra V": [
+    "Layout_Pedido_V.jpg"
+  ],
+  "Layout Pedido Letra W": [
+    "Layout_Pedido_W.jpg"
+  ],
+  "Layout Pedido Letra X": [
+    "Layout_Pedido_X.jpg",
+    "Layout_Pedido_XX.jpg"
+  ],
+  "Layout Pedido Letra Z": [
+    "Layout_Pedido_Z.jpg"
+  ],
+  "Layout Pedido Número 5": [
+    "Layout_Pedido_5.jpg"
+  ],
+  "Layout de Etiquetas do tipo Windows": [
+    "Layout_etiqueta_tipo_inc.png",
+    "Layout_etiqueta_tipo_win.png"
+  ],
+  "Layout de cartões": [
+    "Visualizar.png",
+    "Tamanhopapel.png",
+    "Cria_select.png",
+    "Resultado.png",
+    "Fastreport.png",
+    "Masterdata.png"
+  ],
+  "Layout selecionado no lote não está configurado corretamente": [
+    "Mensagem.png",
+    "Lote_cnab_exportado.png",
+    "Pop-up.png",
+    "Carteira2.png",
+    "Cadastroconta.png",
+    "Layout2.png"
+  ],
+  "Liberando a alteração de um item carregado de cupom fiscal no pedido de faturamento": [
+    "Operacoes_altera_item_cupom.JPG",
+    "Mensagem_bloqueio_altera_item.JPG"
+  ],
+  "Liberação Técnica": [
+    "Exemplo.jpg"
+  ],
+  "Liberação da alteração da classificação fiscal (NCM)": [
+    "TelaAlteracaoNCM2.jpg"
+  ],
+  "Limitação de Consultas na SEFAZ - Download de XML": [
+    "IMPORTADORXML1.png",
+    "RETORNOSUPERUSCONSULTAS.png",
+    "COMUNICADOSEFAZ2.png",
+    "COMUNICADOSEFAZ01.png"
+  ],
+  "Limite de Compras por Comprador": [
+    "Lim_compras_comprador.jpg"
+  ],
+  "Listar CFOP no item": [
+    "TelaOperacaoFaturamentoCFOPItem.jpg"
+  ],
+  "Livro Registro de Apuração do Icms": [
+    "EscritFisc_apu2.png",
+    "EscritFisc_apu1x.png",
+    "EscritFisc_apu.png"
+  ],
+  "Livro Registro de Controle da Produção e do Estoque": [
+    "EscritFisc_MD3.png",
+    "EscritFisc_MD3A.png",
+    "EscritFisc_MD3B.png"
+  ],
+  "Livro Registro de Entradas": [
+    "EscritFisc_Ent2.png",
+    "EscritFisc1_Ent.png",
+    "EscritFisc_Ent.png"
+  ],
+  "Livro Registro de Inventário": [
+    "EscritFisc_Inv1.png",
+    "EscritFisc_Inv.png",
+    "EscritFisc_Inv2.png"
+  ],
+  "Livro Registro de Saídas": [
+    "EscritFisc_SD2.png",
+    "EscritFisc_SD.png",
+    "EscritFisc_SD1.png"
+  ],
+  "Local de armazenamento do xml.": [
+    "CaminhoXMLLoja.jpg"
+  ],
+  "Loja centralizado de transferências de saldo de ICMS": [
+    "CadLojaCreditoICMS.jpg"
+  ],
+  "Loja centralizadora de transferências de saldo de ICMS": [
+    "CadLojaCreditoICMS2.jpg"
+  ],
+  "Lote de Custódia de Cheques": [
+    "BtnExcIndLot.jpg",
+    "TelaLoteCustCheque.JPG",
+    "TelaChequesRecFiltroCustodia.jpg",
+    "BtnInsTdsLot.jpg",
+    "BtnLoteCustCheque.jpg",
+    "BtnExcTdsLot.jpg",
+    "BtnInsIndLot.jpg"
+  ],
+  "Lotes de Cheques a Receber - Não exibe todas as lojas": [
+    "CadLojaOpcFinanceiro.JPG"
+  ],
+  "MIP - Movimentação Interna de Produtos": [
+    "Movimentação_MIP.png",
+    "Bloqueio_desmarcar.png",
+    "Botão_Altera_MIP.png",
+    "Digitação_de_MIP.png"
+  ],
+  "Manutenção de Mix - Funcionalidade botões": [
+    "Botao_manutencao_mix.jpg"
+  ],
+  "Manutenção de NF atualizada": [
+    "TelaManutencaoNF.jpg",
+    "TelaManutencaoNFItem.jpg"
+  ],
+  "Manutenção no cadastro do produto": [
+    "Negar_padrao_02.png",
+    "Autorizar_padrao_01.png",
+    "Autorizar_padrao_02.png",
+    "Negar_padrao_01.png"
+  ],
+  "Mata Burro": [
+    "Mtimag2.png",
+    "Mtimag4.png",
+    "Mtimagbotao4.png",
+    "Mtimag5.png",
+    "Mtimag1.png",
+    "Mtimag3.png",
+    "Mtimag6.png"
+  ],
+  "Mensagem: Cannot initialize OCI environment, ao abrir a tela de controle de lotes de tickets": [
+    "Erro_oci_tickets2.png"
+  ],
+  "Mensagem: Cheque devolvido baixado através do filtro com mais de um lançamento, ao cancelar cheque devolvido": [
+    "Bot_baixa_cheq_dev_f7.png",
+    "Hist_rec_cheq_dev.png",
+    "Filtro.png",
+    "Canc_cheq_dev_filtro.png",
+    "Bot_baixa_cheq_dev_rec_sel.png",
+    "Bot_cancela_baixa.png",
+    "Canc_cheq_dev.png",
+    "Bot_baixa_cheq_dev_f5.png"
+  ],
+  "Mensagem: Foi descontinuado o suporte à base de dados Firebird. O sistema será fechado": [
+    "Oracle_sim_conexao.png",
+    "Firebird_descontinuado.png"
+  ],
+  "Mensagem: Não foi informado um histórico para o estorno em conta corrente, ao cancelar a baixa de cheques a receber": [
+    "Cad_forma_pgto.png",
+    "Canc_baixa_cheq_receber.png",
+    "Config_estorno_cheque.png"
+  ],
+  "Mensagem: Não há loja cadastrada com o código de integração \"0000....\". Operação cancelada": [
+    "Tickets.png",
+    "Cad_cod_admin.png",
+    "Import_tickets.png"
+  ],
+  "Mensagem: ORA-01843: not a valid month (ou não é um mês válido), ao importar arquivo de retorno CNAB": [
+    "Cont_rec_imp_cnab_erromesinav.png"
+  ],
+  "Mensagem: O CEP não confere com o Código IBGE": [
+    "Faqcadcepnaopertenceibge.png"
+  ],
+  "Mensagem: O Estado foi alterado para EX devido a escolha do País !": [
+    "Msg_estado_alt_ex.png",
+    "Cad_paises_cods.png"
+  ],
+  "Mensagem: O layout de boletos selecionado não pode ser inativado. Operação cancelada": [
+    "Cad_cart_cobranca.png",
+    "Cad_layout_boletos.png"
+  ],
+  "Mensagem: O número da conta do cheque com chave de número XXXX contém caracteres inválidos, ao exportar arquivo CMC7": [
+    "Cust_cheq_receber1.png",
+    "Cheqreceber_conta.png"
+  ],
+  "Mensagem: O usuário selecionado pertence ao grupo \"CÓD. - NOME\", e suas permissões não podem ser alteradas": [
+    "Msg_usuario_grupo.png"
+  ],
+  "Mensagem: Usuário sem permissão para contrapartida, ao alterar contas a pagar": [
+    "Alt_pagar_contpartida.png",
+    "Cad_usuario_fin.png"
+  ],
+  "Mensagem: É necessário informar um Centro de Custos para abatimentos, ao baixar devoluções": [
+    "Cont_lote_dev_abatimento.png",
+    "Config_centro_cust_abat.png"
+  ],
+  "Mensagem \"Não foram gerados os impostos da nota fiscal\"": [
+    "BloqGeraNota.JPG",
+    "TipoServico.JPG",
+    "FlagICMS.JPG",
+    "FlagComplementar.JPG",
+    "MsgLinhaImpostos.JPG"
+  ],
+  "Mesmo após registar a Midas.dll ocorre erro para acessar o Superus": [
+    "Erro_midas_dll.png"
+  ],
+  "Mix Fiscal": [
+    "Mix_gerencia.png",
+    "Mix_loja.png",
+    "Mix_sucesso.png"
+  ],
+  "Modo manual": [
+    "TelaImportadorXML.jpg"
+  ],
+  "Motivos de Divergências do Inventário": [
+    "Atualizacao.png",
+    "Motivos.png",
+    "Inventario.png",
+    "Tipo.png",
+    "Divergencia.png"
+  ],
+  "Movimentação de estoque do produto de balança": [
+    "Devolucao.png"
+  ],
+  "Movimentos Não Fiscais": [
+    "Flash_venda_nao_fiscal.png"
+  ],
+  "NF-e - CSTs - AJUSTE SINIEF 15, DE 26 DE JULHO DE 2013": [
+    "TabelaFiscaisCST.png"
+  ],
+  "NF-e erro de rejeição CNAE": [
+    "Tela_CNAE.jpg",
+    "Msgn_CNAE.jpg"
+  ],
+  "Na Carga PDV via Banco de Dados não é possível alterar as opções": [
+    "Usuariosvendasalteraparancarga.png",
+    "Cadastrolojasparametroscarga.png",
+    "Cargapdvviabancoopcoesdesabilitadas.png"
+  ],
+  "Na baixa de contas a pagar o campo Doc Nº (Número do Cheque) aparece desativado": [
+    "Conf_pagar_cont_seq_cheq.png",
+    "Cont_pagar_cheque.png"
+  ],
+  "Na sincronização da Cotação Web ocorre erro: ORA-01722: número inválido": [
+    "Erro_cot_web.png",
+    "Publica_cotacao.png"
+  ],
+  "Na troca de tipo de alínea de cheques reapresentados não aparece o motivo": [
+    "Reapresenta_cheque.png",
+    "Cad_movitos_pref.png",
+    "Reapresenta_cheque2.png"
+  ],
+  "NatRec nula durante a apuração do Pis/Cofins no módulo Fiscal": [
+    "Tipo2.png"
+  ],
+  "No Módulo Fiscal/Contábil": [
+    "EscritFisc_Abas.png"
+  ],
+  "No cadastro de CEP o Código IBGE não é exibido": [
+    "Faqcadastrocadmunicipiocodibge.png",
+    "Faqcadastrocadestadocodibge.png",
+    "Faqcadastroceppesqcidade.png",
+    "Faqcadastrocepgrava.png",
+    "Faqcadastrocepcodigenulo.png"
+  ],
+  "No filtro do Relatório de Vendas a lista de setores está vazia": [
+    "Setor_usuarios.png",
+    "Rel_vendas_filtro_setor_vazio.png"
+  ],
+  "Nota Fiscal com produtos bonificados - Como abater valor do Contas a Pagar": [
+    "Tipo_nota_produtos.png",
+    "CFOP.png",
+    "Verifica_produto_bonificado.png",
+    "Produto_bonificado_CFOP.png",
+    "CFOP_bonificacao.png"
+  ],
+  "Nota de Entrada": [
+    "Pedido.png",
+    "Filtro.png",
+    "Nota_aba_pedido.png",
+    "Entrada_filtro.png"
+  ],
+  "Notas Devolução, carregar custo líquido do cadastro do produto": [
+    "Custo_liquido_cadastro_devolucao.JPG"
+  ],
+  "Notas que por padrão, devem sair todos os produtos como isento ou não tributado": [
+    "NotaPerdaConsumo.jpg"
+  ],
+  "Não aparecem as informações de impostos na entrada de nota fiscal": [
+    "TelaImpostosEntrada.jpg",
+    "VigenciaTipoProdEnt.jpg"
+  ],
+  "Não calcula juros de contas cooperados vencidas": [
+    "Coop_semjuros.png",
+    "Coop_comjuros.png",
+    "Config_txjuros_coop.png"
+  ],
+  "Não calcular ST no cadastro de produtos": [
+    "Sem_st_cad_produto.jpg"
+  ],
+  "Não carregar imposto do produto em notas do tipo Cupom Fiscal": [
+    "SemImpostoCF.JPG"
+  ],
+  "Não enviar nota para WMS se XML não for válido": [
+    "Mensagem_usuario_xml_invalido.JPG"
+  ],
+  "Não mostra nenhum registro na aba impostos, em notas de entradas": [
+    "TipoProdVig.jpg",
+    "EntradasImpostosNulo.jpg"
+  ],
+  "Não é permitido o envio da nota de entrada para o Recebimento Eletrônico": [
+    "Erro_recebimento.jpg",
+    "Cadastro_operção_entrada.jpg"
+  ],
+  "Não é possível alterar a loja do inventário": [
+    "Inventario_loja_desativada.png"
+  ],
+  "Não é possível marcar ou desmarcar a opção Contábil no Inventário": [
+    "Cadastro_tipo_inventario.PNG",
+    "Invent_estoque_padrao.PNG",
+    "Invent_estoque_contabil.PNG",
+    "Inventario.png"
+  ],
+  "O Layout Boleto selecionado na Capa do Lote CNAB não está configurado na carteira de cobrança": [
+    "Mensagem.png",
+    "Lote_cnab_exportado.png",
+    "Pop-up.png",
+    "Carteira2.png",
+    "Cadastroconta.png",
+    "Layout2.png"
+  ],
+  "O Software no cadastro de loja deve ser Econect": [
+    "Param_loja_software_frente.png"
+  ],
+  "O Superus permite excluir o cadastro da loja?": [
+    "Deseja_inativar_loja.png",
+    "Inativacaolojas_rotina.png",
+    "Confirma_exclusao_registro.png",
+    "Btn_excluir.png"
+  ],
+  "O campo vencimento aparece desativado na inclusão da finalizadora na baixa de contas cooperados": [
+    "Inc_finaliz_baixacoop2.png",
+    "Cad_finaliz_digitavenc.png"
+  ],
+  "O que no Superus ocasiona a mensagem Produto Bloqueado para Venda no PDV E-Conect?": [
+    "VigenciaProdutoDataTermino.png",
+    "ProdutoBloqueadoParaVendaEconect.png",
+    "InativaProduto.png"
+  ],
+  "O que significa cada letra do campo Tipo Origem no movimento de conta corrente?": [
+    "Mov_ccorrente_tipo_origem1.png"
+  ],
+  "O que são cupons inutilizáveis?": [
+    "Inutilizado_relatorio.png",
+    "Inutilizado_flash.png"
+  ],
+  "OnCorp": [
+    "Oncorpgerencia.jpg",
+    "Oncorploja.jpg"
+  ],
+  "Onde cadastrar um novo PDV para uma loja no Superus?": [
+    "Novo_pdv.png",
+    "Cad_pdv.png"
+  ],
+  "Onde configurar o caixa padrão para recebimento da sangria e do reforço lançados no PDV?": [
+    "Cad_loja_cxpadrao.png",
+    "Mov_caixa.png"
+  ],
+  "Onde o Relatório Resumo do Estoque por Setor busca os preços quando marcada Todas as Lojas?": [
+    "Resumo_est_setor.png",
+    "Resumo_est_setor_filtro_lj.png",
+    "Filtro.png",
+    "Resumo_est_setor_filtro.png"
+  ],
+  "Operação de Entrada": [
+    "Operacao_entrada_tipo_bonif.png"
+  ],
+  "Operações de Entrada": [
+    "EscritFisc_OpEntr.png"
+  ],
+  "Operações de Saida": [
+    "EscritFisc_OpFat.png"
+  ],
+  "Os botões Agrupa Tickets e Consulta Tickets Agrupados não são exibidos no Controle de Tickets": [
+    "Tickets.png",
+    "Cont_tickets.png",
+    "Cont_tickets_agrup.png",
+    "Config_permite_agrup_tickets.png"
+  ],
+  "PDV com status Aberto no Flash de Vendas": [
+    "Faqflashvendasstatusaberto.png"
+  ],
+  "Parametrização Alíquota RioLOG, emissão de NFe": [
+    "RIOLOG1.png",
+    "Cadfaturamento.jpg",
+    "RIOLOG2.png",
+    "RIOLOG3.png",
+    "Faturpedidos.jpg"
+  ],
+  "Parametrização no cadastro da loja": [
+    "CadLojaParFiscais.jpg"
+  ],
+  "Parametrização no cadastro do fornecedor": [
+    "vinculo"
+  ],
+  "Parametrização por fornecedor": [
+    "Parametro_fornecedor.png",
+    "Sem_validade.png",
+    "Parametro_prod_sem_validade.png",
+    "Fornecedor.png"
+  ],
+  "Parametrização por produto": [
+    "Parametro_produto.png"
+  ],
+  "Parametro CFOP no cadastro Tipo de Movimento": [
+    "Tipomovimento.JPG"
+  ],
+  "Parâmetros da Cotação": [
+    "Parametros_cotacao.png"
+  ],
+  "Parâmetros da sugestão na Geração de pedido": [
+    "187634_geração_F7F8.png"
+  ],
+  "Parâmetros da sugestão nas Configurações do sistema": [
+    "187634_config.png"
+  ],
+  "Parâmetros da sugestão no Cadastro do fornecedor": [
+    "187634_forn.png"
+  ],
+  "Parâmetros no cadastro de Loja": [
+    "ConfigIntegracaoSystaxLoja.jpg"
+  ],
+  "Pedido Bonificação exigir tabela de preços": [
+    "Pedido_Bonificacao_tabela_precos.jpg"
+  ],
+  "Pedido Reserva": [
+    "Estoque_reserva.png",
+    "Quantidade_reservada.png",
+    "Selecionar_loja_reserva.png",
+    "Desmarcar-Nao-gera-estoque.png",
+    "Desmarcar-Nao-gera-estoque2.png",
+    "Operação_reserva.png",
+    "Marcarparanaoexibirprodutorede.png"
+  ],
+  "Pedido de Compra": [
+    "Pedido_bonificacao.png",
+    "vinculo"
+  ],
+  "Pedido de Compras": [
+    "187086_Imagem03.JPG"
+  ],
+  "Pedidos Distribuição Lojas": [
+    "Ped_dist_lojas.jpg",
+    "Grid_ped_dist_lojas.jpg",
+    "Fin_ped_dist_lojas.jpg",
+    "Rel_ped_dist_lojas.jpg",
+    "Conf_ped_dist_lojas.jpg"
+  ],
+  "Pedidos Faturamento": [
+    "Instrucoesparautilizacaodeoperacoesdefaturamento_2.JPG"
+  ],
+  "Pedidos de compra - Acordos": [
+    "BtnSalvar.jpg",
+    "Config_acordo_comercial.jpg",
+    "Ped_acordos.jpg"
+  ],
+  "Pedidos de compra - Dados Entrega": [
+    "Ped_dados_entrega.jpg",
+    "BtnSalvar.jpg"
+  ],
+  "Pedidos de compra - Dados Financeiros": [
+    "Ped_dados_finan_cond_pagto.jpeg",
+    "BtnSalvar.jpg",
+    "Ped_dados_finan_dev.jpeg",
+    "Ped_dados_finan_troca.jpeg",
+    "Ped_dados_finan_pagar.jpeg",
+    "Ped_dados_finan_compras.jpg"
+  ],
+  "Pedidos de compra - Dados Fornecedor": [
+    "BtnSalvar.jpg",
+    "Ped_dados_fornecedor.jpg"
+  ],
+  "Pedidos de compra - Introdução": [
+    "Grid_principal_pedido_de_compra.PNG"
+  ],
+  "Pedidos de compra - Itens Cancelados": [
+    "Cancelados.jpg",
+    "Cad_usuarios_cancelados.jpg",
+    "Conf_cancel_item.jpg",
+    "Relatorio_prod_cancelados.jpg",
+    "Hist_cancel_item.jpg",
+    "Aba_item_cancelados.jpg",
+    "Cancela_item_pedido.jpg"
+  ],
+  "Pedidos de compra - Produtos": [
+    "Itens.jpg",
+    "1.JPG",
+    "BtnSalvar.jpg",
+    "BtnNovoLote.jpg",
+    "Inclusao_itens_pedido.jpg",
+    "Inclusao_itens_pedido1.jpg",
+    "Btnexcluir.png",
+    "BtnCarregaItensForn.jpg",
+    "Botaoaltera.png",
+    "Ped_carrega_fornecedor.jpg",
+    "BtnConsultaItens.jpg"
+  ],
+  "Permissão ao Cadastro de Concorrentes": [
+    "Permissao_usuarios_concorrentes.png"
+  ],
+  "Permissão ao Menu Estoque": [
+    "Permissao_menu_estoque.png"
+  ],
+  "Permissão de Usuário": [
+    "Direito_envia_xml_invalido.JPG"
+  ],
+  "Permissão de Usuário Concilia": [
+    "Usuário_concilia.png"
+  ],
+  "Permissão de acesso a rotina de cadastro de tipos de inventário": [
+    "Permissao_usuarios_tipos_inventario.png",
+    "Inventario.png"
+  ],
+  "Permissão de acesso a rotina de importação de inventário do PDV": [
+    "Gera_invent_ponto_venda.png"
+  ],
+  "Permissão de acesso a rotina de inventário": [
+    "Permissao_inventario_gera_pdv.png"
+  ],
+  "Permissão de acesso ao Layout de Etiquetas": [
+    "Imp_etiqueta_controle_produtos.png"
+  ],
+  "Permissão de acesso ao Menu Compras": [
+    "Permissao_menu_compras.png"
+  ],
+  "Permissão de acesso à Impressão de Etiquetas": [
+    "Imp_etiqueta_controle_produtos1.png"
+  ],
+  "Permissão de acesso à rotina de Concorrências": [
+    "Permissao_usuario_inclusao_concorrencia.png"
+  ],
+  "Permissão de acesso à rotina de Cotação": [
+    "Permissao_usuario_inclusao_cotacao.png"
+  ],
+  "Permissão de alteração na rotina de cadastro de tipos de inventário": [
+    "Permissao_usuarios_tipos_inventario_alt.png"
+  ],
+  "Permissão de usuário": [
+    "Usuario.JPG",
+    "Permissaousuario.jpg"
+  ],
+  "Permissão de usuário (Comprador) para liberar a solicitação de permissão": [
+    "188288_usu3.png"
+  ],
+  "Permissão de usuário para calculo de ST no pedido de compra": [
+    "188339_usuarios.png"
+  ],
+  "Permissão de usuário para liberar produtos no WMS com divergências": [
+    "188288_usu.png"
+  ],
+  "Permissão para Cond. de Pagamento": [
+    "Cdp4.jpg"
+  ],
+  "Permissão para agrupamento de inventários": [
+    "Inv_agrp_permissao.png"
+  ],
+  "Permissão para cancelamento da atualização do Inventário": [
+    "Permissao_cancel_atualizacao_inventario.png",
+    "Inventario.png"
+  ],
+  "Permissões de usuário para acesso ao Controle de Lotes Cnab": [
+    "CadUserRecConLotCnab.JPG"
+  ],
+  "Permite baixa de contas a pagar com data retroativa": [
+    "Baixa_dia18.png",
+    "Caixa_aberto.png",
+    "Baixa_caixa_dia18.png",
+    "Mensagem_baixa_pagar.png"
+  ],
+  "Permitir a inclusão de pedidos de compras para Fornecedor sem Tabela de Preços": [
+    "Fornecedor_sem_tabela_precos.JPG"
+  ],
+  "Período diário": [
+    "Prazo_diario_adm_ven1.png",
+    "Prazo_diario_adm_ven3.png",
+    "Prazo_diario_adm_ven4.png",
+    "Prazo_diario_adm_ven2.png",
+    "Adm2.png",
+    "Prazo_diario_adm2.png",
+    "Prazo_diario_adm.png"
+  ],
+  "Período prazo fixo": [
+    "Tipo_prazo_venc_fixo_adm.png",
+    "Prazo_fixo_adm_ven2.png",
+    "Prazo_fixo_adm_ven.png",
+    "Prazo_fixo_adm_ven3.png",
+    "Adm2.png",
+    "Tipo_prazo_venc_fixo_adm2.png"
+  ],
+  "Período semanal": [
+    "Tipo_prazo_venc_semanal_adm2.png",
+    "Prazo_semanal_adm_ven1.png",
+    "Prazo_semanal_adm_ven2.png",
+    "Adm2.png",
+    "Tipo_prazo_venc_semanal_adm.png"
+  ],
+  "Pesquisa de produtos não retorna resultados": [
+    "Pesquisaprodutosemresultados.png"
+  ],
+  "Pesquisa pela lanterna não encontra produtos fora do mix": [
+    "Pesq_prod_lanterna.png",
+    "Pesq_prod_lant_nao_existem.png",
+    "Cfg_pesq_prod_nao_fmix.png"
+  ],
+  "Por qual motivo o produto que teve alteração de preço não sai no relatório de alterações de preço?": [
+    "Naoimprimealt4.png",
+    "Naoimprimealt3.png",
+    "Naoimprimealt2.png",
+    "Naoimprimealt1.png"
+  ],
+  "Por que a pesquisa de produtos apresenta alguns registros na cor marrom?": [
+    "Pesq_prod_grid_marron.png",
+    "Cad_prod_prom_mix.png"
+  ],
+  "Por que a pesquisa de produtos apresenta alguns registros na cor rosa?": [
+    "Pesquisa_prod_registro_rosa.png",
+    "Pesquisa_prod_prom_futura.png"
+  ],
+  "Por que a rotina de Situação do Estoque na Rede não exibe o Total da Rede?": [
+    "Sit_est_rede_estoque_total.png"
+  ],
+  "Por que algumas contas com status a pagar aparecem com a data de pagamento e o valor pago preenchidos?": [
+    "Contas_pagar_valorpago.png",
+    "Botao_calculapagto.png"
+  ],
+  "Por que alguns produtos ficam bloqueados ao fechar a cotação?": [
+    "Cotacao_produtos_aba_bloq.png",
+    "Cotacao_produtos_bloqueados.png"
+  ],
+  "Por que existem cupons parados na base comum mas não consta log de importação?": [
+    "Msg_cupons_parados_base_comum.png"
+  ],
+  "Por que nos relatórios de Vendas não constam os Pedidos de Faturamento?": [
+    "Vendas_ListarSomenteVendasdePedidos.png",
+    "Movimentos.png"
+  ],
+  "Porque algumas contas com status a pagar aparecem com a data de pagamento e o valor pago preenchidos?": [
+    "Contas_pagar_valorpago.png",
+    "Botao_calculapagto.png"
+  ],
+  "Precos Pendentes - Abrindo sem Filtros": [
+    "Filtro2.jpg",
+    "Pendente_sem_filtro2.jpg",
+    "Pendente_sem_filtro.jpg"
+  ],
+  "Preenchimento do regime de apuração no cadastro de Empresa": [
+    "1.JPG"
+  ],
+  "Previsões de Pagamentos": [
+    "Inclusao_previsao2.jpg",
+    "Alteracao_previsao2.jpg",
+    "Exclusao_previsao.jpg",
+    "Opcoes_previsoes.png",
+    "Desautorizar_previsao2.jpg",
+    "Inclusao_previsao.JPG",
+    "Alteracao_previsao.jpg",
+    "Consulta_previsao.jpg",
+    "Autorizar_previsao2.jpg",
+    "Autorizar_previsao.jpg",
+    "Consulta_previsao2.jpg",
+    "Configuracao_previsao.jpg",
+    "Desautorizar_previsao.jpg"
+  ],
+  "Preço diferenciado para produto próximo a validade": [
+    "Preco_embalagem_cadastro.png"
+  ],
+  "Preço venda calculado no pedido de bonificação envia para pendente": [
+    "Pedido_bonificao_pendente.JPG"
+  ],
+  "Preço venda calculado no pedido não envia para pendente quando menor que o cadastro": [
+    "Compras_nao_envia_pendente.JPG"
+  ],
+  "Preços Pendentes - Filtrando Origem da Alteração": [
+    "Precos_pendentes_orig_alteracao.JPG"
+  ],
+  "Problema ao executar Client do Oracle": [
+    "Oracle_client2.jpg"
+  ],
+  "Procedimentos a serem seguidos na Apuração de ICMS": [
+    "Apuracao4.jpg",
+    "Apuração.jpg"
+  ],
+  "Processo da Tesouraria - Fechamento PDVs": [
+    "Digita_tesouraria_pdvs.png",
+    "Grava_todos_pdvs_tesour_caixa2.png",
+    "Efetua_fech_tesouraria_conc.png",
+    "Grava_todos_pdvs_tesour_caixa.png",
+    "Grava_todos_pdvs_tesour_caixa3.png",
+    "Efetua_fech_tesouraria.png"
+  ],
+  "Produto": [
+    "Parametro_produto.png"
+  ],
+  "Produto para Produção": [
+    "Operacao_producao.png",
+    "Producao_producao.png",
+    "Produto_quant_prod.png"
+  ],
+  "Produto para Produção - Como alterar o custo": [
+    "Produto_alt_custo_prod.png",
+    "Producao_producao.png",
+    "Config_alt_custo.png",
+    "Oper_alt_custo.png"
+  ],
+  "Produtos": [
+    "Inclusao_produtos_concorrencia.png"
+  ],
+  "Produtos Compostos - Processo de transformação na movimentação do estoque": [
+    "Transformacao_movimentacao.jpg"
+  ],
+  "Produtos Compostos com descontos no frente de loja (PDV)": [
+    "Descontocomposto.png",
+    "Itemcomposto.png"
+  ],
+  "Produtos Para Reposição de Gôndola": [
+    "Importacao_rep_gondola.PNG",
+    "Inclusao_rep_gondola.png",
+    "Funcionalidades_rep_produto.png",
+    "Imp_produtos_reposicao_gond.PNG",
+    "Confirma_rep_gondola.PNG",
+    "Consulta_rep_gondola.png"
+  ],
+  "Produtos Vinculados": [
+    "Vinculados_certo.png",
+    "Vinculados_faturamento.png.png",
+    "Vinculados_faturamento_op.png.png",
+    "Vinculados_faturamento_config.png.png",
+    "Vinculados.png"
+  ],
+  "Produtos da Cotação": [
+    "Produtos_cotacao_precos.png"
+  ],
+  "Produtos de Família ter mesmo Preço de Venda": [
+    "Configurações_Gerais.png",
+    "Reajuste_Familia.png"
+  ],
+  "Programação de Pagamentos": [
+    "ProgramacaoPagto.JPG",
+    "Dia_fixo.JPG",
+    "Prazo_fixo.JPG",
+    "Tipo_vencimento.JPG",
+    "Prazo_fixo2.JPG",
+    "Gera_contas_programadas.JPG",
+    "Confirma_gravação_no_contas_a_pagar.JPG"
+  ],
+  "Promoção com vigência em determinado período": [
+    "Inclusaoitenspromocao_vigencia.png"
+  ],
+  "Promoção com vigência indeterminada": [
+    "Inclusaoitenspromocao_vigencia_indeterminada.png"
+  ],
+  "Promoções cadastradas no Superus não são exibidas em algumas máquinas": [
+    "FormPromocaoCadRegedit.png",
+    "Regedit.png",
+    "TFormPromocaoRegedit.png",
+    "Promocao_vazia.png",
+    "SmartManagerRegedit.png",
+    "SuperusRegedit.png"
+  ],
+  "Quais os nomes dos arquivos texto que devem ser gerados para balanças Toledo?": [
+    "Cad_loja_balanca_caminhos.png"
+  ],
+  "Qual a finalidade da opção Exporta Nielsen no relatório de Vendas?": [
+    "Vendas_rel_exp_nielsen.png"
+  ],
+  "Qual a finalidade da opção Gera inventário com estoque de Lojas Relacionadas?": [
+    "Rel_lojas_acum_est.png",
+    "Gera_invent_lojas_rel.png"
+  ],
+  "Quando deve ser realizada a rotina de Sincronização de Produtos?": [
+    "Sincronizacao_produtos.png"
+  ],
+  "Rateio de Centro de Custos": [
+    "RateioCentroCustosPagarInc.jpg",
+    "BtnIncRatCentCustosPagar.jpg"
+  ],
+  "Reabertura de Caixa": [
+    "ReaberturaCxFechado.JPG"
+  ],
+  "Realiza Negociação de Recebimentos": [
+    "TelaNegociacaoRecebimento.jpg",
+    "BtnNegRecebimento.jpg",
+    "BtnConfNegRec.jpg",
+    "TelaRecComNegRecGerada.jpg"
+  ],
+  "Realizando a compra com base na quantidade calculada sugerida": [
+    "188312_geracao.png",
+    "Geracao.PNG"
+  ],
+  "Realizando um Pedido de compra": [
+    "Novo_pedido.png",
+    "Aba_Dados_Fornecedor.png",
+    "Pedido.png",
+    "Cabeçalho_pedido_de_compra.png",
+    "Aba_Produtos.png",
+    "Aba_Desc_Bonificacoes.png",
+    "Emite_pedido_compra.png",
+    "Fornecedor.png",
+    "Aba_Dados_Entrega.png",
+    "Botao_Gerador_de_Compras_F8.png",
+    "Aba_Dados_Financeiros.png"
+  ],
+  "Realizar Integração": [
+    "TelaIntegracaoSystax.jpg"
+  ],
+  "Realizar a importação do XML online da integração fiscal FGF": [
+    "BuscaXMLonlineFGF.jpg"
+  ],
+  "Realizar geração do arquivo TXT": [
+    "TelaIntegracaoSystax.jpg"
+  ],
+  "Recalculando Produto Composto": [
+    "Recalculo_produto_composto.JPG"
+  ],
+  "Recalculando pedidos de compras nas alterações fiscais": [
+    "Recalcula_pedidos_compras_fiscais.JPG"
+  ],
+  "Recebimento da Cotação Digitada": [
+    "Botao_sincroniza_cotacao.png",
+    "Cotacao_botao_sincroniza.png"
+  ],
+  "Recebimento de contas através de PDV": [
+    "TelaCadastroCaixa.jpg"
+  ],
+  "Recusa de NF": [
+    "BotaoRecusa.jpg",
+    "StatusRecusada.jpg"
+  ],
+  "Registro da Midas.dll": [
+    "Prompt_caminho_sys32.png",
+    "Pasta_superus_arquivo_midas.png",
+    "Prompt_exec_admin.png",
+    "Exec_admin.png",
+    "Prompt_midas_dll.png",
+    "Pasta_system32_midas.png",
+    "Sucess_midas_dll.png",
+    "Menu_iniciar_prompt.png"
+  ],
+  "Rejeição NFe 104 - EStringListError: List index out of bounds (3)": [
+    "XRejeicao106Lotenaoencontrado.png",
+    "NumeracaoNFCadastroLoja.png",
+    "Rejeicao104.png",
+    "Rejeicao106Lotenaoencontrado.png",
+    "XRejeicao104.png"
+  ],
+  "Rejeição NFe 106 - Lote não localizado": [
+    "Disponibilidade.png"
+  ],
+  "Rejeição NFe 225 - Falha no Schema XML do lote de Nfe": [
+    "VisualizarXML.jpg",
+    "SalvarXML.jpg",
+    "CopiarXML.jpg",
+    "ValidacaoXML.jpg"
+  ],
+  "Rejeição NFe 297 - Emissor Sefaz - Assinatura difere do calculado": [
+    "ProcessoCorrecaoAssi.jpg",
+    "ErroAssiEmissor.jpg"
+  ],
+  "Rejeição NFe 328 - CFOP de devolução de mercadoria para NF-e que não tem finalidade de devolução de mercadoria": [
+    "ProcessoCorrecaoAssi.jpg",
+    "Rejeicao328.jpg"
+  ],
+  "Rejeição NFe 578 - Data do evento não pode ser maior que a data de processamento": [
+    "AlterarDataHora.jpg",
+    "AjustarAutomaticamente.jpg"
+  ],
+  "Rejeição NFe 806 - Operação com ICMS-ST sem informação do CEST": [
+    "Rejeicao806Cest.png"
+  ],
+  "Rejeição NFe 840 - NCM de medicamento e nao informado o grupo de medicamento (med) nItem:000": [
+    "Rejeicao840Controlado.png",
+    "Rejeicao840RegANVISA.png"
+  ],
+  "Relatório Vendas/Compras": [
+    "Vendas-compras1.png",
+    "Vendas-compras2.png",
+    "Vendas-config.png"
+  ],
+  "Relatório de Cupons Cancelados não exibe o nome dos Operadores e Supervisores": [
+    "Rel_cancelados_op.png"
+  ],
+  "Relatório de Pis e Cofins no sistema Superus": [
+    "RelPisCofinsSuperus.jpg"
+  ],
+  "Relatório de Retenção de Impostos": [
+    "FiltrosRelRetImpostos.JPG"
+  ],
+  "Relatório de Trocas de Produtos após impressão do pedido de compras": [
+    "Rel_troca_pedido_compras_config.JPG",
+    "Config.JPG"
+  ],
+  "Remover o client do Oracle atual": [
+    "Oracle_variavel_path.png",
+    "Oracle_tns.png"
+  ],
+  "Reparar a instalação do Microsoft .NET Framework": [
+    "Dotnet4_versao_superior.png",
+    "Dotnet_programas_instalados.png",
+    "Dotnet4.5_reparar.png",
+    "Dotnet4.5_progress.png",
+    "Dotnet4.5_instal_reparar.png"
+  ],
+  "Replicar Grade Tributária": [
+    "CadEstadoFiguraFiscal.jpg",
+    "CadastroFiguraReplicacao.jpg"
+  ],
+  "Replicar um pedido de faturamento já existente": [
+    "Mensagem_confirmação.PNG",
+    "Replicar_pedido3.PNG",
+    "Mensagem_conclusão.PNG"
+  ],
+  "Reprocessar cupons divergentes": [
+    "Cupons_divergentes_verificacao_econect.png",
+    "Reprocesso_cupons_divergentes_verificacao_econect.png"
+  ],
+  "Reprocesso de Movimento Fiscal (Cartões)": [
+    "Linneron.png",
+    "Rotina1.png",
+    "Rotina2.png"
+  ],
+  "Resumo de Lançamento Financeiro": [
+    "1.JPG",
+    "Resumo1.jpg",
+    "Resumo2.jpg",
+    "Resumo3.jpg"
+  ],
+  "Resumo de Tipos de Movimentação de Caixa": [
+    "1.JPG",
+    "R1.jpg"
+  ],
+  "Retenção de impostos de renda pessoa física": [
+    "TabelaIRPF.jpg"
+  ],
+  "Retenção de impostos em venda de mercadorias para Orgão Publico": [
+    "OP1.png",
+    "OPP3.png",
+    "OP4.png",
+    "OPPP2.png"
+  ],
+  "Retenção no Cadastro do fornecedor": [
+    "Cadastro_Fornecedor.JPG"
+  ],
+  "Retirar Agrupamento de Pedidos": [
+    "Confirma_desgrupamento.jpg",
+    "Desagrupamento_realizado.jpg",
+    "Menu_Retira_Agrupamento.jpg"
+  ],
+  "Retornar ao status - pendente - de uma NFe Recusada": [
+    "Wiki.png",
+    "ENTRADAWIKI.png",
+    "MANIFESTOWIKI.png"
+  ],
+  "Retornar custos alterados pela emissão do pedido de compras": [
+    "Retorna_custo_canc_pedido.JPG"
+  ],
+  "Retorno 96 na consulta de clientes": [
+    "Configbloqueioautomaticovalidadecad.png",
+    "Cadclientesvalidadecadastro.png"
+  ],
+  "Retorno 97 na consulta de clientes": [
+    "Cad_clientes_inativo.png"
+  ],
+  "Retorno 98 na consulta de clientes": [
+    "Cad_clientes_cheq_vista.png"
+  ],
+  "Retorno 99 na consulta de clientes": [
+    "Cad_clientes_op_cooperado.png",
+    "Cad_clientes_op_preferencial.png"
+  ],
+  "SEGUNDO PREÇO": [
+    "Segundo_preco_novo.png",
+    "Novo.png"
+  ],
+  "SPED - EFD CONTRIBUIÇÕES": [
+    "Apurapiscofins.jpg",
+    "Codigotipocredito.jpg",
+    "Registro1010.jpg",
+    "Spedcontribuicoes.jpg",
+    "Enviarspedctb.jpg",
+    "Serviços.jpg",
+    "Jubs.jpg",
+    "Cfop.jpg",
+    "Registro0110.jpg",
+    "Permiteusuarioctb.jpg",
+    "RegistroM.jpg",
+    "Contacontabilcfop.jpg",
+    "Botaocaminhoctb.jpg",
+    "Contabilista.jpg"
+  ],
+  "SPED - EFD ICMS/IPI": [
+    "BOTÃO.jpg",
+    "Menufiscal.jpg",
+    "Escrituracao.jpg",
+    "Spedicms.jpg",
+    "SPED.jpg",
+    "Serviços.jpg",
+    "Jubs.jpg",
+    "Contabilista.jpg"
+  ],
+  "SPED Reinf": [
+    "1.JPG",
+    "Telainclusao11.jpg",
+    "Reinf1.jpg",
+    "Telaescrituracao22.jpg",
+    "Telaescrituracao3.jpg",
+    "Statusservico.jpg"
+  ],
+  "ST Retido no Custo Líquido dos Produtos": [
+    "Stretido.png",
+    "Recalcular.png"
+  ],
+  "Saldo de caixa não aparece no relatório de fluxo de caixa": [
+    "Rel_fluxo_saldocx.png",
+    "Config_exibe_saldocx.png"
+  ],
+  "Saldo em novos pedidos": [
+    "Bonificacao_label.png"
+  ],
+  "Seleção do layout de impressão da DANFE.": [
+    "NFE.jpg",
+    "RetratoPaisagemDANFE.jpg"
+  ],
+  "Serviço Superus - Fechamento Convênio Cooperado": [
+    "Servico_superus_fechconvcoop.png"
+  ],
+  "Somente usuários supervisores conseguem Executar Select": [
+    "Permissao_acesso_criar_select.png",
+    "Nao_foi_encontrada_consulta_permissao.png"
+  ],
+  "Substituição Tributária no Supers": [
+    "Tds.png",
+    "CFOP.png",
+    "Colunas.png",
+    "CFOPPESQUISA.png",
+    "Atualiza.png",
+    "Utilitarios.png",
+    "Divergencia.png"
+  ],
+  "Substituição Tributária no Superus": [
+    "Valordestacadoxml.png",
+    "Utilizapauta2.png",
+    "Naoincidircusto.png",
+    "Utilizafigurafiscal.png",
+    "Figurafiscal.png",
+    "Verificapauta.png",
+    "Importastretida.png"
+  ],
+  "Superus - Cadastros - Clientes - Cadastro de E-mail": [
+    "Cad_cliente_e-mailpadrao.png"
+  ],
+  "Superus - Cadastros - Convênios - Fechamento Automático": [
+    "Convenio.png",
+    "Cliente.png",
+    "Conv_fechauto_caixa_porconvenio.png",
+    "Conv_fech_auto_contarec_porcliente.png",
+    "Conv_fech_autom_e-mailnotfech.png",
+    "Conv_fechauto_contarec_porconvenio.png"
+  ],
+  "Superus - Cadastros - Lojas - Boleto Fechamento Cooperado": [
+    "Cad_loja_boletofechcoop.png",
+    "User_correiosup_validaenvio.png"
+  ],
+  "TAXA DO PIX NA CONTA CORRENTE": [
+    "Mn_sus.jpg",
+    "Pix_cr.jpg",
+    "Tx_pix.jpg",
+    "Cr_mv.jpg",
+    "Pix.jpg"
+  ],
+  "Tabela de Clientes": [
+    "Cadastro_for_cliente.PNG",
+    "Pedido_fat_tabela.PNG",
+    "Cliente.png",
+    "OP_fat_1.PNG",
+    "Tabela_precos_principal.PNG",
+    "Op_fat_2.PNG",
+    "Tabela_precos_edicao.PNG"
+  ],
+  "Tabela de Preço: Modelo 1": [
+    "Tabela_preco_modelo1.png"
+  ],
+  "Tabela de Preço: Modelo 3": [
+    "BtnImportaArquivoPrecos.jpg",
+    "Importacao_arq_tabela_precos.jpg",
+    "Importacao_arq_tabela_precos1.jpeg"
+  ],
+  "Tela de Monitoramento de Serviços": [
+    "Monitoramento.jpg"
+  ],
+  "Tela de inclusão da NF no conhecimento de frete": [
+    "NfNoConhcInc.jpg",
+    "vinculo"
+  ],
+  "Tesouraria - Cancelamento de Tesouraria lançada no caixa": [
+    "TesourariaCancel.jpg",
+    "Tesouraria.jpg",
+    "BtnCancelTesouraria.jpg"
+  ],
+  "Tesouraria - Divergência entre mapa resumo e PDVs": [
+    "Tesouraria.jpg"
+  ],
+  "Teste Wiki": [
+    "Wiki.png",
+    "Testewiki.png"
+  ],
+  "Tipo Produto Composto": [
+    "TIPO_COMPOSTO.JPG"
+  ],
+  "Tipo de Controle - Por CMV/ Loja/ %Participação": [
+    "Lim_compras_comprador.jpg"
+  ],
+  "Tipo de Controle - Por CMV/ Loja/ %Participação.": [
+    "Lim_compras_comprador.jpg"
+  ],
+  "Tipo de Controle - Por CMV/ Loja/ Participação": [
+    "Limte_compras_fornecedor_analise_vendas.png",
+    "Limte_compras_fornecedor.png",
+    "Limte_compras_fornecedor_CMV.png",
+    "Limte_compras_fornecedor_usuario.png",
+    "Fornecedor.png"
+  ],
+  "Tipo de Controle utilizado no Limite de Compras": [
+    "Limte_compras_controle.png",
+    "Limte_compras_bloqueio.png"
+  ],
+  "Tipo de Etiqueta Cliente para Impressão Windows": [
+    "Layout_tipo_win_cli_simples.png",
+    "Layout_prod_tipo_win_cli.png"
+  ],
+  "Tipo de Etiqueta Produto para Impressão Windows": [
+    "Inc_cod_barra_layout_prod_simples.png",
+    "Layout_prod_tipo_win.png",
+    "Layout_prod_tipo_win_prod_cod_barra.png"
+  ],
+  "Tipo de Movimento: Incidência de notas no Sped Fiscal e Contribuições": [
+    "TipoMovimento.png",
+    "TipoMovimento2.png"
+  ],
+  "Tipo de Movimento: parâmetro CFOP": [
+    "Exemplo.jpg"
+  ],
+  "Todos os produtos ficarem com cst 051 (apenas que não são substituição) na transferência": [
+    "NfDiferidaTrans.jpg"
+  ],
+  "Trabalhando Offline": [
+    "EscritFisc_Importa.png",
+    "EscritFisc_Importa1.png"
+  ],
+  "Trabalhando Online": [
+    "EscritFisc_Config.png"
+  ],
+  "Transferência de Mercadorias entre Lojas": [
+    "Im_transf_loja.png"
+  ],
+  "Transformação de pedido em nota fiscal de cupom fiscal": [
+    "188973_cupom.png",
+    "188973_pedi.png",
+    "188973_diver.png"
+  ],
+  "Transmitir a NF-e pelo emissor da SEFAZ": [
+    "TransmitirNFESEFAZ.jpg"
+  ],
+  "Tributo Fácil": [
+    "TributoAbaInteg.png",
+    "LojaIntegTributoFacil.jpg"
+  ],
+  "Troca de cheque no caixa": [
+    "Transferenciaparamodulo.jpg"
+  ],
+  "Unificação do processo de envio para coletor e recebimento eletrônico": [
+    "Envio_para_wms.JPG",
+    "Botao_envia_recebimento_coletor.JPG",
+    "Deseja_gerar_enviar_wms.JPG",
+    "Deseja_gerar_romaneio_cego.JPG",
+    "Deseja_liberar_para_wms.JPG"
+  ],
+  "Usuário comprador liberando ou bloqueando a solicitação de permissão": [
+    "188288_solici.png",
+    "188288_botap.png"
+  ],
+  "Usuário informa": [
+    "187087_inc_fin_usu.png"
+  ],
+  "Usuário não consegue alterar o layout na impressão de etiqueta térmica": [
+    "Cadastro_usuarios.PNG",
+    "Impressao_etiquetas.PNG"
+  ],
+  "Usuário não consegue incluir o centro de custos na inclusão de lançamentos de conta corrente": [
+    "Cad_hist_banc.png",
+    "Inc_lanc_ccorrente.png"
+  ],
+  "Usuário sem permissão para acessar o Relatório de Produtos": [
+    "Login_cad_produto.png",
+    "Cad_usuario.png",
+    "Rel_cad_produtos.png"
+  ],
+  "Utilizando Loja Troca da Origem na inclusão de Pedido": [
+    "Operacao_loja_troca_origem.JPG"
+  ],
+  "Utilizando a conferência de nota fiscal de entrada": [
+    "Utilizaconferenciadenota_3.JPG",
+    "Utilizaconferenciadenota_2.JPG"
+  ],
+  "Utilizando a solicitação de liberação ao comprador para Liberar produtos no WMS": [
+    "188288_Seg.png",
+    "188288_btlib.png",
+    "188288_aten.png",
+    "188288_busaut.png",
+    "188288_conf.png"
+  ],
+  "Utilizar alíquota diferida": [
+    "AliquotaDiferida2.jpg",
+    "vinculo"
+  ],
+  "Utilização da instrução do tipo de composto": [
+    "Instrucoesparatipodecomposto3.JPG",
+    "Instrucoesparatipodecomposto2.JPG"
+  ],
+  "Vale Gás": [
+    "Valegas2.png",
+    "Valegas1.png",
+    "Valegas3.png",
+    "Valegas4.png"
+  ],
+  "Validade Produto Coletor de Entrada": [
+    "Divergente.png",
+    "Notas_coletor.png",
+    "Validade_divergente.png",
+    "Logar_coletor.png"
+  ],
+  "Validade do Produto": [
+    "Flag.jpg",
+    "Permissao.jpg",
+    "Parametro_fornecedor.png",
+    "Sem_validade.png",
+    "Parametro_produto.png",
+    "Parametro_prod_sem_validade.png",
+    "Fornecedor.png"
+  ],
+  "Validar CFOP por tipo de tributação": [
+    "CfopValidar.jpg"
+  ],
+  "Validar combinação de CST do produto": [
+    "FlagValidaCST.jpg"
+  ],
+  "Validar o NCM do produto de acordo com a tabela IBPT": [
+    "NcmNaoConstaIBPT.jpg"
+  ],
+  "Validação na atualização da Nota Fiscal": [
+    "Devoluçao_atualizacao4.jpg"
+  ],
+  "Valor Total de Devoluções e Trocas na impressão do Pedido de Compras": [
+    "Conf_imprime_totais.jpg",
+    "Imp_pedido_totais.jpg"
+  ],
+  "Valor da ST permanece zerado em uma nota de faturamento, mesmo com as grades e pautas corretas": [
+    "UtilizaFiguraFiscal.jpg"
+  ],
+  "Valor do Flash de Vendas não confere com a venda líquida do Mapa Resumo": [
+    "Faqdivflashvenda.jpg"
+  ],
+  "Valor máximo permitido para o item no pedido de faturamento": [
+    "Valor_max_permi.png",
+    "Valor_max_oper.png",
+    "Valor_max_bloq.png"
+  ],
+  "Valores mínimo para geração de devolução": [
+    "Devoluçao_atualizacao2.jpg"
+  ],
+  "Variação Mínima para Aumento/Rebaixe de Preço": [
+    "Variacao_nota.png",
+    "Variacao_ignora.png",
+    "Variacao_loja.png",
+    "Variacao_oper.png"
+  ],
+  "Variação máxima de divergência de preços entre nota e pedido em % e $ por usuário": [
+    "vinculo"
+  ],
+  "Vendas ECF": [
+    "EscritFisc_ECF.png"
+  ],
+  "Verificar a quantidade de consumo dos serviços da SEFAZ": [
+    "MonitoramentoServicos.jpg",
+    "NfeControleServicos.jpg"
+  ],
+  "Versão NF-e 3.0": [
+    "NFE.jpg",
+    "NotaImportacaoNfe30.jpg",
+    "AutorizacaoNFe.jpg"
+  ],
+  "Vincular devolução a uma Conta a Pagar para abatimento": [
+    "Tela_devolucao.jpg",
+    "Escolhercontas.jpg"
+  ],
+  "Vincular uma figura fiscal ao NCM": [
+    "NcmFiguraFiscal.jpg",
+    "UtilizaInfosFigura.jpg"
+  ],
+  "Vinculo da NF no conhecimento de frete": [
+    "VinculoNFnoConhecimento.jpg",
+    "vinculo"
+  ],
+  "Vinculo de alíquota no cadastro do produto": [
+    "AliquotasCadProduto.jpg",
+    "vinculo"
+  ],
+  "Vinculo do conhecimento na NF": [
+    "VinculoConhecimentoNaNF.jpg",
+    "vinculo"
+  ],
+  "Vinculo do imposto no cadastro do fornecedor": [
+    "Cadastro_fornecedor_impostos.jpg"
+  ],
+  "Visualização da consulta do destinatário": [
+    "Consulta_situacao_fiscal.jpg"
+  ],
+  "Vínculo da(s) grade(s) tributária(s) na Figura Fiscal": [
+    "Grade_incluida.png",
+    "Inclui_grade.png",
+    "Escolhe_grade.png"
+  ],
+  "Vínculo da chave do usuário do site ao usuário do Superus": [
+    "Cotacao_web_usuarios.png",
+    "Cotacao_web_cadastro_chave_grid.png",
+    "BtnSalvar.jpg",
+    "Cad_usuarios_cot_chave_acess.png"
+  ],
+  "Vínculo da pauta/margem na grade tributária (produtos do tipo substituição)": [
+    "Escolhe_pauta.png",
+    "Salva_grade_pauta.png"
+  ],
+  "Wiki da fer": [
+    "Operação_fat_dev.PNG"
+  ],
+  "Wiki teste": [
+    "StatusRecusada.jpg"
+  ],
+  "É possível abrir o Pedido/Nota que deu origem a devolução na própria de tela Controle de Devoluções?": [
+    "Devolucao.png",
+    "Cons_pednota_devolucao.png"
+  ],
+  "É possível alterar manualmente os valores do flash de vendas?": [
+    "Flash_vendas.png"
+  ],
+  "É possível baixar o Ticket no momento do envio?": [
+    "Faz_env_todos_reg.png",
+    "Faz_env_reg_atual.png",
+    "Baixa_todos_reg_env.png",
+    "Baixa_reg_env.png",
+    "Conf_baixa_tick_envio.png"
+  ],
+  "É possível bloquear a venda de um produto no PDV E-conect?": [
+    "Produtos_vigencia.png",
+    "Produtos_btn_inativa.png"
+  ],
+  "É possível configurar para que a pré venda não seja importada automaticamente pelo E-conect?": [
+    "Config_imp_pedido_frente_loja.png",
+    "Btn_envia_pedido_cap_pdv.png"
+  ],
+  "É possível enviar tickets à conta corrente com o valor líquido e sem o valor da taxa?": [
+    "Config_receb_tickt.png",
+    "Mov_conta_corrente.png",
+    "Conta_corrente.png",
+    "Mov_conta_corrente2.png"
+  ],
+  "É possível imprimir ou exportar em arquivo PDF boletos das contas selecionadas?": [
+    "Exp_boletos_selec.png",
+    "Contas_receber_mov.png",
+    "Imp_boletos_selec.png",
+    "Imp_exp_boletos_selec.png"
+  ],
+  "É possível lançar taxa em uma conta corrente separada?": [
+    "Cad_conta_taxa.png"
+  ],
+  "É possível trocar o cliente de uma conta de cooperados no Superus?": [
+    "Botao_troca_conta_coop.png",
+    "Troca_conta_coop.png"
+  ]
+}
