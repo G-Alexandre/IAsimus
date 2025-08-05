@@ -2,73 +2,41 @@ import requests
 import time
 import json
 import random
+import os
+from datetime import datetime
+from pathlib import Path
 from requests.exceptions import ConnectionError, ReadTimeout
 
 API_URL = "https://www.simus.com.br/wiki/api.php"
 USERNAME = "cliente"
 PASSWORD = "simus"
+ARQUIVO_JSON = "wiki_simus.json"
 
 session = requests.Session()
+HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
 
-HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-}
+# Login
+def login():
+    token = session.get(API_URL, params={"action": "query", "meta": "tokens", "type": "login", "format": "json"}, headers=HEADERS).json()["query"]["tokens"]["logintoken"]
+    r = session.post(API_URL, data={"action": "login", "lgname": USERNAME, "lgpassword": PASSWORD, "lgtoken": token, "format": "json"}, headers=HEADERS)
+    return r.json()["login"]["result"] == "Success"
 
-# Passo 1: Obter token de login
-params1 = {
-    "action": "query",
-    "meta": "tokens",
-    "type": "login",
-    "format": "json"
-}
-r1 = session.get(API_URL, params=params1, headers=HEADERS)
-
-if r1.status_code != 200:
-    print("Erro na requisição inicial:", r1.status_code)
-    print(r1.text)
+if not login():
+    print("❌ Erro ao fazer login.")
     exit()
 
-try:
-    login_token = r1.json()["query"]["tokens"]["logintoken"]
-except Exception as e:
-    print("Erro ao obter token de login:", e)
-    print("Resposta bruta:", r1.text)
-    exit()
+# Carrega titulos já existentes
+if os.path.exists(ARQUIVO_JSON):
+    with open(ARQUIVO_JSON, "r", encoding="utf-8") as f:
+        paginas_existentes = json.load(f)
+        titulos_existentes = {p["titulo"] for p in paginas_existentes}
+else:
+    paginas_existentes = []
+    titulos_existentes = set()
 
-# Passo 2: Login
-params2 = {
-    "action": "login",
-    "lgname": USERNAME,
-    "lgpassword": PASSWORD,
-    "lgtoken": login_token,
-    "format": "json"
-}
-r2 = session.post(API_URL, data=params2, headers=HEADERS)
-
-if r2.status_code != 200 or r2.json().get("login", {}).get("result") != "Success":
-    print("Erro ao fazer login:", r2.status_code)
-    print(r2.text)
-    exit()
-
-# Passo 3: Obter token CSRF
-params3 = {
-    "action": "query",
-    "meta": "tokens",
-    "format": "json"
-}
-r3 = session.get(API_URL, params=params3, headers=HEADERS)
-
-if r3.status_code != 200:
-    print("Erro ao obter token CSRF:", r3.status_code)
-    print(r3.text)
-    exit()
-
-csrf_token = r3.json()["query"]["tokens"]["csrftoken"]
-
-# Passo 4: Listar todos os títulos
-titulos = []
+# Lista todas as páginas da Wiki
+titulos_novos = []
 apcontinue = ""
-print("Listando títulos...")
 while True:
     params = {
         "action": "query",
@@ -81,24 +49,24 @@ while True:
 
     r = session.get(API_URL, params=params, headers=HEADERS)
     if r.status_code != 200:
-        print("Erro ao listar páginas:", r.status_code)
+        print("❌ Erro ao listar páginas:", r.status_code)
         break
 
     data = r.json()
-    titulos += [p["title"] for p in data["query"]["allpages"]]
+    for p in data["query"]["allpages"]:
+        titulo = p["title"]
+        if titulo not in titulos_existentes:
+            titulos_novos.append(titulo)
+
     if "continue" in data:
         apcontinue = data["continue"]["apcontinue"]
     else:
         break
 
-print(f"Total de páginas encontradas: {len(titulos)}")
-
-# Passo 5: Obter conteúdo das páginas com retry
-paginas = []
-print("Coletando conteúdos...")
-
-for i, titulo in enumerate(titulos, start=1):
-    for tentativa in range(5):  # até 5 tentativas
+# Busca conteúdos das novas páginas
+novas_paginas = []
+for i, titulo in enumerate(titulos_novos, 1):
+    for tentativa in range(5):
         try:
             params = {
                 "action": "query",
@@ -112,20 +80,25 @@ for i, titulo in enumerate(titulos, start=1):
             pages = r.json()["query"]["pages"]
             for _, page in pages.items():
                 conteudo = page.get("revisions", [{}])[0].get("*", "")
-                paginas.append({"titulo": titulo, "conteudo": conteudo})
-            break  # sucesso, sai do retry
+                novas_paginas.append({"titulo": titulo, "conteudo": conteudo})
+            break
         except (ConnectionError, ReadTimeout) as e:
-            print(f"[{i}/{len(titulos)}] Erro de conexão em '{titulo}', tentativa {tentativa + 1}/5: {e}")
-            time.sleep(2 ** tentativa + random.uniform(0, 1))  # backoff com jitter
+            time.sleep(2 ** tentativa + random.uniform(0, 1))
         except Exception as e:
-            print(f"[{i}/{len(titulos)}] Erro inesperado em '{titulo}': {e}")
             break
 
-    if i % 10 == 0:
-        print(f"{i}/{len(titulos)} páginas processadas...")
+# Junta as novas páginas ao arquivo antigo
+paginas_finais = paginas_existentes + novas_paginas
+with open(ARQUIVO_JSON, "w", encoding="utf-8") as f:
+    json.dump(paginas_finais, f, indent=2, ensure_ascii=False)
 
-# Passo 6: Salvar os dados
-with open("wiki_simus.json", "w", encoding="utf-8") as f:
-    json.dump(paginas, f, indent=2, ensure_ascii=False)
+# Cria a pasta log e salva status com data
+Path("log").mkdir(exist_ok=True)
+data_atual = datetime.now().strftime("%d_%m_%Y")
+nome_arquivo_status = f"log/status_atualizacao_{data_atual}.txt"
 
-print("Extração finalizada! Dados salvos em 'wiki_simus.json'")
+with open(nome_arquivo_status, "w", encoding="utf-8") as f:
+    if novas_paginas:
+        f.write(f"Foram extraídas {len(novas_paginas)} novas wikis.")
+    else:
+        f.write("Não foi encontrada nenhuma nova atualização.")

@@ -69,13 +69,18 @@ while True:
         break
 
 print(f"Total de imagens encontradas: {len(imagens)}")
-print("Iniciando downloads...")
+print("Iniciando downloads (somente novas imagens)...")
 
-# 4. Baixar imagens com retry
+# 4. Baixar imagens com retry (somente se ainda não existem)
+novas_baixadas = 0
 for i, img in enumerate(imagens, start=1):
     nome = img["name"]
     url = img["url"]
     destino = os.path.join("imagens", nome)
+
+    # 👉 Pular se a imagem já existe
+    if os.path.exists(destino):
+        continue
 
     for tentativa in range(5):
         try:
@@ -83,6 +88,7 @@ for i, img in enumerate(imagens, start=1):
             r_img.raise_for_status()
             with open(destino, "wb") as f:
                 f.write(r_img.content)
+            novas_baixadas += 1
             break  # sucesso
         except (ConnectionError, ReadTimeout) as e:
             print(f"[{i}/{len(imagens)}] Erro ao baixar '{nome}', tentativa {tentativa+1}/5: {e}")
@@ -91,7 +97,7 @@ for i, img in enumerate(imagens, start=1):
             print(f"[{i}/{len(imagens)}] Falha inesperada em '{nome}': {e}")
             break
 
-    if i % 10 == 0:
-        print(f"{i}/{len(imagens)} imagens baixadas...")
+    if novas_baixadas % 10 == 0 and novas_baixadas > 0:
+        print(f"{novas_baixadas} novas imagens baixadas...")
 
-print("Download de imagens finalizado!")
+print(f"Download finalizado! Total de novas imagens baixadas: {novas_baixadas}")
