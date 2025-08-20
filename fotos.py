@@ -7,38 +7,29 @@ from requests.exceptions import ConnectionError, ReadTimeout
 API_URL = "https://www.simus.com.br/wiki/api.php"
 USERNAME = "cliente"
 PASSWORD = "simus"
-HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
-}
+HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
 
 session = requests.Session()
 
-# Criar pasta local para imagens
-if not os.path.exists("imagens"):
-    os.makedirs("imagens")
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+IMAGENS_DIR = os.path.join(BASE_DIR, "imagens")
+os.makedirs(IMAGENS_DIR, exist_ok=True)
 
 # 1. Obter token de login
-params1 = {
-    "action": "query",
-    "meta": "tokens",
-    "type": "login",
-    "format": "json"
-}
-r1 = session.get(API_URL, params=params1, headers=HEADERS)
+params1 = {"action": "query", "meta": "tokens", "type": "login", "format": "json"}
+r1 = session.get(API_URL, params=params1, headers=HEADERS, timeout=20)
+r1.raise_for_status()
 login_token = r1.json()["query"]["tokens"]["logintoken"]
 
 # 2. Fazer login
 params2 = {
-    "action": "login",
-    "lgname": USERNAME,
-    "lgpassword": PASSWORD,
-    "lgtoken": login_token,
-    "format": "json"
+    "action": "login", "lgname": USERNAME, "lgpassword": PASSWORD,
+    "lgtoken": login_token, "format": "json"
 }
-r2 = session.post(API_URL, data=params2, headers=HEADERS)
+r2 = session.post(API_URL, data=params2, headers=HEADERS, timeout=20)
 if r2.json().get("login", {}).get("result") != "Success":
     print("Erro ao logar:", r2.text)
-    exit()
+    raise SystemExit(1)
 
 # 3. Listar imagens
 imagens = []
@@ -46,20 +37,12 @@ aicontinue = ""
 print("Listando imagens...")
 
 while True:
-    params = {
-        "action": "query",
-        "list": "allimages",
-        "ailimit": "max",
-        "format": "json"
-    }
+    params = {"action": "query", "list": "allimages", "ailimit": "max", "format": "json"}
     if aicontinue:
         params["aicontinue"] = aicontinue
 
-    r = session.get(API_URL, params=params, headers=HEADERS)
-    if r.status_code != 200:
-        print("Erro ao buscar lista de imagens:", r.status_code)
-        break
-
+    r = session.get(API_URL, params=params, headers=HEADERS, timeout=30)
+    r.raise_for_status()
     data = r.json()
     imagens += data["query"]["allimages"]
 
@@ -71,33 +54,31 @@ while True:
 print(f"Total de imagens encontradas: {len(imagens)}")
 print("Iniciando downloads (somente novas imagens)...")
 
-# 4. Baixar imagens com retry (somente se ainda não existem)
 novas_baixadas = 0
 for i, img in enumerate(imagens, start=1):
     nome = img["name"]
     url = img["url"]
-    destino = os.path.join("imagens", nome)
+    destino = os.path.join(IMAGENS_DIR, nome)
 
-    # 👉 Pular se a imagem já existe
     if os.path.exists(destino):
         continue
 
     for tentativa in range(5):
         try:
-            r_img = session.get(url, headers=HEADERS, timeout=15)
+            r_img = session.get(url, headers=HEADERS, timeout=30)
             r_img.raise_for_status()
             with open(destino, "wb") as f:
                 f.write(r_img.content)
             novas_baixadas += 1
-            break  # sucesso
+            break
         except (ConnectionError, ReadTimeout) as e:
-            print(f"[{i}/{len(imagens)}] Erro ao baixar '{nome}', tentativa {tentativa+1}/5: {e}")
+            print(f"[{i}/{len(imagens)}] Erro em '{nome}', tentativa {tentativa+1}/5: {e}")
             time.sleep(2 ** tentativa + random.uniform(0, 1))
         except Exception as e:
             print(f"[{i}/{len(imagens)}] Falha inesperada em '{nome}': {e}")
             break
 
-    if novas_baixadas % 10 == 0 and novas_baixadas > 0:
+    if novas_baixadas and novas_baixadas % 10 == 0:
         print(f"{novas_baixadas} novas imagens baixadas...")
 
 print(f"Download finalizado! Total de novas imagens baixadas: {novas_baixadas}")
